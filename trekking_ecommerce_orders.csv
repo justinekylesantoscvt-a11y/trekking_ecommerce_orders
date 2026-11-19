@@ -1,0 +1,1292 @@
+order_id,customer_id,order_date,product_name,category,quantity,unit_price_php,discount_php,total_amount_php,currency,payment_method,shipping_city,courier,order_status,customer_rating
+ORD-10001,CUST-1057,2026-01-13,Compact Microfiber Towel,Accessories,1,320.0,100,220.0,PHP,Maya,Baguio,LBC,Delivered,4
+ORD-10002,CUST-1015,2026-02-17,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Maya,Davao City,J&T Express,Delivered,5
+ORD-10002,CUST-1015,2026-02-17,Insulated Hydration Flask 1L,Hydration,1,799.0,50,749.0,PHP,Maya,Davao City,J&T Express,Delivered,5
+ORD-10002,CUST-1015,2026-02-17,Solar Power Bank 20000mAh,Electronics,1,1490.0,50,1440.0,PHP,Maya,Davao City,J&T Express,Delivered,4
+ORD-10002,CUST-1015,2026-02-17,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Maya,Davao City,J&T Express,Delivered,5
+ORD-10003,CUST-1176,2026-05-16,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,Cash on Delivery,Manila,J&T Express,Completed,5
+ORD-10003,CUST-1176,2026-05-16,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Cash on Delivery,Manila,J&T Express,Completed,5
+ORD-10004,CUST-1051,2026-07-14,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Cash on Delivery,Baguio,Flash Express,Delivered,5
+ORD-10004,CUST-1051,2026-07-14,2-Person Ultralight Tent,Shelter,1,5800.0,50,5750.0,PHP,Cash on Delivery,Baguio,Flash Express,Delivered,3
+ORD-10005,CUST-1112,2026-06-16,Multi-Tool Pocket Knife,Accessories,1,890.0,100,790.0,PHP,Maya,Manila,J&T Express,Completed,5
+ORD-10005,CUST-1112,2026-06-16,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,Maya,Manila,J&T Express,Completed,5
+ORD-10005,CUST-1112,2026-06-16,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,Maya,Manila,J&T Express,Completed,3
+ORD-10006,CUST-1219,2026-10-26,Waterproof Trekking Shoes,Footwear,2,4250.0,0,8500.0,PHP,Credit Card,Taguig,LBC,Completed,5
+ORD-10007,CUST-1216,2026-02-02,Hiking Backpack 50L,Bags & Packs,1,3499.0,50,3449.0,PHP,Cash on Delivery,Taguig,Ninja Van,Delivered,5
+ORD-10007,CUST-1216,2026-02-02,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Cash on Delivery,Taguig,Ninja Van,Delivered,5
+ORD-10007,CUST-1216,2026-02-02,Portable Camping Stove,Cooking,2,1250.0,0,2500.0,PHP,Cash on Delivery,Taguig,Ninja Van,Delivered,3
+ORD-10007,CUST-1216,2026-02-02,First Aid Survival Kit,Safety,2,550.0,50,1050.0,PHP,Cash on Delivery,Taguig,Ninja Van,Delivered,3
+ORD-10007,CUST-1216,2026-02-02,Quick-Dry Hiking Pants,Apparel,1,1350.0,0,1350.0,PHP,Cash on Delivery,Taguig,Ninja Van,Delivered,5
+ORD-10008,CUST-1082,2026-10-04,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Bank Transfer,Manila,Flash Express,Delivered,3
+ORD-10009,CUST-1040,2026-02-13,Insulated Hydration Flask 1L,Hydration,2,799.0,0,1598.0,PHP,GCash,Makati,LBC,Delivered,5
+ORD-10009,CUST-1040,2026-02-13,Titanium Cookware Set,Cooking,1,1600.0,50,1550.0,PHP,GCash,Makati,LBC,Delivered,5
+ORD-10009,CUST-1040,2026-02-13,Portable Camping Stove,Cooking,2,1250.0,100,2400.0,PHP,GCash,Makati,LBC,Delivered,4
+ORD-10010,CUST-1126,2026-04-26,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Credit Card,Quezon City,J&T Express,Delivered,5
+ORD-10010,CUST-1126,2026-04-26,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Credit Card,Quezon City,J&T Express,Delivered,5
+ORD-10011,CUST-1248,2026-04-20,2-Person Ultralight Tent,Shelter,1,5800.0,100,5700.0,PHP,Bank Transfer,Cebu City,Ninja Van,Delivered,4
+ORD-10011,CUST-1248,2026-04-20,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Bank Transfer,Cebu City,Ninja Van,Delivered,4
+ORD-10011,CUST-1248,2026-04-20,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,50,1400.0,PHP,Bank Transfer,Cebu City,Ninja Van,Delivered,4
+ORD-10012,CUST-1127,2026-04-09,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Bank Transfer,Davao City,Ninja Van,Delivered,4
+ORD-10012,CUST-1127,2026-04-09,2-Person Ultralight Tent,Shelter,2,5800.0,0,11600.0,PHP,Bank Transfer,Davao City,Ninja Van,Delivered,5
+ORD-10013,CUST-1208,2026-09-06,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,100,380.0,PHP,Maya,Makati,Ninja Van,Completed,5
+ORD-10013,CUST-1208,2026-09-06,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Maya,Makati,Ninja Van,Completed,4
+ORD-10014,CUST-1296,2026-10-05,Multi-Tool Pocket Knife,Accessories,2,890.0,0,1780.0,PHP,Credit Card,Manila,J&T Express,Delivered,5
+ORD-10014,CUST-1296,2026-10-05,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Credit Card,Manila,J&T Express,Delivered,5
+ORD-10014,CUST-1296,2026-10-05,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Credit Card,Manila,J&T Express,Delivered,3
+ORD-10015,CUST-1020,2026-02-11,Insulated Hydration Flask 1L,Hydration,1,799.0,50,749.0,PHP,Bank Transfer,Taguig,Flash Express,Completed,5
+ORD-10015,CUST-1020,2026-02-11,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Bank Transfer,Taguig,Flash Express,Completed,4
+ORD-10016,CUST-1234,2026-10-16,2-Person Ultralight Tent,Shelter,2,5800.0,50,11550.0,PHP,GCash,Quezon City,LBC,Delivered,5
+ORD-10017,CUST-1080,2026-08-13,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Bank Transfer,Baguio,J&T Express,Delivered,3
+ORD-10017,CUST-1080,2026-08-13,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,50,1400.0,PHP,Bank Transfer,Baguio,J&T Express,Delivered,3
+ORD-10017,CUST-1080,2026-08-13,Portable Camping Stove,Cooking,1,1250.0,50,1200.0,PHP,Bank Transfer,Baguio,J&T Express,Delivered,5
+ORD-10018,CUST-1135,2026-09-16,Thermal Sleeping Bag,Sleep Gear,1,1850.0,100,1750.0,PHP,Credit Card,Makati,J&T Express,Delivered,3
+ORD-10018,CUST-1135,2026-09-16,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Credit Card,Makati,J&T Express,Delivered,4
+ORD-10018,CUST-1135,2026-09-16,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Credit Card,Makati,J&T Express,Delivered,3
+ORD-10019,CUST-1018,2026-07-09,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Cash on Delivery,Cebu City,LBC,Delivered,4
+ORD-10019,CUST-1018,2026-07-09,UV Protection Windbreaker,Apparel,1,1750.0,100,1650.0,PHP,Cash on Delivery,Cebu City,LBC,Delivered,3
+ORD-10020,CUST-1079,2026-05-02,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Maya,Cebu City,Ninja Van,Delivered,5
+ORD-10020,CUST-1079,2026-05-02,Hiking Backpack 50L,Bags & Packs,2,3499.0,100,6898.0,PHP,Maya,Cebu City,Ninja Van,Delivered,5
+ORD-10020,CUST-1079,2026-05-02,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,100,380.0,PHP,Maya,Cebu City,Ninja Van,Delivered,5
+ORD-10020,CUST-1079,2026-05-02,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Maya,Cebu City,Ninja Van,Delivered,5
+ORD-10021,CUST-1012,2026-04-09,First Aid Survival Kit,Safety,1,550.0,50,500.0,PHP,Credit Card,Taguig,Flash Express,Completed,4
+ORD-10021,CUST-1012,2026-04-09,Multi-Tool Pocket Knife,Accessories,1,890.0,100,790.0,PHP,Credit Card,Taguig,Flash Express,Completed,5
+ORD-10021,CUST-1012,2026-04-09,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,Credit Card,Taguig,Flash Express,Completed,5
+ORD-10021,CUST-1012,2026-04-09,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Credit Card,Taguig,Flash Express,Completed,5
+ORD-10021,CUST-1012,2026-04-09,Portable Camping Stove,Cooking,2,1250.0,0,2500.0,PHP,Credit Card,Taguig,Flash Express,Completed,5
+ORD-10022,CUST-1022,2026-08-12,Quick-Dry Hiking Pants,Apparel,1,1350.0,0,1350.0,PHP,Bank Transfer,Manila,LBC,Delivered,5
+ORD-10023,CUST-1259,2026-06-08,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Credit Card,Taguig,Ninja Van,Delivered,5
+ORD-10023,CUST-1259,2026-06-08,Hiking Backpack 50L,Bags & Packs,1,3499.0,100,3399.0,PHP,Credit Card,Taguig,Ninja Van,Delivered,3
+ORD-10023,CUST-1259,2026-06-08,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,50,430.0,PHP,Credit Card,Taguig,Ninja Van,Delivered,5
+ORD-10024,CUST-1226,2026-08-15,2-Person Ultralight Tent,Shelter,2,5800.0,0,11600.0,PHP,Bank Transfer,Davao City,Ninja Van,Shipped,5
+ORD-10024,CUST-1226,2026-08-15,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Bank Transfer,Davao City,Ninja Van,Shipped,5
+ORD-10024,CUST-1226,2026-08-15,Quick-Dry Hiking Pants,Apparel,1,1350.0,0,1350.0,PHP,Bank Transfer,Davao City,Ninja Van,Shipped,5
+ORD-10024,CUST-1226,2026-08-15,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Bank Transfer,Davao City,Ninja Van,Shipped,5
+ORD-10024,CUST-1226,2026-08-15,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Bank Transfer,Davao City,Ninja Van,Shipped,5
+ORD-10025,CUST-1253,2026-07-24,Waterproof Dry Bag 20L,Bags & Packs,2,480.0,100,860.0,PHP,Maya,Davao City,J&T Express,Completed,4
+ORD-10025,CUST-1253,2026-07-24,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Maya,Davao City,J&T Express,Completed,5
+ORD-10025,CUST-1253,2026-07-24,LED Rechargeable Headlamp,Lighting,1,650.0,100,550.0,PHP,Maya,Davao City,J&T Express,Completed,3
+ORD-10025,CUST-1253,2026-07-24,First Aid Survival Kit,Safety,2,550.0,50,1050.0,PHP,Maya,Davao City,J&T Express,Completed,5
+ORD-10026,CUST-1258,2026-08-07,Portable Camping Stove,Cooking,1,1250.0,100,1150.0,PHP,Maya,Makati,Ninja Van,Delivered,4
+ORD-10026,CUST-1258,2026-08-07,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Maya,Makati,Ninja Van,Delivered,5
+ORD-10026,CUST-1258,2026-08-07,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Maya,Makati,Ninja Van,Delivered,5
+ORD-10026,CUST-1258,2026-08-07,Quick-Dry Hiking Pants,Apparel,1,1350.0,100,1250.0,PHP,Maya,Makati,Ninja Van,Delivered,5
+ORD-10027,CUST-1109,2026-02-02,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,50,430.0,PHP,Cash on Delivery,Taguig,Flash Express,Delivered,5
+ORD-10027,CUST-1109,2026-02-02,Hiking Backpack 50L,Bags & Packs,1,3499.0,100,3399.0,PHP,Cash on Delivery,Taguig,Flash Express,Delivered,3
+ORD-10027,CUST-1109,2026-02-02,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Cash on Delivery,Taguig,Flash Express,Delivered,5
+ORD-10028,CUST-1112,2026-05-20,LED Rechargeable Headlamp,Lighting,2,650.0,0,1300.0,PHP,Cash on Delivery,Taguig,J&T Express,Delivered,5
+ORD-10028,CUST-1112,2026-05-20,Solar Power Bank 20000mAh,Electronics,1,1490.0,0,1490.0,PHP,Cash on Delivery,Taguig,J&T Express,Delivered,4
+ORD-10028,CUST-1112,2026-05-20,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Cash on Delivery,Taguig,J&T Express,Delivered,5
+ORD-10029,CUST-1093,2026-01-26,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,Cash on Delivery,Baguio,Flash Express,Delivered,5
+ORD-10029,CUST-1093,2026-01-26,Portable Camping Stove,Cooking,1,1250.0,100,1150.0,PHP,Cash on Delivery,Baguio,Flash Express,Delivered,4
+ORD-10030,CUST-1276,2026-01-27,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Maya,Dasmariñas,J&T Express,Shipped,5
+ORD-10030,CUST-1276,2026-01-27,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Maya,Dasmariñas,J&T Express,Shipped,3
+ORD-10030,CUST-1276,2026-01-27,Hiking Backpack 50L,Bags & Packs,2,3499.0,100,6898.0,PHP,Maya,Dasmariñas,J&T Express,Shipped,5
+ORD-10031,CUST-1188,2026-03-27,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,Maya,Quezon City,Flash Express,Delivered,4
+ORD-10032,CUST-1124,2026-02-22,First Aid Survival Kit,Safety,1,550.0,50,500.0,PHP,Bank Transfer,Baguio,J&T Express,Shipped,4
+ORD-10032,CUST-1124,2026-02-22,Multi-Tool Pocket Knife,Accessories,1,890.0,100,790.0,PHP,Bank Transfer,Baguio,J&T Express,Shipped,4
+ORD-10032,CUST-1124,2026-02-22,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,Bank Transfer,Baguio,J&T Express,Shipped,5
+ORD-10033,CUST-1078,2026-08-11,Solar Power Bank 20000mAh,Electronics,1,1490.0,0,1490.0,PHP,Bank Transfer,Cebu City,Flash Express,Delivered,5
+ORD-10033,CUST-1078,2026-08-11,Waterproof Dry Bag 20L,Bags & Packs,2,480.0,0,960.0,PHP,Bank Transfer,Cebu City,Flash Express,Delivered,5
+ORD-10033,CUST-1078,2026-08-11,Portable Camping Stove,Cooking,1,1250.0,100,1150.0,PHP,Bank Transfer,Cebu City,Flash Express,Delivered,5
+ORD-10033,CUST-1078,2026-08-11,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,Bank Transfer,Cebu City,Flash Express,Delivered,5
+ORD-10033,CUST-1078,2026-08-11,Multi-Tool Pocket Knife,Accessories,1,890.0,50,840.0,PHP,Bank Transfer,Cebu City,Flash Express,Delivered,5
+ORD-10034,CUST-1174,2026-05-24,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,100,380.0,PHP,Bank Transfer,Baguio,J&T Express,Delivered,5
+ORD-10034,CUST-1174,2026-05-24,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,Bank Transfer,Baguio,J&T Express,Delivered,5
+ORD-10035,CUST-1113,2026-07-27,First Aid Survival Kit,Safety,1,550.0,50,500.0,PHP,Credit Card,Davao City,Flash Express,Delivered,5
+ORD-10035,CUST-1113,2026-07-27,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Credit Card,Davao City,Flash Express,Delivered,5
+ORD-10035,CUST-1113,2026-07-27,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Credit Card,Davao City,Flash Express,Delivered,5
+ORD-10036,CUST-1110,2026-09-05,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Bank Transfer,Baguio,Flash Express,Completed,4
+ORD-10036,CUST-1110,2026-09-05,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Bank Transfer,Baguio,Flash Express,Completed,5
+ORD-10036,CUST-1110,2026-09-05,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Bank Transfer,Baguio,Flash Express,Completed,3
+ORD-10036,CUST-1110,2026-09-05,Compact Microfiber Towel,Accessories,1,320.0,100,220.0,PHP,Bank Transfer,Baguio,Flash Express,Completed,5
+ORD-10037,CUST-1174,2026-04-05,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,Credit Card,Manila,Ninja Van,Delivered,4
+ORD-10038,CUST-1127,2026-03-02,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Bank Transfer,Taguig,LBC,Shipped,3
+ORD-10038,CUST-1127,2026-03-02,Waterproof Dry Bag 20L,Bags & Packs,2,480.0,0,960.0,PHP,Bank Transfer,Taguig,LBC,Shipped,5
+ORD-10039,CUST-1108,2026-05-16,Solar Power Bank 20000mAh,Electronics,1,1490.0,100,1390.0,PHP,Maya,Quezon City,LBC,Delivered,5
+ORD-10040,CUST-1016,2026-04-29,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Credit Card,Baguio,Ninja Van,Delivered,5
+ORD-10040,CUST-1016,2026-04-29,LED Rechargeable Headlamp,Lighting,2,650.0,0,1300.0,PHP,Credit Card,Baguio,Ninja Van,Delivered,4
+ORD-10041,CUST-1030,2026-03-26,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Bank Transfer,Baguio,Flash Express,Delivered,5
+ORD-10041,CUST-1030,2026-03-26,UV Protection Windbreaker,Apparel,1,1750.0,50,1700.0,PHP,Bank Transfer,Baguio,Flash Express,Delivered,4
+ORD-10041,CUST-1030,2026-03-26,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,Bank Transfer,Baguio,Flash Express,Delivered,5
+ORD-10042,CUST-1295,2026-01-21,Hiking Backpack 50L,Bags & Packs,1,3499.0,50,3449.0,PHP,Cash on Delivery,Cebu City,Ninja Van,Completed,5
+ORD-10042,CUST-1295,2026-01-21,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Cash on Delivery,Cebu City,Ninja Van,Completed,5
+ORD-10043,CUST-1210,2026-09-11,UV Protection Windbreaker,Apparel,1,1750.0,100,1650.0,PHP,Cash on Delivery,Baguio,J&T Express,Delivered,5
+ORD-10043,CUST-1210,2026-09-11,Hiking Backpack 50L,Bags & Packs,1,3499.0,50,3449.0,PHP,Cash on Delivery,Baguio,J&T Express,Delivered,3
+ORD-10044,CUST-1255,2026-08-15,Hiking Backpack 50L,Bags & Packs,1,3499.0,100,3399.0,PHP,Maya,Manila,Flash Express,Delivered,4
+ORD-10044,CUST-1255,2026-08-15,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Maya,Manila,Flash Express,Delivered,5
+ORD-10044,CUST-1255,2026-08-15,Waterproof Dry Bag 20L,Bags & Packs,2,480.0,0,960.0,PHP,Maya,Manila,Flash Express,Delivered,5
+ORD-10044,CUST-1255,2026-08-15,LED Rechargeable Headlamp,Lighting,2,650.0,50,1250.0,PHP,Maya,Manila,Flash Express,Delivered,3
+ORD-10044,CUST-1255,2026-08-15,Titanium Cookware Set,Cooking,1,1600.0,100,1500.0,PHP,Maya,Manila,Flash Express,Delivered,5
+ORD-10045,CUST-1241,2026-05-05,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Bank Transfer,Makati,LBC,Delivered,5
+ORD-10045,CUST-1241,2026-05-05,Merino Wool Hiking Socks,Footwear,1,390.0,100,290.0,PHP,Bank Transfer,Makati,LBC,Delivered,5
+ORD-10045,CUST-1241,2026-05-05,Trekking Poles (Pair),Accessories,1,1100.0,100,1000.0,PHP,Bank Transfer,Makati,LBC,Delivered,5
+ORD-10045,CUST-1241,2026-05-05,Quick-Dry Hiking Pants,Apparel,1,1350.0,100,1250.0,PHP,Bank Transfer,Makati,LBC,Delivered,5
+ORD-10045,CUST-1241,2026-05-05,Multi-Tool Pocket Knife,Accessories,2,890.0,0,1780.0,PHP,Bank Transfer,Makati,LBC,Delivered,5
+ORD-10046,CUST-1292,2026-07-16,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,Cash on Delivery,Davao City,J&T Express,Delivered,5
+ORD-10046,CUST-1292,2026-07-16,Compact Microfiber Towel,Accessories,1,320.0,50,270.0,PHP,Cash on Delivery,Davao City,J&T Express,Delivered,4
+ORD-10046,CUST-1292,2026-07-16,Inflatable Sleeping Pad,Sleep Gear,2,1450.0,100,2800.0,PHP,Cash on Delivery,Davao City,J&T Express,Delivered,4
+ORD-10047,CUST-1269,2026-08-22,Titanium Cookware Set,Cooking,1,1600.0,50,1550.0,PHP,Maya,Manila,Ninja Van,Completed,5
+ORD-10047,CUST-1269,2026-08-22,Insulated Hydration Flask 1L,Hydration,2,799.0,0,1598.0,PHP,Maya,Manila,Ninja Van,Completed,3
+ORD-10047,CUST-1269,2026-08-22,Portable Camping Stove,Cooking,1,1250.0,50,1200.0,PHP,Maya,Manila,Ninja Van,Completed,5
+ORD-10047,CUST-1269,2026-08-22,Quick-Dry Hiking Pants,Apparel,1,1350.0,100,1250.0,PHP,Maya,Manila,Ninja Van,Completed,4
+ORD-10047,CUST-1269,2026-08-22,Compact Microfiber Towel,Accessories,1,320.0,0,320.0,PHP,Maya,Manila,Ninja Van,Completed,5
+ORD-10048,CUST-1085,2026-06-03,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,GCash,Manila,Flash Express,Shipped,5
+ORD-10048,CUST-1085,2026-06-03,Merino Wool Hiking Socks,Footwear,1,390.0,100,290.0,PHP,GCash,Manila,Flash Express,Shipped,3
+ORD-10049,CUST-1123,2026-09-12,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,50,430.0,PHP,Maya,Cebu City,Ninja Van,Delivered,3
+ORD-10049,CUST-1123,2026-09-12,Hiking Backpack 50L,Bags & Packs,1,3499.0,100,3399.0,PHP,Maya,Cebu City,Ninja Van,Delivered,5
+ORD-10049,CUST-1123,2026-09-12,UV Protection Windbreaker,Apparel,1,1750.0,50,1700.0,PHP,Maya,Cebu City,Ninja Van,Delivered,5
+ORD-10050,CUST-1196,2026-09-05,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Maya,Quezon City,Ninja Van,Delivered,3
+ORD-10050,CUST-1196,2026-09-05,Hiking Backpack 50L,Bags & Packs,1,3499.0,50,3449.0,PHP,Maya,Quezon City,Ninja Van,Delivered,5
+ORD-10050,CUST-1196,2026-09-05,First Aid Survival Kit,Safety,1,550.0,50,500.0,PHP,Maya,Quezon City,Ninja Van,Delivered,5
+ORD-10051,CUST-1097,2026-05-09,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,GCash,Cebu City,J&T Express,Delivered,5
+ORD-10051,CUST-1097,2026-05-09,Merino Wool Hiking Socks,Footwear,1,390.0,50,340.0,PHP,GCash,Cebu City,J&T Express,Delivered,3
+ORD-10051,CUST-1097,2026-05-09,Trekking Poles (Pair),Accessories,1,1100.0,50,1050.0,PHP,GCash,Cebu City,J&T Express,Delivered,5
+ORD-10052,CUST-1131,2026-09-04,Insulated Hydration Flask 1L,Hydration,2,799.0,100,1498.0,PHP,Credit Card,Baguio,J&T Express,Delivered,3
+ORD-10053,CUST-1187,2026-02-16,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,GCash,Taguig,Flash Express,Delivered,5
+ORD-10053,CUST-1187,2026-02-16,Titanium Cookware Set,Cooking,1,1600.0,50,1550.0,PHP,GCash,Taguig,Flash Express,Delivered,3
+ORD-10053,CUST-1187,2026-02-16,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,GCash,Taguig,Flash Express,Delivered,5
+ORD-10054,CUST-1154,2026-07-29,2-Person Ultralight Tent,Shelter,1,5800.0,50,5750.0,PHP,Maya,Quezon City,J&T Express,Completed,3
+ORD-10054,CUST-1154,2026-07-29,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Maya,Quezon City,J&T Express,Completed,5
+ORD-10055,CUST-1050,2026-09-08,Merino Wool Hiking Socks,Footwear,2,390.0,50,730.0,PHP,Credit Card,Taguig,J&T Express,Delivered,3
+ORD-10055,CUST-1050,2026-09-08,Waterproof Trekking Shoes,Footwear,2,4250.0,50,8450.0,PHP,Credit Card,Taguig,J&T Express,Delivered,4
+ORD-10056,CUST-1203,2026-05-22,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,GCash,Davao City,Ninja Van,Delivered,3
+ORD-10056,CUST-1203,2026-05-22,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,GCash,Davao City,Ninja Van,Delivered,3
+ORD-10057,CUST-1110,2026-04-30,Compact Microfiber Towel,Accessories,2,320.0,0,640.0,PHP,Maya,Dasmariñas,J&T Express,Delivered,4
+ORD-10057,CUST-1110,2026-04-30,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Maya,Dasmariñas,J&T Express,Delivered,3
+ORD-10057,CUST-1110,2026-04-30,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Maya,Dasmariñas,J&T Express,Delivered,5
+ORD-10057,CUST-1110,2026-04-30,Waterproof Trekking Shoes,Footwear,1,4250.0,100,4150.0,PHP,Maya,Dasmariñas,J&T Express,Delivered,3
+ORD-10057,CUST-1110,2026-04-30,Quick-Dry Hiking Pants,Apparel,1,1350.0,0,1350.0,PHP,Maya,Dasmariñas,J&T Express,Delivered,5
+ORD-10058,CUST-1229,2026-07-05,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Cash on Delivery,Quezon City,LBC,Completed,4
+ORD-10059,CUST-1245,2026-07-25,Quick-Dry Hiking Pants,Apparel,1,1350.0,50,1300.0,PHP,GCash,Taguig,Ninja Van,Shipped,5
+ORD-10059,CUST-1245,2026-07-25,Inflatable Sleeping Pad,Sleep Gear,2,1450.0,50,2850.0,PHP,GCash,Taguig,Ninja Van,Shipped,5
+ORD-10059,CUST-1245,2026-07-25,2-Person Ultralight Tent,Shelter,1,5800.0,100,5700.0,PHP,GCash,Taguig,Ninja Van,Shipped,4
+ORD-10060,CUST-1058,2026-10-10,First Aid Survival Kit,Safety,1,550.0,50,500.0,PHP,Cash on Delivery,Davao City,Ninja Van,Completed,5
+ORD-10060,CUST-1058,2026-10-10,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Cash on Delivery,Davao City,Ninja Van,Completed,5
+ORD-10060,CUST-1058,2026-10-10,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Cash on Delivery,Davao City,Ninja Van,Completed,4
+ORD-10061,CUST-1221,2026-02-19,Thermal Sleeping Bag,Sleep Gear,2,1850.0,0,3700.0,PHP,Maya,Dasmariñas,J&T Express,Delivered,5
+ORD-10061,CUST-1221,2026-02-19,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,50,1400.0,PHP,Maya,Dasmariñas,J&T Express,Delivered,4
+ORD-10061,CUST-1221,2026-02-19,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Maya,Dasmariñas,J&T Express,Delivered,5
+ORD-10062,CUST-1246,2026-04-25,UV Protection Windbreaker,Apparel,1,1750.0,50,1700.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,4
+ORD-10062,CUST-1246,2026-04-25,Hiking Backpack 50L,Bags & Packs,1,3499.0,50,3449.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,5
+ORD-10063,CUST-1179,2026-01-04,2-Person Ultralight Tent,Shelter,1,5800.0,50,5750.0,PHP,Maya,Cebu City,Ninja Van,Delivered,5
+ORD-10063,CUST-1179,2026-01-04,Multi-Tool Pocket Knife,Accessories,1,890.0,50,840.0,PHP,Maya,Cebu City,Ninja Van,Delivered,3
+ORD-10063,CUST-1179,2026-01-04,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Maya,Cebu City,Ninja Van,Delivered,5
+ORD-10063,CUST-1179,2026-01-04,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Maya,Cebu City,Ninja Van,Delivered,4
+ORD-10064,CUST-1139,2026-08-15,Titanium Cookware Set,Cooking,1,1600.0,100,1500.0,PHP,Cash on Delivery,Taguig,Ninja Van,Delivered,3
+ORD-10064,CUST-1139,2026-08-15,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Cash on Delivery,Taguig,Ninja Van,Delivered,5
+ORD-10065,CUST-1202,2026-01-29,Titanium Cookware Set,Cooking,1,1600.0,100,1500.0,PHP,Maya,Manila,Flash Express,Completed,5
+ORD-10065,CUST-1202,2026-01-29,Quick-Dry Hiking Pants,Apparel,1,1350.0,0,1350.0,PHP,Maya,Manila,Flash Express,Completed,3
+ORD-10065,CUST-1202,2026-01-29,Thermal Sleeping Bag,Sleep Gear,1,1850.0,50,1800.0,PHP,Maya,Manila,Flash Express,Completed,4
+ORD-10065,CUST-1202,2026-01-29,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,Maya,Manila,Flash Express,Completed,5
+ORD-10066,CUST-1009,2026-08-24,Thermal Sleeping Bag,Sleep Gear,1,1850.0,100,1750.0,PHP,Credit Card,Quezon City,Ninja Van,Delivered,5
+ORD-10066,CUST-1009,2026-08-24,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Credit Card,Quezon City,Ninja Van,Delivered,5
+ORD-10066,CUST-1009,2026-08-24,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,100,1350.0,PHP,Credit Card,Quezon City,Ninja Van,Delivered,3
+ORD-10066,CUST-1009,2026-08-24,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,Credit Card,Quezon City,Ninja Van,Delivered,5
+ORD-10067,CUST-1113,2026-06-20,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,GCash,Cebu City,J&T Express,Delivered,5
+ORD-10067,CUST-1113,2026-06-20,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,GCash,Cebu City,J&T Express,Delivered,4
+ORD-10068,CUST-1090,2026-09-10,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,Bank Transfer,Makati,Ninja Van,Delivered,5
+ORD-10068,CUST-1090,2026-09-10,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Bank Transfer,Makati,Ninja Van,Delivered,5
+ORD-10068,CUST-1090,2026-09-10,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,Bank Transfer,Makati,Ninja Van,Delivered,5
+ORD-10068,CUST-1090,2026-09-10,Solar Power Bank 20000mAh,Electronics,1,1490.0,0,1490.0,PHP,Bank Transfer,Makati,Ninja Van,Delivered,5
+ORD-10069,CUST-1146,2026-02-09,Waterproof Trekking Shoes,Footwear,1,4250.0,100,4150.0,PHP,Bank Transfer,Quezon City,Ninja Van,Delivered,3
+ORD-10069,CUST-1146,2026-02-09,Solar Power Bank 20000mAh,Electronics,1,1490.0,0,1490.0,PHP,Bank Transfer,Quezon City,Ninja Van,Delivered,5
+ORD-10069,CUST-1146,2026-02-09,Trekking Poles (Pair),Accessories,1,1100.0,50,1050.0,PHP,Bank Transfer,Quezon City,Ninja Van,Delivered,4
+ORD-10070,CUST-1258,2026-03-30,Titanium Cookware Set,Cooking,1,1600.0,50,1550.0,PHP,Maya,Manila,Ninja Van,Completed,3
+ORD-10070,CUST-1258,2026-03-30,Insulated Hydration Flask 1L,Hydration,1,799.0,50,749.0,PHP,Maya,Manila,Ninja Van,Completed,4
+ORD-10070,CUST-1258,2026-03-30,Portable Camping Stove,Cooking,1,1250.0,100,1150.0,PHP,Maya,Manila,Ninja Van,Completed,5
+ORD-10071,CUST-1129,2026-03-18,Hiking Backpack 50L,Bags & Packs,1,3499.0,100,3399.0,PHP,GCash,Dasmariñas,LBC,Completed,5
+ORD-10071,CUST-1129,2026-03-18,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,GCash,Dasmariñas,LBC,Completed,5
+ORD-10072,CUST-1260,2026-07-05,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Credit Card,Manila,Flash Express,Delivered,5
+ORD-10072,CUST-1260,2026-07-05,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Credit Card,Manila,Flash Express,Delivered,3
+ORD-10073,CUST-1276,2026-09-27,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,Credit Card,Manila,LBC,Delivered,5
+ORD-10073,CUST-1276,2026-09-27,First Aid Survival Kit,Safety,2,550.0,50,1050.0,PHP,Credit Card,Manila,LBC,Delivered,5
+ORD-10074,CUST-1119,2026-10-01,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,Credit Card,Davao City,Ninja Van,Completed,3
+ORD-10074,CUST-1119,2026-10-01,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Credit Card,Davao City,Ninja Van,Completed,5
+ORD-10075,CUST-1070,2026-05-09,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Cash on Delivery,Manila,Flash Express,Delivered,5
+ORD-10076,CUST-1230,2026-09-20,Portable Camping Stove,Cooking,1,1250.0,50,1200.0,PHP,Cash on Delivery,Cebu City,J&T Express,Completed,5
+ORD-10076,CUST-1230,2026-09-20,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Cash on Delivery,Cebu City,J&T Express,Completed,5
+ORD-10077,CUST-1114,2026-01-15,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,GCash,Dasmariñas,Flash Express,Shipped,5
+ORD-10078,CUST-1229,2026-01-03,Multi-Tool Pocket Knife,Accessories,1,890.0,50,840.0,PHP,GCash,Quezon City,Flash Express,Delivered,5
+ORD-10079,CUST-1154,2026-03-04,UV Protection Windbreaker,Apparel,1,1750.0,50,1700.0,PHP,Maya,Manila,Ninja Van,Delivered,5
+ORD-10079,CUST-1154,2026-03-04,Hiking Backpack 50L,Bags & Packs,1,3499.0,50,3449.0,PHP,Maya,Manila,Ninja Van,Delivered,5
+ORD-10079,CUST-1154,2026-03-04,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Maya,Manila,Ninja Van,Delivered,4
+ORD-10080,CUST-1268,2026-07-04,Titanium Cookware Set,Cooking,1,1600.0,50,1550.0,PHP,Bank Transfer,Quezon City,J&T Express,Delivered,5
+ORD-10080,CUST-1268,2026-07-04,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Bank Transfer,Quezon City,J&T Express,Delivered,3
+ORD-10080,CUST-1268,2026-07-04,Insulated Hydration Flask 1L,Hydration,1,799.0,50,749.0,PHP,Bank Transfer,Quezon City,J&T Express,Delivered,5
+ORD-10081,CUST-1022,2026-06-30,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Maya,Dasmariñas,Ninja Van,Completed,5
+ORD-10081,CUST-1022,2026-06-30,Merino Wool Hiking Socks,Footwear,2,390.0,50,730.0,PHP,Maya,Dasmariñas,Ninja Van,Completed,5
+ORD-10081,CUST-1022,2026-06-30,Trekking Poles (Pair),Accessories,1,1100.0,100,1000.0,PHP,Maya,Dasmariñas,Ninja Van,Completed,5
+ORD-10082,CUST-1018,2026-04-08,Titanium Cookware Set,Cooking,1,1600.0,100,1500.0,PHP,Credit Card,Baguio,J&T Express,Completed,5
+ORD-10082,CUST-1018,2026-04-08,Insulated Hydration Flask 1L,Hydration,2,799.0,100,1498.0,PHP,Credit Card,Baguio,J&T Express,Completed,5
+ORD-10083,CUST-1188,2026-09-23,Compact Microfiber Towel,Accessories,1,320.0,50,270.0,PHP,GCash,Baguio,Ninja Van,Delivered,5
+ORD-10083,CUST-1188,2026-09-23,Titanium Cookware Set,Cooking,1,1600.0,100,1500.0,PHP,GCash,Baguio,Ninja Van,Delivered,5
+ORD-10083,CUST-1188,2026-09-23,Quick-Dry Hiking Pants,Apparel,1,1350.0,50,1300.0,PHP,GCash,Baguio,Ninja Van,Delivered,5
+ORD-10084,CUST-1021,2026-06-30,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Credit Card,Taguig,J&T Express,Delivered,5
+ORD-10084,CUST-1021,2026-06-30,Trekking Poles (Pair),Accessories,1,1100.0,50,1050.0,PHP,Credit Card,Taguig,J&T Express,Delivered,5
+ORD-10084,CUST-1021,2026-06-30,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Credit Card,Taguig,J&T Express,Delivered,3
+ORD-10085,CUST-1078,2026-08-19,Waterproof Dry Bag 20L,Bags & Packs,2,480.0,0,960.0,PHP,Credit Card,Dasmariñas,Ninja Van,Shipped,5
+ORD-10085,CUST-1078,2026-08-19,UV Protection Windbreaker,Apparel,1,1750.0,100,1650.0,PHP,Credit Card,Dasmariñas,Ninja Van,Shipped,3
+ORD-10085,CUST-1078,2026-08-19,Hiking Backpack 50L,Bags & Packs,1,3499.0,50,3449.0,PHP,Credit Card,Dasmariñas,Ninja Van,Shipped,5
+ORD-10086,CUST-1109,2026-05-27,Solar Power Bank 20000mAh,Electronics,2,1490.0,50,2930.0,PHP,Maya,Makati,J&T Express,Delivered,5
+ORD-10087,CUST-1033,2026-10-09,Insulated Hydration Flask 1L,Hydration,1,799.0,100,699.0,PHP,Credit Card,Baguio,LBC,Shipped,4
+ORD-10087,CUST-1033,2026-10-09,Portable Camping Stove,Cooking,1,1250.0,50,1200.0,PHP,Credit Card,Baguio,LBC,Shipped,5
+ORD-10087,CUST-1033,2026-10-09,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Credit Card,Baguio,LBC,Shipped,3
+ORD-10087,CUST-1033,2026-10-09,Trekking Poles (Pair),Accessories,2,1100.0,0,2200.0,PHP,Credit Card,Baguio,LBC,Shipped,5
+ORD-10087,CUST-1033,2026-10-09,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,100,1350.0,PHP,Credit Card,Baguio,LBC,Shipped,3
+ORD-10088,CUST-1210,2026-07-29,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Maya,Quezon City,Flash Express,Delivered,4
+ORD-10088,CUST-1210,2026-07-29,Insulated Hydration Flask 1L,Hydration,1,799.0,50,749.0,PHP,Maya,Quezon City,Flash Express,Delivered,5
+ORD-10088,CUST-1210,2026-07-29,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Maya,Quezon City,Flash Express,Delivered,5
+ORD-10089,CUST-1265,2026-05-26,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Credit Card,Quezon City,LBC,Delivered,5
+ORD-10089,CUST-1265,2026-05-26,Portable Camping Stove,Cooking,1,1250.0,50,1200.0,PHP,Credit Card,Quezon City,LBC,Delivered,3
+ORD-10089,CUST-1265,2026-05-26,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Credit Card,Quezon City,LBC,Delivered,4
+ORD-10090,CUST-1023,2026-10-23,Compact Microfiber Towel,Accessories,1,320.0,50,270.0,PHP,Maya,Baguio,Ninja Van,Delivered,5
+ORD-10091,CUST-1125,2026-07-27,Hiking Backpack 50L,Bags & Packs,1,3499.0,50,3449.0,PHP,Cash on Delivery,Baguio,J&T Express,Delivered,5
+ORD-10091,CUST-1125,2026-07-27,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,50,430.0,PHP,Cash on Delivery,Baguio,J&T Express,Delivered,5
+ORD-10092,CUST-1066,2026-07-09,2-Person Ultralight Tent,Shelter,2,5800.0,100,11500.0,PHP,Credit Card,Quezon City,LBC,Delivered,5
+ORD-10092,CUST-1066,2026-07-09,Thermal Sleeping Bag,Sleep Gear,2,1850.0,0,3700.0,PHP,Credit Card,Quezon City,LBC,Delivered,5
+ORD-10093,CUST-1295,2026-06-10,Merino Wool Hiking Socks,Footwear,2,390.0,100,680.0,PHP,Maya,Davao City,Ninja Van,Completed,5
+ORD-10093,CUST-1295,2026-06-10,Hiking Backpack 50L,Bags & Packs,1,3499.0,50,3449.0,PHP,Maya,Davao City,Ninja Van,Completed,4
+ORD-10093,CUST-1295,2026-06-10,2-Person Ultralight Tent,Shelter,1,5800.0,100,5700.0,PHP,Maya,Davao City,Ninja Van,Completed,3
+ORD-10094,CUST-1240,2026-05-27,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,GCash,Manila,Ninja Van,Delivered,5
+ORD-10094,CUST-1240,2026-05-27,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,GCash,Manila,Ninja Van,Delivered,5
+ORD-10095,CUST-1258,2026-08-19,Quick-Dry Hiking Pants,Apparel,1,1350.0,50,1300.0,PHP,Bank Transfer,Baguio,J&T Express,Delivered,5
+ORD-10096,CUST-1101,2026-09-18,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Bank Transfer,Taguig,J&T Express,Delivered,3
+ORD-10097,CUST-1263,2026-03-13,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Bank Transfer,Dasmariñas,Flash Express,Delivered,5
+ORD-10097,CUST-1263,2026-03-13,Quick-Dry Hiking Pants,Apparel,1,1350.0,0,1350.0,PHP,Bank Transfer,Dasmariñas,Flash Express,Delivered,5
+ORD-10097,CUST-1263,2026-03-13,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Bank Transfer,Dasmariñas,Flash Express,Delivered,3
+ORD-10097,CUST-1263,2026-03-13,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Bank Transfer,Dasmariñas,Flash Express,Delivered,4
+ORD-10097,CUST-1263,2026-03-13,Compact Microfiber Towel,Accessories,1,320.0,0,320.0,PHP,Bank Transfer,Dasmariñas,Flash Express,Delivered,3
+ORD-10098,CUST-1194,2026-03-17,UV Protection Windbreaker,Apparel,1,1750.0,100,1650.0,PHP,GCash,Davao City,J&T Express,Delivered,4
+ORD-10098,CUST-1194,2026-03-17,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,GCash,Davao City,J&T Express,Delivered,3
+ORD-10098,CUST-1194,2026-03-17,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,100,380.0,PHP,GCash,Davao City,J&T Express,Delivered,3
+ORD-10099,CUST-1192,2026-06-10,Portable Camping Stove,Cooking,2,1250.0,50,2450.0,PHP,Cash on Delivery,Cebu City,Flash Express,Delivered,3
+ORD-10099,CUST-1192,2026-06-10,Merino Wool Hiking Socks,Footwear,1,390.0,50,340.0,PHP,Cash on Delivery,Cebu City,Flash Express,Delivered,5
+ORD-10099,CUST-1192,2026-06-10,Trekking Poles (Pair),Accessories,1,1100.0,100,1000.0,PHP,Cash on Delivery,Cebu City,Flash Express,Delivered,5
+ORD-10100,CUST-1245,2026-06-28,First Aid Survival Kit,Safety,1,550.0,50,500.0,PHP,Credit Card,Baguio,J&T Express,Delivered,4
+ORD-10100,CUST-1245,2026-06-28,UV Protection Windbreaker,Apparel,1,1750.0,100,1650.0,PHP,Credit Card,Baguio,J&T Express,Delivered,5
+ORD-10100,CUST-1245,2026-06-28,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Credit Card,Baguio,J&T Express,Delivered,5
+ORD-10101,CUST-1275,2026-05-19,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,Maya,Baguio,J&T Express,Delivered,5
+ORD-10101,CUST-1275,2026-05-19,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Maya,Baguio,J&T Express,Delivered,4
+ORD-10101,CUST-1275,2026-05-19,First Aid Survival Kit,Safety,2,550.0,0,1100.0,PHP,Maya,Baguio,J&T Express,Delivered,5
+ORD-10102,CUST-1243,2026-09-02,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Credit Card,Davao City,Flash Express,Delivered,5
+ORD-10103,CUST-1213,2026-04-01,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Cash on Delivery,Manila,Ninja Van,Delivered,5
+ORD-10103,CUST-1213,2026-04-01,Waterproof Trekking Shoes,Footwear,1,4250.0,100,4150.0,PHP,Cash on Delivery,Manila,Ninja Van,Delivered,5
+ORD-10103,CUST-1213,2026-04-01,Hiking Backpack 50L,Bags & Packs,2,3499.0,100,6898.0,PHP,Cash on Delivery,Manila,Ninja Van,Delivered,5
+ORD-10103,CUST-1213,2026-04-01,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Cash on Delivery,Manila,Ninja Van,Delivered,5
+ORD-10104,CUST-1083,2026-08-23,Waterproof Trekking Shoes,Footwear,1,4250.0,100,4150.0,PHP,Maya,Baguio,J&T Express,Shipped,4
+ORD-10104,CUST-1083,2026-08-23,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Maya,Baguio,J&T Express,Shipped,5
+ORD-10104,CUST-1083,2026-08-23,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Maya,Baguio,J&T Express,Shipped,4
+ORD-10104,CUST-1083,2026-08-23,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Maya,Baguio,J&T Express,Shipped,5
+ORD-10105,CUST-1136,2026-06-18,Thermal Sleeping Bag,Sleep Gear,1,1850.0,50,1800.0,PHP,Bank Transfer,Baguio,J&T Express,Delivered,4
+ORD-10105,CUST-1136,2026-06-18,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,50,1400.0,PHP,Bank Transfer,Baguio,J&T Express,Delivered,5
+ORD-10106,CUST-1113,2026-04-23,First Aid Survival Kit,Safety,1,550.0,50,500.0,PHP,Cash on Delivery,Cebu City,LBC,Delivered,4
+ORD-10106,CUST-1113,2026-04-23,LED Rechargeable Headlamp,Lighting,2,650.0,0,1300.0,PHP,Cash on Delivery,Cebu City,LBC,Delivered,4
+ORD-10106,CUST-1113,2026-04-23,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Cash on Delivery,Cebu City,LBC,Delivered,3
+ORD-10106,CUST-1113,2026-04-23,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Cash on Delivery,Cebu City,LBC,Delivered,5
+ORD-10106,CUST-1113,2026-04-23,Solar Power Bank 20000mAh,Electronics,2,1490.0,100,2880.0,PHP,Cash on Delivery,Cebu City,LBC,Delivered,4
+ORD-10107,CUST-1105,2026-10-26,UV Protection Windbreaker,Apparel,1,1750.0,50,1700.0,PHP,GCash,Makati,Ninja Van,Completed,4
+ORD-10107,CUST-1105,2026-10-26,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,GCash,Makati,Ninja Van,Completed,5
+ORD-10107,CUST-1105,2026-10-26,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,GCash,Makati,Ninja Van,Completed,5
+ORD-10108,CUST-1176,2026-02-02,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,100,380.0,PHP,GCash,Manila,Ninja Van,Delivered,5
+ORD-10108,CUST-1176,2026-02-02,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,GCash,Manila,Ninja Van,Delivered,5
+ORD-10108,CUST-1176,2026-02-02,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,GCash,Manila,Ninja Van,Delivered,3
+ORD-10109,CUST-1065,2026-04-25,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,GCash,Manila,Flash Express,Delivered,4
+ORD-10109,CUST-1065,2026-04-25,UV Protection Windbreaker,Apparel,1,1750.0,100,1650.0,PHP,GCash,Manila,Flash Express,Delivered,3
+ORD-10109,CUST-1065,2026-04-25,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,GCash,Manila,Flash Express,Delivered,5
+ORD-10109,CUST-1065,2026-04-25,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,GCash,Manila,Flash Express,Delivered,3
+ORD-10110,CUST-1017,2026-08-17,2-Person Ultralight Tent,Shelter,1,5800.0,50,5750.0,PHP,Maya,Manila,J&T Express,Delivered,3
+ORD-10110,CUST-1017,2026-08-17,Thermal Sleeping Bag,Sleep Gear,1,1850.0,50,1800.0,PHP,Maya,Manila,J&T Express,Delivered,5
+ORD-10111,CUST-1154,2026-03-15,Trekking Poles (Pair),Accessories,1,1100.0,50,1050.0,PHP,Cash on Delivery,Davao City,Flash Express,Delivered,5
+ORD-10111,CUST-1154,2026-03-15,Merino Wool Hiking Socks,Footwear,1,390.0,50,340.0,PHP,Cash on Delivery,Davao City,Flash Express,Delivered,5
+ORD-10111,CUST-1154,2026-03-15,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,Cash on Delivery,Davao City,Flash Express,Delivered,5
+ORD-10112,CUST-1094,2026-10-03,Waterproof Trekking Shoes,Footwear,1,4250.0,100,4150.0,PHP,Maya,Makati,LBC,Delivered,5
+ORD-10112,CUST-1094,2026-10-03,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,50,430.0,PHP,Maya,Makati,LBC,Delivered,4
+ORD-10112,CUST-1094,2026-10-03,Multi-Tool Pocket Knife,Accessories,2,890.0,50,1730.0,PHP,Maya,Makati,LBC,Delivered,4
+ORD-10112,CUST-1094,2026-10-03,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Maya,Makati,LBC,Delivered,4
+ORD-10113,CUST-1137,2026-07-13,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,GCash,Manila,LBC,Completed,5
+ORD-10113,CUST-1137,2026-07-13,Waterproof Trekking Shoes,Footwear,2,4250.0,0,8500.0,PHP,GCash,Manila,LBC,Completed,5
+ORD-10113,CUST-1137,2026-07-13,Trekking Poles (Pair),Accessories,2,1100.0,0,2200.0,PHP,GCash,Manila,LBC,Completed,5
+ORD-10114,CUST-1122,2026-10-10,Insulated Hydration Flask 1L,Hydration,1,799.0,100,699.0,PHP,Credit Card,Dasmariñas,Ninja Van,Delivered,5
+ORD-10114,CUST-1122,2026-10-10,Titanium Cookware Set,Cooking,2,1600.0,50,3150.0,PHP,Credit Card,Dasmariñas,Ninja Van,Delivered,5
+ORD-10114,CUST-1122,2026-10-10,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Credit Card,Dasmariñas,Ninja Van,Delivered,5
+ORD-10115,CUST-1008,2026-05-14,Merino Wool Hiking Socks,Footwear,1,390.0,100,290.0,PHP,Credit Card,Taguig,LBC,Delivered,5
+ORD-10115,CUST-1008,2026-05-14,Trekking Poles (Pair),Accessories,1,1100.0,50,1050.0,PHP,Credit Card,Taguig,LBC,Delivered,5
+ORD-10116,CUST-1071,2026-10-07,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Maya,Makati,J&T Express,Delivered,4
+ORD-10116,CUST-1071,2026-10-07,Thermal Sleeping Bag,Sleep Gear,1,1850.0,100,1750.0,PHP,Maya,Makati,J&T Express,Delivered,5
+ORD-10116,CUST-1071,2026-10-07,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,100,1350.0,PHP,Maya,Makati,J&T Express,Delivered,5
+ORD-10116,CUST-1071,2026-10-07,Insulated Hydration Flask 1L,Hydration,1,799.0,100,699.0,PHP,Maya,Makati,J&T Express,Delivered,4
+ORD-10117,CUST-1008,2026-09-29,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,Bank Transfer,Baguio,Flash Express,Delivered,5
+ORD-10117,CUST-1008,2026-09-29,Trekking Poles (Pair),Accessories,1,1100.0,100,1000.0,PHP,Bank Transfer,Baguio,Flash Express,Delivered,4
+ORD-10117,CUST-1008,2026-09-29,Merino Wool Hiking Socks,Footwear,1,390.0,100,290.0,PHP,Bank Transfer,Baguio,Flash Express,Delivered,5
+ORD-10117,CUST-1008,2026-09-29,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Bank Transfer,Baguio,Flash Express,Delivered,5
+ORD-10118,CUST-1041,2026-01-17,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,Cash on Delivery,Quezon City,Ninja Van,Delivered,3
+ORD-10118,CUST-1041,2026-01-17,Merino Wool Hiking Socks,Footwear,2,390.0,0,780.0,PHP,Cash on Delivery,Quezon City,Ninja Van,Delivered,3
+ORD-10118,CUST-1041,2026-01-17,Trekking Poles (Pair),Accessories,2,1100.0,0,2200.0,PHP,Cash on Delivery,Quezon City,Ninja Van,Delivered,5
+ORD-10119,CUST-1290,2026-09-01,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,GCash,Baguio,J&T Express,Delivered,3
+ORD-10119,CUST-1290,2026-09-01,Thermal Sleeping Bag,Sleep Gear,1,1850.0,100,1750.0,PHP,GCash,Baguio,J&T Express,Delivered,4
+ORD-10120,CUST-1153,2026-03-25,Trekking Poles (Pair),Accessories,1,1100.0,100,1000.0,PHP,Bank Transfer,Davao City,Ninja Van,Delivered,5
+ORD-10120,CUST-1153,2026-03-25,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,Bank Transfer,Davao City,Ninja Van,Delivered,3
+ORD-10120,CUST-1153,2026-03-25,Merino Wool Hiking Socks,Footwear,1,390.0,100,290.0,PHP,Bank Transfer,Davao City,Ninja Van,Delivered,5
+ORD-10121,CUST-1015,2026-05-20,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Cash on Delivery,Makati,LBC,Delivered,5
+ORD-10121,CUST-1015,2026-05-20,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,Cash on Delivery,Makati,LBC,Delivered,5
+ORD-10121,CUST-1015,2026-05-20,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Cash on Delivery,Makati,LBC,Delivered,4
+ORD-10121,CUST-1015,2026-05-20,Titanium Cookware Set,Cooking,1,1600.0,50,1550.0,PHP,Cash on Delivery,Makati,LBC,Delivered,5
+ORD-10121,CUST-1015,2026-05-20,Insulated Hydration Flask 1L,Hydration,1,799.0,50,749.0,PHP,Cash on Delivery,Makati,LBC,Delivered,4
+ORD-10122,CUST-1067,2026-02-14,Thermal Sleeping Bag,Sleep Gear,2,1850.0,0,3700.0,PHP,Cash on Delivery,Cebu City,Ninja Van,Delivered,5
+ORD-10122,CUST-1067,2026-02-14,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Cash on Delivery,Cebu City,Ninja Van,Delivered,3
+ORD-10122,CUST-1067,2026-02-14,Inflatable Sleeping Pad,Sleep Gear,2,1450.0,0,2900.0,PHP,Cash on Delivery,Cebu City,Ninja Van,Delivered,3
+ORD-10123,CUST-1266,2026-03-28,Merino Wool Hiking Socks,Footwear,1,390.0,100,290.0,PHP,Maya,Taguig,LBC,Delivered,4
+ORD-10123,CUST-1266,2026-03-28,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Maya,Taguig,LBC,Delivered,5
+ORD-10124,CUST-1100,2026-08-23,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,Maya,Quezon City,Flash Express,Delivered,3
+ORD-10124,CUST-1100,2026-08-23,Quick-Dry Hiking Pants,Apparel,1,1350.0,50,1300.0,PHP,Maya,Quezon City,Flash Express,Delivered,3
+ORD-10125,CUST-1102,2026-09-03,UV Protection Windbreaker,Apparel,1,1750.0,50,1700.0,PHP,Maya,Dasmariñas,Ninja Van,Completed,5
+ORD-10125,CUST-1102,2026-09-03,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,Maya,Dasmariñas,Ninja Van,Completed,3
+ORD-10126,CUST-1279,2026-04-03,UV Protection Windbreaker,Apparel,1,1750.0,50,1700.0,PHP,Cash on Delivery,Manila,LBC,Delivered,5
+ORD-10126,CUST-1279,2026-04-03,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Cash on Delivery,Manila,LBC,Delivered,5
+ORD-10127,CUST-1193,2026-02-07,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Bank Transfer,Makati,Ninja Van,Delivered,4
+ORD-10127,CUST-1193,2026-02-07,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,Bank Transfer,Makati,Ninja Van,Delivered,5
+ORD-10127,CUST-1193,2026-02-07,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Bank Transfer,Makati,Ninja Van,Delivered,3
+ORD-10128,CUST-1204,2026-06-19,Compact Microfiber Towel,Accessories,1,320.0,100,220.0,PHP,GCash,Taguig,J&T Express,Delivered,5
+ORD-10128,CUST-1204,2026-06-19,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,GCash,Taguig,J&T Express,Delivered,5
+ORD-10129,CUST-1012,2026-09-05,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,50,1400.0,PHP,Credit Card,Quezon City,Ninja Van,Completed,5
+ORD-10130,CUST-1105,2026-09-24,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Credit Card,Makati,Ninja Van,Delivered,5
+ORD-10130,CUST-1105,2026-09-24,2-Person Ultralight Tent,Shelter,2,5800.0,0,11600.0,PHP,Credit Card,Makati,Ninja Van,Delivered,3
+ORD-10130,CUST-1105,2026-09-24,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Credit Card,Makati,Ninja Van,Delivered,5
+ORD-10130,CUST-1105,2026-09-24,Hiking Backpack 50L,Bags & Packs,1,3499.0,100,3399.0,PHP,Credit Card,Makati,Ninja Van,Delivered,5
+ORD-10131,CUST-1207,2026-04-05,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,Cash on Delivery,Cebu City,Ninja Van,Delivered,5
+ORD-10131,CUST-1207,2026-04-05,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Cash on Delivery,Cebu City,Ninja Van,Delivered,3
+ORD-10131,CUST-1207,2026-04-05,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Cash on Delivery,Cebu City,Ninja Van,Delivered,5
+ORD-10132,CUST-1166,2026-04-11,Quick-Dry Hiking Pants,Apparel,1,1350.0,50,1300.0,PHP,GCash,Makati,Flash Express,Delivered,5
+ORD-10132,CUST-1166,2026-04-11,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,GCash,Makati,Flash Express,Delivered,5
+ORD-10132,CUST-1166,2026-04-11,Multi-Tool Pocket Knife,Accessories,2,890.0,0,1780.0,PHP,GCash,Makati,Flash Express,Delivered,5
+ORD-10133,CUST-1160,2026-03-02,UV Protection Windbreaker,Apparel,1,1750.0,100,1650.0,PHP,Credit Card,Davao City,J&T Express,Delivered,3
+ORD-10133,CUST-1160,2026-03-02,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,Credit Card,Davao City,J&T Express,Delivered,3
+ORD-10133,CUST-1160,2026-03-02,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,50,430.0,PHP,Credit Card,Davao City,J&T Express,Delivered,5
+ORD-10134,CUST-1095,2026-06-11,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Bank Transfer,Makati,J&T Express,Completed,3
+ORD-10134,CUST-1095,2026-06-11,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Bank Transfer,Makati,J&T Express,Completed,5
+ORD-10134,CUST-1095,2026-06-11,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Bank Transfer,Makati,J&T Express,Completed,3
+ORD-10134,CUST-1095,2026-06-11,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,100,380.0,PHP,Bank Transfer,Makati,J&T Express,Completed,3
+ORD-10134,CUST-1095,2026-06-11,Solar Power Bank 20000mAh,Electronics,1,1490.0,100,1390.0,PHP,Bank Transfer,Makati,J&T Express,Completed,3
+ORD-10135,CUST-1261,2026-02-27,Solar Power Bank 20000mAh,Electronics,1,1490.0,0,1490.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,5
+ORD-10135,CUST-1261,2026-02-27,Trekking Poles (Pair),Accessories,2,1100.0,0,2200.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,5
+ORD-10135,CUST-1261,2026-02-27,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,5
+ORD-10135,CUST-1261,2026-02-27,Waterproof Trekking Shoes,Footwear,2,4250.0,0,8500.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,5
+ORD-10136,CUST-1107,2026-06-29,UV Protection Windbreaker,Apparel,2,1750.0,50,3450.0,PHP,Maya,Taguig,LBC,Shipped,5
+ORD-10136,CUST-1107,2026-06-29,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Maya,Taguig,LBC,Shipped,5
+ORD-10136,CUST-1107,2026-06-29,LED Rechargeable Headlamp,Lighting,2,650.0,100,1200.0,PHP,Maya,Taguig,LBC,Shipped,4
+ORD-10136,CUST-1107,2026-06-29,Merino Wool Hiking Socks,Footwear,2,390.0,0,780.0,PHP,Maya,Taguig,LBC,Shipped,5
+ORD-10137,CUST-1127,2026-03-16,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Maya,Dasmariñas,Ninja Van,Delivered,5
+ORD-10137,CUST-1127,2026-03-16,UV Protection Windbreaker,Apparel,1,1750.0,50,1700.0,PHP,Maya,Dasmariñas,Ninja Van,Delivered,5
+ORD-10137,CUST-1127,2026-03-16,Hiking Backpack 50L,Bags & Packs,1,3499.0,100,3399.0,PHP,Maya,Dasmariñas,Ninja Van,Delivered,5
+ORD-10138,CUST-1297,2026-01-02,Hiking Backpack 50L,Bags & Packs,1,3499.0,50,3449.0,PHP,Cash on Delivery,Quezon City,Flash Express,Completed,3
+ORD-10138,CUST-1297,2026-01-02,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,100,380.0,PHP,Cash on Delivery,Quezon City,Flash Express,Completed,5
+ORD-10138,CUST-1297,2026-01-02,UV Protection Windbreaker,Apparel,2,1750.0,0,3500.0,PHP,Cash on Delivery,Quezon City,Flash Express,Completed,4
+ORD-10138,CUST-1297,2026-01-02,Quick-Dry Hiking Pants,Apparel,1,1350.0,100,1250.0,PHP,Cash on Delivery,Quezon City,Flash Express,Completed,4
+ORD-10139,CUST-1063,2026-03-22,Inflatable Sleeping Pad,Sleep Gear,2,1450.0,50,2850.0,PHP,Cash on Delivery,Makati,J&T Express,Completed,4
+ORD-10139,CUST-1063,2026-03-22,Titanium Cookware Set,Cooking,1,1600.0,50,1550.0,PHP,Cash on Delivery,Makati,J&T Express,Completed,4
+ORD-10139,CUST-1063,2026-03-22,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Cash on Delivery,Makati,J&T Express,Completed,4
+ORD-10140,CUST-1202,2026-06-06,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,100,1350.0,PHP,Cash on Delivery,Davao City,J&T Express,Shipped,4
+ORD-10141,CUST-1004,2026-06-25,2-Person Ultralight Tent,Shelter,1,5800.0,50,5750.0,PHP,Cash on Delivery,Quezon City,LBC,Delivered,5
+ORD-10141,CUST-1004,2026-06-25,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Cash on Delivery,Quezon City,LBC,Delivered,5
+ORD-10142,CUST-1035,2026-09-29,Merino Wool Hiking Socks,Footwear,2,390.0,0,780.0,PHP,Bank Transfer,Manila,LBC,Delivered,4
+ORD-10142,CUST-1035,2026-09-29,Trekking Poles (Pair),Accessories,1,1100.0,100,1000.0,PHP,Bank Transfer,Manila,LBC,Delivered,5
+ORD-10142,CUST-1035,2026-09-29,Waterproof Trekking Shoes,Footwear,2,4250.0,50,8450.0,PHP,Bank Transfer,Manila,LBC,Delivered,5
+ORD-10142,CUST-1035,2026-09-29,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Bank Transfer,Manila,LBC,Delivered,5
+ORD-10143,CUST-1283,2026-05-26,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Credit Card,Manila,LBC,Delivered,5
+ORD-10143,CUST-1283,2026-05-26,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Credit Card,Manila,LBC,Delivered,3
+ORD-10143,CUST-1283,2026-05-26,Insulated Hydration Flask 1L,Hydration,2,799.0,0,1598.0,PHP,Credit Card,Manila,LBC,Delivered,5
+ORD-10144,CUST-1162,2026-03-09,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Bank Transfer,Taguig,Ninja Van,Delivered,4
+ORD-10144,CUST-1162,2026-03-09,Hiking Backpack 50L,Bags & Packs,2,3499.0,100,6898.0,PHP,Bank Transfer,Taguig,Ninja Van,Delivered,3
+ORD-10144,CUST-1162,2026-03-09,Compact Microfiber Towel,Accessories,1,320.0,100,220.0,PHP,Bank Transfer,Taguig,Ninja Van,Delivered,5
+ORD-10145,CUST-1205,2026-02-12,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Credit Card,Cebu City,J&T Express,Delivered,5
+ORD-10145,CUST-1205,2026-02-12,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Credit Card,Cebu City,J&T Express,Delivered,4
+ORD-10145,CUST-1205,2026-02-12,Waterproof Trekking Shoes,Footwear,1,4250.0,100,4150.0,PHP,Credit Card,Cebu City,J&T Express,Delivered,4
+ORD-10146,CUST-1232,2026-01-29,Merino Wool Hiking Socks,Footwear,2,390.0,50,730.0,PHP,Maya,Baguio,J&T Express,Delivered,5
+ORD-10147,CUST-1190,2026-03-06,Insulated Hydration Flask 1L,Hydration,1,799.0,50,749.0,PHP,GCash,Baguio,J&T Express,Delivered,4
+ORD-10147,CUST-1190,2026-03-06,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,GCash,Baguio,J&T Express,Delivered,5
+ORD-10147,CUST-1190,2026-03-06,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,GCash,Baguio,J&T Express,Delivered,3
+ORD-10148,CUST-1059,2026-04-27,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,GCash,Manila,J&T Express,Delivered,5
+ORD-10148,CUST-1059,2026-04-27,Trekking Poles (Pair),Accessories,2,1100.0,50,2150.0,PHP,GCash,Manila,J&T Express,Delivered,5
+ORD-10148,CUST-1059,2026-04-27,Merino Wool Hiking Socks,Footwear,1,390.0,50,340.0,PHP,GCash,Manila,J&T Express,Delivered,4
+ORD-10149,CUST-1257,2026-01-27,Titanium Cookware Set,Cooking,1,1600.0,50,1550.0,PHP,Maya,Cebu City,J&T Express,Completed,5
+ORD-10150,CUST-1044,2026-10-11,LED Rechargeable Headlamp,Lighting,1,650.0,100,550.0,PHP,GCash,Makati,Flash Express,Delivered,5
+ORD-10150,CUST-1044,2026-10-11,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,GCash,Makati,Flash Express,Delivered,5
+ORD-10150,CUST-1044,2026-10-11,Multi-Tool Pocket Knife,Accessories,1,890.0,100,790.0,PHP,GCash,Makati,Flash Express,Delivered,4
+ORD-10151,CUST-1119,2026-10-05,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,GCash,Dasmariñas,Flash Express,Delivered,5
+ORD-10151,CUST-1119,2026-10-05,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,GCash,Dasmariñas,Flash Express,Delivered,5
+ORD-10151,CUST-1119,2026-10-05,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,GCash,Dasmariñas,Flash Express,Delivered,4
+ORD-10152,CUST-1118,2026-09-24,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,100,1350.0,PHP,Credit Card,Taguig,Ninja Van,Completed,4
+ORD-10153,CUST-1290,2026-02-01,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,Maya,Taguig,LBC,Delivered,5
+ORD-10153,CUST-1290,2026-02-01,Quick-Dry Hiking Pants,Apparel,1,1350.0,0,1350.0,PHP,Maya,Taguig,LBC,Delivered,5
+ORD-10153,CUST-1290,2026-02-01,Multi-Tool Pocket Knife,Accessories,1,890.0,100,790.0,PHP,Maya,Taguig,LBC,Delivered,5
+ORD-10153,CUST-1290,2026-02-01,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Maya,Taguig,LBC,Delivered,3
+ORD-10154,CUST-1183,2026-04-17,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Credit Card,Makati,Ninja Van,Delivered,5
+ORD-10155,CUST-1167,2026-03-17,LED Rechargeable Headlamp,Lighting,1,650.0,100,550.0,PHP,Maya,Quezon City,Flash Express,Delivered,5
+ORD-10156,CUST-1284,2026-10-09,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,GCash,Davao City,Ninja Van,Delivered,3
+ORD-10156,CUST-1284,2026-10-09,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,GCash,Davao City,Ninja Van,Delivered,4
+ORD-10156,CUST-1284,2026-10-09,Thermal Sleeping Bag,Sleep Gear,2,1850.0,0,3700.0,PHP,GCash,Davao City,Ninja Van,Delivered,5
+ORD-10156,CUST-1284,2026-10-09,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,GCash,Davao City,Ninja Van,Delivered,5
+ORD-10157,CUST-1062,2026-01-22,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,GCash,Makati,LBC,Completed,5
+ORD-10157,CUST-1062,2026-01-22,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,GCash,Makati,LBC,Completed,5
+ORD-10157,CUST-1062,2026-01-22,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,GCash,Makati,LBC,Completed,4
+ORD-10158,CUST-1125,2026-06-01,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Cash on Delivery,Makati,Ninja Van,Delivered,5
+ORD-10158,CUST-1125,2026-06-01,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,Cash on Delivery,Makati,Ninja Van,Delivered,5
+ORD-10159,CUST-1278,2026-09-06,Waterproof Trekking Shoes,Footwear,1,4250.0,100,4150.0,PHP,Bank Transfer,Dasmariñas,Flash Express,Delivered,3
+ORD-10159,CUST-1278,2026-09-06,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Bank Transfer,Dasmariñas,Flash Express,Delivered,5
+ORD-10160,CUST-1051,2026-05-07,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,50,430.0,PHP,Credit Card,Davao City,J&T Express,Shipped,3
+ORD-10160,CUST-1051,2026-05-07,Hiking Backpack 50L,Bags & Packs,1,3499.0,50,3449.0,PHP,Credit Card,Davao City,J&T Express,Shipped,3
+ORD-10160,CUST-1051,2026-05-07,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Credit Card,Davao City,J&T Express,Shipped,5
+ORD-10160,CUST-1051,2026-05-07,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Credit Card,Davao City,J&T Express,Shipped,5
+ORD-10160,CUST-1051,2026-05-07,Quick-Dry Hiking Pants,Apparel,1,1350.0,0,1350.0,PHP,Credit Card,Davao City,J&T Express,Shipped,5
+ORD-10161,CUST-1112,2026-01-11,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,GCash,Makati,Flash Express,Completed,4
+ORD-10161,CUST-1112,2026-01-11,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,GCash,Makati,Flash Express,Completed,4
+ORD-10162,CUST-1191,2026-07-22,Waterproof Dry Bag 20L,Bags & Packs,2,480.0,50,910.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,5
+ORD-10162,CUST-1191,2026-07-22,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,5
+ORD-10162,CUST-1191,2026-07-22,Quick-Dry Hiking Pants,Apparel,1,1350.0,50,1300.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,5
+ORD-10162,CUST-1191,2026-07-22,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,3
+ORD-10162,CUST-1191,2026-07-22,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,5
+ORD-10163,CUST-1162,2026-04-24,Quick-Dry Hiking Pants,Apparel,1,1350.0,0,1350.0,PHP,Cash on Delivery,Quezon City,LBC,Delivered,5
+ORD-10164,CUST-1228,2026-01-06,Hiking Backpack 50L,Bags & Packs,1,3499.0,100,3399.0,PHP,Maya,Baguio,LBC,Delivered,5
+ORD-10164,CUST-1228,2026-01-06,Waterproof Trekking Shoes,Footwear,2,4250.0,100,8400.0,PHP,Maya,Baguio,LBC,Delivered,5
+ORD-10165,CUST-1179,2026-10-07,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,GCash,Taguig,Ninja Van,Shipped,5
+ORD-10165,CUST-1179,2026-10-07,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,GCash,Taguig,Ninja Van,Shipped,4
+ORD-10165,CUST-1179,2026-10-07,Solar Power Bank 20000mAh,Electronics,1,1490.0,0,1490.0,PHP,GCash,Taguig,Ninja Van,Shipped,5
+ORD-10166,CUST-1082,2026-02-08,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,Credit Card,Quezon City,Ninja Van,Shipped,5
+ORD-10166,CUST-1082,2026-02-08,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,Credit Card,Quezon City,Ninja Van,Shipped,5
+ORD-10166,CUST-1082,2026-02-08,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Credit Card,Quezon City,Ninja Van,Shipped,4
+ORD-10167,CUST-1201,2026-10-20,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,Maya,Makati,J&T Express,Delivered,5
+ORD-10167,CUST-1201,2026-10-20,LED Rechargeable Headlamp,Lighting,2,650.0,100,1200.0,PHP,Maya,Makati,J&T Express,Delivered,4
+ORD-10167,CUST-1201,2026-10-20,Multi-Tool Pocket Knife,Accessories,1,890.0,100,790.0,PHP,Maya,Makati,J&T Express,Delivered,5
+ORD-10168,CUST-1250,2026-05-16,Hiking Backpack 50L,Bags & Packs,1,3499.0,50,3449.0,PHP,Bank Transfer,Quezon City,Ninja Van,Delivered,3
+ORD-10168,CUST-1250,2026-05-16,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Bank Transfer,Quezon City,Ninja Van,Delivered,4
+ORD-10168,CUST-1250,2026-05-16,UV Protection Windbreaker,Apparel,1,1750.0,100,1650.0,PHP,Bank Transfer,Quezon City,Ninja Van,Delivered,3
+ORD-10168,CUST-1250,2026-05-16,Solar Power Bank 20000mAh,Electronics,1,1490.0,0,1490.0,PHP,Bank Transfer,Quezon City,Ninja Van,Delivered,5
+ORD-10169,CUST-1267,2026-08-03,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Bank Transfer,Makati,LBC,Delivered,4
+ORD-10170,CUST-1229,2026-03-30,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,50,430.0,PHP,Maya,Cebu City,LBC,Delivered,5
+ORD-10170,CUST-1229,2026-03-30,Trekking Poles (Pair),Accessories,2,1100.0,0,2200.0,PHP,Maya,Cebu City,LBC,Delivered,4
+ORD-10170,CUST-1229,2026-03-30,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,100,1350.0,PHP,Maya,Cebu City,LBC,Delivered,3
+ORD-10171,CUST-1166,2026-05-22,Thermal Sleeping Bag,Sleep Gear,2,1850.0,0,3700.0,PHP,GCash,Makati,Ninja Van,Delivered,5
+ORD-10172,CUST-1274,2026-06-26,Merino Wool Hiking Socks,Footwear,1,390.0,100,290.0,PHP,Credit Card,Taguig,Ninja Van,Delivered,4
+ORD-10172,CUST-1274,2026-06-26,Trekking Poles (Pair),Accessories,1,1100.0,50,1050.0,PHP,Credit Card,Taguig,Ninja Van,Delivered,5
+ORD-10172,CUST-1274,2026-06-26,Waterproof Trekking Shoes,Footwear,1,4250.0,100,4150.0,PHP,Credit Card,Taguig,Ninja Van,Delivered,5
+ORD-10173,CUST-1190,2026-01-11,2-Person Ultralight Tent,Shelter,2,5800.0,100,11500.0,PHP,Credit Card,Dasmariñas,Flash Express,Delivered,5
+ORD-10173,CUST-1190,2026-01-11,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,100,1350.0,PHP,Credit Card,Dasmariñas,Flash Express,Delivered,3
+ORD-10173,CUST-1190,2026-01-11,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Credit Card,Dasmariñas,Flash Express,Delivered,5
+ORD-10174,CUST-1108,2026-07-28,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Bank Transfer,Makati,Flash Express,Completed,5
+ORD-10174,CUST-1108,2026-07-28,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Bank Transfer,Makati,Flash Express,Completed,4
+ORD-10174,CUST-1108,2026-07-28,Portable Camping Stove,Cooking,1,1250.0,100,1150.0,PHP,Bank Transfer,Makati,Flash Express,Completed,4
+ORD-10175,CUST-1184,2026-04-12,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Credit Card,Baguio,Ninja Van,Delivered,5
+ORD-10175,CUST-1184,2026-04-12,Thermal Sleeping Bag,Sleep Gear,1,1850.0,50,1800.0,PHP,Credit Card,Baguio,Ninja Van,Delivered,5
+ORD-10175,CUST-1184,2026-04-12,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,50,1400.0,PHP,Credit Card,Baguio,Ninja Van,Delivered,4
+ORD-10176,CUST-1145,2026-01-15,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,GCash,Taguig,LBC,Completed,4
+ORD-10176,CUST-1145,2026-01-15,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,GCash,Taguig,LBC,Completed,5
+ORD-10176,CUST-1145,2026-01-15,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,GCash,Taguig,LBC,Completed,5
+ORD-10176,CUST-1145,2026-01-15,Portable Camping Stove,Cooking,1,1250.0,50,1200.0,PHP,GCash,Taguig,LBC,Completed,5
+ORD-10177,CUST-1216,2026-07-12,First Aid Survival Kit,Safety,1,550.0,50,500.0,PHP,Cash on Delivery,Dasmariñas,Flash Express,Delivered,3
+ORD-10177,CUST-1216,2026-07-12,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,Cash on Delivery,Dasmariñas,Flash Express,Delivered,5
+ORD-10178,CUST-1055,2026-09-04,Portable Camping Stove,Cooking,1,1250.0,100,1150.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,5
+ORD-10178,CUST-1055,2026-09-04,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,5
+ORD-10178,CUST-1055,2026-09-04,Titanium Cookware Set,Cooking,2,1600.0,50,3150.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,5
+ORD-10178,CUST-1055,2026-09-04,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,3
+ORD-10179,CUST-1292,2026-04-08,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Maya,Dasmariñas,Ninja Van,Completed,5
+ORD-10179,CUST-1292,2026-04-08,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Maya,Dasmariñas,Ninja Van,Completed,5
+ORD-10179,CUST-1292,2026-04-08,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Maya,Dasmariñas,Ninja Van,Completed,5
+ORD-10180,CUST-1114,2026-06-07,Merino Wool Hiking Socks,Footwear,2,390.0,0,780.0,PHP,Credit Card,Taguig,Flash Express,Delivered,5
+ORD-10180,CUST-1114,2026-06-07,Waterproof Trekking Shoes,Footwear,2,4250.0,0,8500.0,PHP,Credit Card,Taguig,Flash Express,Delivered,5
+ORD-10181,CUST-1271,2026-06-02,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,GCash,Taguig,LBC,Delivered,4
+ORD-10181,CUST-1271,2026-06-02,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,GCash,Taguig,LBC,Delivered,5
+ORD-10182,CUST-1029,2026-01-03,Merino Wool Hiking Socks,Footwear,1,390.0,100,290.0,PHP,Credit Card,Makati,LBC,Shipped,5
+ORD-10182,CUST-1029,2026-01-03,2-Person Ultralight Tent,Shelter,1,5800.0,100,5700.0,PHP,Credit Card,Makati,LBC,Shipped,5
+ORD-10183,CUST-1002,2026-01-20,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,50,1400.0,PHP,Credit Card,Davao City,J&T Express,Completed,5
+ORD-10183,CUST-1002,2026-01-20,2-Person Ultralight Tent,Shelter,1,5800.0,100,5700.0,PHP,Credit Card,Davao City,J&T Express,Completed,3
+ORD-10183,CUST-1002,2026-01-20,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Credit Card,Davao City,J&T Express,Completed,4
+ORD-10183,CUST-1002,2026-01-20,Insulated Hydration Flask 1L,Hydration,1,799.0,50,749.0,PHP,Credit Card,Davao City,J&T Express,Completed,5
+ORD-10184,CUST-1233,2026-09-24,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Cash on Delivery,Dasmariñas,LBC,Delivered,3
+ORD-10184,CUST-1233,2026-09-24,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Cash on Delivery,Dasmariñas,LBC,Delivered,5
+ORD-10184,CUST-1233,2026-09-24,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Cash on Delivery,Dasmariñas,LBC,Delivered,5
+ORD-10184,CUST-1233,2026-09-24,Insulated Hydration Flask 1L,Hydration,2,799.0,50,1548.0,PHP,Cash on Delivery,Dasmariñas,LBC,Delivered,3
+ORD-10184,CUST-1233,2026-09-24,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Cash on Delivery,Dasmariñas,LBC,Delivered,4
+ORD-10185,CUST-1010,2026-01-25,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Cash on Delivery,Quezon City,Ninja Van,Delivered,3
+ORD-10185,CUST-1010,2026-01-25,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Cash on Delivery,Quezon City,Ninja Van,Delivered,5
+ORD-10185,CUST-1010,2026-01-25,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Cash on Delivery,Quezon City,Ninja Van,Delivered,3
+ORD-10186,CUST-1060,2026-05-25,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,GCash,Quezon City,Ninja Van,Delivered,5
+ORD-10186,CUST-1060,2026-05-25,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,GCash,Quezon City,Ninja Van,Delivered,5
+ORD-10187,CUST-1246,2026-06-19,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,GCash,Davao City,J&T Express,Delivered,5
+ORD-10187,CUST-1246,2026-06-19,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,100,1350.0,PHP,GCash,Davao City,J&T Express,Delivered,5
+ORD-10187,CUST-1246,2026-06-19,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,GCash,Davao City,J&T Express,Delivered,4
+ORD-10187,CUST-1246,2026-06-19,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,GCash,Davao City,J&T Express,Delivered,5
+ORD-10187,CUST-1246,2026-06-19,Portable Camping Stove,Cooking,1,1250.0,50,1200.0,PHP,GCash,Davao City,J&T Express,Delivered,5
+ORD-10188,CUST-1059,2026-02-18,UV Protection Windbreaker,Apparel,2,1750.0,0,3500.0,PHP,GCash,Manila,LBC,Delivered,5
+ORD-10188,CUST-1059,2026-02-18,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,GCash,Manila,LBC,Delivered,4
+ORD-10189,CUST-1205,2026-07-24,Waterproof Trekking Shoes,Footwear,2,4250.0,0,8500.0,PHP,Credit Card,Makati,Ninja Van,Delivered,4
+ORD-10189,CUST-1205,2026-07-24,Trekking Poles (Pair),Accessories,1,1100.0,100,1000.0,PHP,Credit Card,Makati,Ninja Van,Delivered,3
+ORD-10189,CUST-1205,2026-07-24,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Credit Card,Makati,Ninja Van,Delivered,3
+ORD-10190,CUST-1194,2026-07-03,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,Maya,Manila,Ninja Van,Completed,4
+ORD-10191,CUST-1268,2026-10-23,Hiking Backpack 50L,Bags & Packs,1,3499.0,100,3399.0,PHP,Credit Card,Davao City,J&T Express,Delivered,5
+ORD-10191,CUST-1268,2026-10-23,UV Protection Windbreaker,Apparel,2,1750.0,0,3500.0,PHP,Credit Card,Davao City,J&T Express,Delivered,5
+ORD-10191,CUST-1268,2026-10-23,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,50,430.0,PHP,Credit Card,Davao City,J&T Express,Delivered,5
+ORD-10191,CUST-1268,2026-10-23,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Credit Card,Davao City,J&T Express,Delivered,3
+ORD-10192,CUST-1193,2026-07-26,Waterproof Dry Bag 20L,Bags & Packs,2,480.0,0,960.0,PHP,GCash,Davao City,Ninja Van,Delivered,4
+ORD-10192,CUST-1193,2026-07-26,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,GCash,Davao City,Ninja Van,Delivered,3
+ORD-10192,CUST-1193,2026-07-26,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,GCash,Davao City,Ninja Van,Delivered,3
+ORD-10193,CUST-1155,2026-09-18,Solar Power Bank 20000mAh,Electronics,1,1490.0,100,1390.0,PHP,Cash on Delivery,Davao City,Flash Express,Delivered,5
+ORD-10194,CUST-1231,2026-02-28,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Maya,Quezon City,J&T Express,Delivered,5
+ORD-10194,CUST-1231,2026-02-28,Multi-Tool Pocket Knife,Accessories,1,890.0,100,790.0,PHP,Maya,Quezon City,J&T Express,Delivered,4
+ORD-10194,CUST-1231,2026-02-28,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Maya,Quezon City,J&T Express,Delivered,5
+ORD-10194,CUST-1231,2026-02-28,Merino Wool Hiking Socks,Footwear,1,390.0,100,290.0,PHP,Maya,Quezon City,J&T Express,Delivered,5
+ORD-10195,CUST-1234,2026-04-08,Thermal Sleeping Bag,Sleep Gear,2,1850.0,0,3700.0,PHP,GCash,Dasmariñas,Ninja Van,Delivered,3
+ORD-10195,CUST-1234,2026-04-08,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,100,1350.0,PHP,GCash,Dasmariñas,Ninja Van,Delivered,3
+ORD-10195,CUST-1234,2026-04-08,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,GCash,Dasmariñas,Ninja Van,Delivered,3
+ORD-10196,CUST-1088,2026-03-07,Insulated Hydration Flask 1L,Hydration,1,799.0,50,749.0,PHP,Cash on Delivery,Quezon City,Flash Express,Delivered,5
+ORD-10196,CUST-1088,2026-03-07,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Cash on Delivery,Quezon City,Flash Express,Delivered,5
+ORD-10197,CUST-1211,2026-09-20,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,Bank Transfer,Baguio,Flash Express,Shipped,4
+ORD-10197,CUST-1211,2026-09-20,Merino Wool Hiking Socks,Footwear,1,390.0,100,290.0,PHP,Bank Transfer,Baguio,Flash Express,Shipped,3
+ORD-10197,CUST-1211,2026-09-20,Trekking Poles (Pair),Accessories,1,1100.0,100,1000.0,PHP,Bank Transfer,Baguio,Flash Express,Shipped,3
+ORD-10197,CUST-1211,2026-09-20,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,100,1350.0,PHP,Bank Transfer,Baguio,Flash Express,Shipped,4
+ORD-10197,CUST-1211,2026-09-20,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Bank Transfer,Baguio,Flash Express,Shipped,5
+ORD-10198,CUST-1074,2026-01-28,Portable Camping Stove,Cooking,1,1250.0,50,1200.0,PHP,Maya,Manila,Flash Express,Shipped,5
+ORD-10198,CUST-1074,2026-01-28,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Maya,Manila,Flash Express,Shipped,5
+ORD-10199,CUST-1231,2026-02-22,Titanium Cookware Set,Cooking,1,1600.0,50,1550.0,PHP,Bank Transfer,Davao City,Ninja Van,Delivered,3
+ORD-10199,CUST-1231,2026-02-22,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,Bank Transfer,Davao City,Ninja Van,Delivered,5
+ORD-10199,CUST-1231,2026-02-22,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,Bank Transfer,Davao City,Ninja Van,Delivered,5
+ORD-10199,CUST-1231,2026-02-22,Trekking Poles (Pair),Accessories,2,1100.0,50,2150.0,PHP,Bank Transfer,Davao City,Ninja Van,Delivered,3
+ORD-10200,CUST-1279,2026-04-11,Trekking Poles (Pair),Accessories,1,1100.0,50,1050.0,PHP,Credit Card,Davao City,Ninja Van,Delivered,3
+ORD-10200,CUST-1279,2026-04-11,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Credit Card,Davao City,Ninja Van,Delivered,3
+ORD-10200,CUST-1279,2026-04-11,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Credit Card,Davao City,Ninja Van,Delivered,5
+ORD-10201,CUST-1238,2026-03-21,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Maya,Manila,Flash Express,Delivered,3
+ORD-10201,CUST-1238,2026-03-21,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Maya,Manila,Flash Express,Delivered,5
+ORD-10201,CUST-1238,2026-03-21,Portable Camping Stove,Cooking,1,1250.0,100,1150.0,PHP,Maya,Manila,Flash Express,Delivered,4
+ORD-10201,CUST-1238,2026-03-21,Quick-Dry Hiking Pants,Apparel,1,1350.0,0,1350.0,PHP,Maya,Manila,Flash Express,Delivered,5
+ORD-10202,CUST-1169,2026-07-04,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,Maya,Baguio,Ninja Van,Completed,4
+ORD-10202,CUST-1169,2026-07-04,Thermal Sleeping Bag,Sleep Gear,1,1850.0,50,1800.0,PHP,Maya,Baguio,Ninja Van,Completed,5
+ORD-10202,CUST-1169,2026-07-04,UV Protection Windbreaker,Apparel,2,1750.0,0,3500.0,PHP,Maya,Baguio,Ninja Van,Completed,5
+ORD-10202,CUST-1169,2026-07-04,Insulated Hydration Flask 1L,Hydration,1,799.0,50,749.0,PHP,Maya,Baguio,Ninja Van,Completed,4
+ORD-10203,CUST-1264,2026-07-11,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Cash on Delivery,Makati,J&T Express,Delivered,5
+ORD-10203,CUST-1264,2026-07-11,Inflatable Sleeping Pad,Sleep Gear,2,1450.0,100,2800.0,PHP,Cash on Delivery,Makati,J&T Express,Delivered,4
+ORD-10203,CUST-1264,2026-07-11,Thermal Sleeping Bag,Sleep Gear,1,1850.0,100,1750.0,PHP,Cash on Delivery,Makati,J&T Express,Delivered,4
+ORD-10204,CUST-1078,2026-01-13,Compact Microfiber Towel,Accessories,1,320.0,0,320.0,PHP,Credit Card,Makati,J&T Express,Delivered,5
+ORD-10205,CUST-1208,2026-07-18,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Cash on Delivery,Makati,Ninja Van,Delivered,4
+ORD-10205,CUST-1208,2026-07-18,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Cash on Delivery,Makati,Ninja Van,Delivered,5
+ORD-10206,CUST-1154,2026-02-14,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,Cash on Delivery,Baguio,Ninja Van,Delivered,5
+ORD-10206,CUST-1154,2026-02-14,Multi-Tool Pocket Knife,Accessories,1,890.0,50,840.0,PHP,Cash on Delivery,Baguio,Ninja Van,Delivered,4
+ORD-10206,CUST-1154,2026-02-14,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,Cash on Delivery,Baguio,Ninja Van,Delivered,4
+ORD-10207,CUST-1021,2026-01-03,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Bank Transfer,Taguig,J&T Express,Delivered,5
+ORD-10207,CUST-1021,2026-01-03,Trekking Poles (Pair),Accessories,1,1100.0,50,1050.0,PHP,Bank Transfer,Taguig,J&T Express,Delivered,5
+ORD-10207,CUST-1021,2026-01-03,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Bank Transfer,Taguig,J&T Express,Delivered,3
+ORD-10207,CUST-1021,2026-01-03,Solar Power Bank 20000mAh,Electronics,1,1490.0,0,1490.0,PHP,Bank Transfer,Taguig,J&T Express,Delivered,5
+ORD-10208,CUST-1034,2026-05-09,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Maya,Quezon City,Ninja Van,Completed,5
+ORD-10208,CUST-1034,2026-05-09,Merino Wool Hiking Socks,Footwear,1,390.0,50,340.0,PHP,Maya,Quezon City,Ninja Van,Completed,3
+ORD-10209,CUST-1156,2026-10-27,Portable Camping Stove,Cooking,1,1250.0,50,1200.0,PHP,Bank Transfer,Cebu City,Flash Express,Completed,5
+ORD-10209,CUST-1156,2026-10-27,Insulated Hydration Flask 1L,Hydration,1,799.0,50,749.0,PHP,Bank Transfer,Cebu City,Flash Express,Completed,5
+ORD-10209,CUST-1156,2026-10-27,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Bank Transfer,Cebu City,Flash Express,Completed,5
+ORD-10209,CUST-1156,2026-10-27,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Bank Transfer,Cebu City,Flash Express,Completed,5
+ORD-10209,CUST-1156,2026-10-27,Inflatable Sleeping Pad,Sleep Gear,2,1450.0,0,2900.0,PHP,Bank Transfer,Cebu City,Flash Express,Completed,3
+ORD-10210,CUST-1100,2026-05-15,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,GCash,Quezon City,J&T Express,Completed,5
+ORD-10210,CUST-1100,2026-05-15,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,GCash,Quezon City,J&T Express,Completed,3
+ORD-10210,CUST-1100,2026-05-15,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,GCash,Quezon City,J&T Express,Completed,5
+ORD-10211,CUST-1237,2026-09-14,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Cash on Delivery,Quezon City,Flash Express,Delivered,3
+ORD-10211,CUST-1237,2026-09-14,Multi-Tool Pocket Knife,Accessories,2,890.0,0,1780.0,PHP,Cash on Delivery,Quezon City,Flash Express,Delivered,5
+ORD-10211,CUST-1237,2026-09-14,Inflatable Sleeping Pad,Sleep Gear,2,1450.0,0,2900.0,PHP,Cash on Delivery,Quezon City,Flash Express,Delivered,5
+ORD-10212,CUST-1249,2026-04-29,Titanium Cookware Set,Cooking,2,1600.0,0,3200.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,5
+ORD-10212,CUST-1249,2026-04-29,Insulated Hydration Flask 1L,Hydration,1,799.0,50,749.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,5
+ORD-10212,CUST-1249,2026-04-29,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,5
+ORD-10213,CUST-1193,2026-07-07,Titanium Cookware Set,Cooking,2,1600.0,100,3100.0,PHP,Bank Transfer,Quezon City,Flash Express,Delivered,5
+ORD-10213,CUST-1193,2026-07-07,Insulated Hydration Flask 1L,Hydration,1,799.0,50,749.0,PHP,Bank Transfer,Quezon City,Flash Express,Delivered,5
+ORD-10213,CUST-1193,2026-07-07,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Bank Transfer,Quezon City,Flash Express,Delivered,5
+ORD-10213,CUST-1193,2026-07-07,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,Bank Transfer,Quezon City,Flash Express,Delivered,5
+ORD-10213,CUST-1193,2026-07-07,Multi-Tool Pocket Knife,Accessories,1,890.0,50,840.0,PHP,Bank Transfer,Quezon City,Flash Express,Delivered,4
+ORD-10214,CUST-1246,2026-09-03,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Maya,Makati,LBC,Delivered,3
+ORD-10214,CUST-1246,2026-09-03,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Maya,Makati,LBC,Delivered,5
+ORD-10214,CUST-1246,2026-09-03,Merino Wool Hiking Socks,Footwear,2,390.0,100,680.0,PHP,Maya,Makati,LBC,Delivered,3
+ORD-10215,CUST-1288,2026-01-10,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,GCash,Baguio,LBC,Delivered,3
+ORD-10215,CUST-1288,2026-01-10,Insulated Hydration Flask 1L,Hydration,1,799.0,50,749.0,PHP,GCash,Baguio,LBC,Delivered,5
+ORD-10215,CUST-1288,2026-01-10,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,50,430.0,PHP,GCash,Baguio,LBC,Delivered,5
+ORD-10215,CUST-1288,2026-01-10,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,GCash,Baguio,LBC,Delivered,5
+ORD-10215,CUST-1288,2026-01-10,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,GCash,Baguio,LBC,Delivered,4
+ORD-10216,CUST-1008,2026-04-14,Multi-Tool Pocket Knife,Accessories,2,890.0,0,1780.0,PHP,Maya,Taguig,J&T Express,Delivered,5
+ORD-10216,CUST-1008,2026-04-14,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,Maya,Taguig,J&T Express,Delivered,4
+ORD-10216,CUST-1008,2026-04-14,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,Maya,Taguig,J&T Express,Delivered,5
+ORD-10216,CUST-1008,2026-04-14,Merino Wool Hiking Socks,Footwear,2,390.0,100,680.0,PHP,Maya,Taguig,J&T Express,Delivered,5
+ORD-10216,CUST-1008,2026-04-14,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Maya,Taguig,J&T Express,Delivered,5
+ORD-10217,CUST-1068,2026-05-11,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Maya,Makati,J&T Express,Delivered,5
+ORD-10217,CUST-1068,2026-05-11,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Maya,Makati,J&T Express,Delivered,5
+ORD-10217,CUST-1068,2026-05-11,Merino Wool Hiking Socks,Footwear,1,390.0,50,340.0,PHP,Maya,Makati,J&T Express,Delivered,5
+ORD-10217,CUST-1068,2026-05-11,Multi-Tool Pocket Knife,Accessories,2,890.0,100,1680.0,PHP,Maya,Makati,J&T Express,Delivered,3
+ORD-10218,CUST-1187,2026-05-22,Multi-Tool Pocket Knife,Accessories,2,890.0,50,1730.0,PHP,Maya,Taguig,Ninja Van,Delivered,5
+ORD-10218,CUST-1187,2026-05-22,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,Maya,Taguig,Ninja Van,Delivered,5
+ORD-10218,CUST-1187,2026-05-22,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Maya,Taguig,Ninja Van,Delivered,4
+ORD-10219,CUST-1109,2026-09-18,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Credit Card,Taguig,J&T Express,Delivered,5
+ORD-10219,CUST-1109,2026-09-18,Thermal Sleeping Bag,Sleep Gear,2,1850.0,100,3600.0,PHP,Credit Card,Taguig,J&T Express,Delivered,3
+ORD-10219,CUST-1109,2026-09-18,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,50,1400.0,PHP,Credit Card,Taguig,J&T Express,Delivered,3
+ORD-10219,CUST-1109,2026-09-18,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Credit Card,Taguig,J&T Express,Delivered,5
+ORD-10219,CUST-1109,2026-09-18,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Credit Card,Taguig,J&T Express,Delivered,3
+ORD-10220,CUST-1146,2026-04-10,2-Person Ultralight Tent,Shelter,1,5800.0,50,5750.0,PHP,Bank Transfer,Manila,LBC,Delivered,5
+ORD-10220,CUST-1146,2026-04-10,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Bank Transfer,Manila,LBC,Delivered,3
+ORD-10220,CUST-1146,2026-04-10,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Bank Transfer,Manila,LBC,Delivered,4
+ORD-10221,CUST-1281,2026-05-26,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Credit Card,Dasmariñas,Flash Express,Delivered,3
+ORD-10221,CUST-1281,2026-05-26,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,Credit Card,Dasmariñas,Flash Express,Delivered,3
+ORD-10221,CUST-1281,2026-05-26,Waterproof Dry Bag 20L,Bags & Packs,2,480.0,50,910.0,PHP,Credit Card,Dasmariñas,Flash Express,Delivered,5
+ORD-10221,CUST-1281,2026-05-26,LED Rechargeable Headlamp,Lighting,2,650.0,100,1200.0,PHP,Credit Card,Dasmariñas,Flash Express,Delivered,5
+ORD-10221,CUST-1281,2026-05-26,Multi-Tool Pocket Knife,Accessories,1,890.0,100,790.0,PHP,Credit Card,Dasmariñas,Flash Express,Delivered,5
+ORD-10222,CUST-1300,2026-01-15,Insulated Hydration Flask 1L,Hydration,2,799.0,0,1598.0,PHP,GCash,Makati,Flash Express,Delivered,5
+ORD-10222,CUST-1300,2026-01-15,Quick-Dry Hiking Pants,Apparel,1,1350.0,0,1350.0,PHP,GCash,Makati,Flash Express,Delivered,5
+ORD-10222,CUST-1300,2026-01-15,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,50,430.0,PHP,GCash,Makati,Flash Express,Delivered,4
+ORD-10223,CUST-1283,2026-04-02,Merino Wool Hiking Socks,Footwear,1,390.0,50,340.0,PHP,Credit Card,Makati,Flash Express,Delivered,5
+ORD-10223,CUST-1283,2026-04-02,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Credit Card,Makati,Flash Express,Delivered,3
+ORD-10223,CUST-1283,2026-04-02,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Credit Card,Makati,Flash Express,Delivered,4
+ORD-10224,CUST-1040,2026-09-10,First Aid Survival Kit,Safety,1,550.0,50,500.0,PHP,Bank Transfer,Manila,J&T Express,Completed,5
+ORD-10224,CUST-1040,2026-09-10,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Bank Transfer,Manila,J&T Express,Completed,4
+ORD-10225,CUST-1269,2026-08-05,Merino Wool Hiking Socks,Footwear,1,390.0,100,290.0,PHP,Bank Transfer,Makati,J&T Express,Delivered,5
+ORD-10225,CUST-1269,2026-08-05,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Bank Transfer,Makati,J&T Express,Delivered,5
+ORD-10226,CUST-1194,2026-10-25,Merino Wool Hiking Socks,Footwear,2,390.0,50,730.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,5
+ORD-10226,CUST-1194,2026-10-25,Trekking Poles (Pair),Accessories,1,1100.0,100,1000.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,5
+ORD-10227,CUST-1214,2026-07-10,Insulated Hydration Flask 1L,Hydration,1,799.0,100,699.0,PHP,Cash on Delivery,Dasmariñas,Flash Express,Delivered,5
+ORD-10227,CUST-1214,2026-07-10,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Cash on Delivery,Dasmariñas,Flash Express,Delivered,5
+ORD-10227,CUST-1214,2026-07-10,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Cash on Delivery,Dasmariñas,Flash Express,Delivered,5
+ORD-10228,CUST-1255,2026-03-10,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,100,1350.0,PHP,Cash on Delivery,Dasmariñas,Flash Express,Delivered,4
+ORD-10228,CUST-1255,2026-03-10,2-Person Ultralight Tent,Shelter,1,5800.0,50,5750.0,PHP,Cash on Delivery,Dasmariñas,Flash Express,Delivered,5
+ORD-10228,CUST-1255,2026-03-10,Thermal Sleeping Bag,Sleep Gear,1,1850.0,50,1800.0,PHP,Cash on Delivery,Dasmariñas,Flash Express,Delivered,5
+ORD-10228,CUST-1255,2026-03-10,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Cash on Delivery,Dasmariñas,Flash Express,Delivered,5
+ORD-10229,CUST-1101,2026-10-23,Solar Power Bank 20000mAh,Electronics,1,1490.0,100,1390.0,PHP,Credit Card,Cebu City,Flash Express,Delivered,5
+ORD-10229,CUST-1101,2026-10-23,2-Person Ultralight Tent,Shelter,2,5800.0,50,11550.0,PHP,Credit Card,Cebu City,Flash Express,Delivered,5
+ORD-10229,CUST-1101,2026-10-23,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,Credit Card,Cebu City,Flash Express,Delivered,4
+ORD-10230,CUST-1040,2026-03-24,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,50,430.0,PHP,Maya,Dasmariñas,Flash Express,Delivered,3
+ORD-10230,CUST-1040,2026-03-24,UV Protection Windbreaker,Apparel,1,1750.0,100,1650.0,PHP,Maya,Dasmariñas,Flash Express,Delivered,5
+ORD-10231,CUST-1085,2026-04-05,2-Person Ultralight Tent,Shelter,1,5800.0,100,5700.0,PHP,Maya,Manila,LBC,Delivered,3
+ORD-10231,CUST-1085,2026-04-05,Trekking Poles (Pair),Accessories,1,1100.0,100,1000.0,PHP,Maya,Manila,LBC,Delivered,3
+ORD-10231,CUST-1085,2026-04-05,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Maya,Manila,LBC,Delivered,4
+ORD-10231,CUST-1085,2026-04-05,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Maya,Manila,LBC,Delivered,4
+ORD-10231,CUST-1085,2026-04-05,Waterproof Trekking Shoes,Footwear,1,4250.0,100,4150.0,PHP,Maya,Manila,LBC,Delivered,5
+ORD-10232,CUST-1117,2026-05-07,Titanium Cookware Set,Cooking,2,1600.0,100,3100.0,PHP,Cash on Delivery,Baguio,LBC,Delivered,5
+ORD-10232,CUST-1117,2026-05-07,Insulated Hydration Flask 1L,Hydration,2,799.0,0,1598.0,PHP,Cash on Delivery,Baguio,LBC,Delivered,3
+ORD-10232,CUST-1117,2026-05-07,Portable Camping Stove,Cooking,1,1250.0,100,1150.0,PHP,Cash on Delivery,Baguio,LBC,Delivered,3
+ORD-10232,CUST-1117,2026-05-07,Compact Microfiber Towel,Accessories,1,320.0,50,270.0,PHP,Cash on Delivery,Baguio,LBC,Delivered,5
+ORD-10233,CUST-1246,2026-10-04,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,GCash,Davao City,Ninja Van,Delivered,5
+ORD-10233,CUST-1246,2026-10-04,Inflatable Sleeping Pad,Sleep Gear,2,1450.0,100,2800.0,PHP,GCash,Davao City,Ninja Van,Delivered,5
+ORD-10233,CUST-1246,2026-10-04,Thermal Sleeping Bag,Sleep Gear,1,1850.0,100,1750.0,PHP,GCash,Davao City,Ninja Van,Delivered,5
+ORD-10234,CUST-1118,2026-01-04,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Maya,Dasmariñas,Ninja Van,Completed,3
+ORD-10234,CUST-1118,2026-01-04,Hiking Backpack 50L,Bags & Packs,1,3499.0,50,3449.0,PHP,Maya,Dasmariñas,Ninja Van,Completed,5
+ORD-10234,CUST-1118,2026-01-04,UV Protection Windbreaker,Apparel,1,1750.0,50,1700.0,PHP,Maya,Dasmariñas,Ninja Van,Completed,5
+ORD-10235,CUST-1096,2026-02-05,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,Maya,Cebu City,Flash Express,Delivered,3
+ORD-10235,CUST-1096,2026-02-05,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Maya,Cebu City,Flash Express,Delivered,5
+ORD-10235,CUST-1096,2026-02-05,Multi-Tool Pocket Knife,Accessories,1,890.0,100,790.0,PHP,Maya,Cebu City,Flash Express,Delivered,4
+ORD-10236,CUST-1119,2026-02-16,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,GCash,Cebu City,Ninja Van,Delivered,5
+ORD-10236,CUST-1119,2026-02-16,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,GCash,Cebu City,Ninja Van,Delivered,4
+ORD-10236,CUST-1119,2026-02-16,Solar Power Bank 20000mAh,Electronics,1,1490.0,100,1390.0,PHP,GCash,Cebu City,Ninja Van,Delivered,4
+ORD-10237,CUST-1278,2026-08-29,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Maya,Cebu City,Flash Express,Completed,3
+ORD-10237,CUST-1278,2026-08-29,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Maya,Cebu City,Flash Express,Completed,5
+ORD-10237,CUST-1278,2026-08-29,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,Maya,Cebu City,Flash Express,Completed,5
+ORD-10237,CUST-1278,2026-08-29,Solar Power Bank 20000mAh,Electronics,1,1490.0,0,1490.0,PHP,Maya,Cebu City,Flash Express,Completed,3
+ORD-10238,CUST-1266,2026-03-04,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Cash on Delivery,Baguio,Flash Express,Delivered,5
+ORD-10238,CUST-1266,2026-03-04,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Cash on Delivery,Baguio,Flash Express,Delivered,5
+ORD-10238,CUST-1266,2026-03-04,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Cash on Delivery,Baguio,Flash Express,Delivered,4
+ORD-10238,CUST-1266,2026-03-04,Quick-Dry Hiking Pants,Apparel,1,1350.0,100,1250.0,PHP,Cash on Delivery,Baguio,Flash Express,Delivered,3
+ORD-10239,CUST-1079,2026-07-10,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Maya,Quezon City,LBC,Delivered,5
+ORD-10239,CUST-1079,2026-07-10,Thermal Sleeping Bag,Sleep Gear,1,1850.0,50,1800.0,PHP,Maya,Quezon City,LBC,Delivered,3
+ORD-10239,CUST-1079,2026-07-10,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,50,1400.0,PHP,Maya,Quezon City,LBC,Delivered,5
+ORD-10240,CUST-1098,2026-01-11,Compact Microfiber Towel,Accessories,1,320.0,100,220.0,PHP,Credit Card,Taguig,LBC,Delivered,5
+ORD-10241,CUST-1290,2026-04-06,Compact Microfiber Towel,Accessories,1,320.0,50,270.0,PHP,Credit Card,Dasmariñas,Ninja Van,Delivered,5
+ORD-10241,CUST-1290,2026-04-06,LED Rechargeable Headlamp,Lighting,1,650.0,100,550.0,PHP,Credit Card,Dasmariñas,Ninja Van,Delivered,4
+ORD-10241,CUST-1290,2026-04-06,2-Person Ultralight Tent,Shelter,1,5800.0,100,5700.0,PHP,Credit Card,Dasmariñas,Ninja Van,Delivered,5
+ORD-10241,CUST-1290,2026-04-06,Portable Camping Stove,Cooking,2,1250.0,50,2450.0,PHP,Credit Card,Dasmariñas,Ninja Van,Delivered,3
+ORD-10242,CUST-1122,2026-06-14,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,50,1400.0,PHP,Bank Transfer,Quezon City,Ninja Van,Delivered,4
+ORD-10242,CUST-1122,2026-06-14,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Bank Transfer,Quezon City,Ninja Van,Delivered,4
+ORD-10242,CUST-1122,2026-06-14,Quick-Dry Hiking Pants,Apparel,1,1350.0,0,1350.0,PHP,Bank Transfer,Quezon City,Ninja Van,Delivered,5
+ORD-10243,CUST-1016,2026-04-14,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Cash on Delivery,Quezon City,LBC,Delivered,3
+ORD-10243,CUST-1016,2026-04-14,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Cash on Delivery,Quezon City,LBC,Delivered,5
+ORD-10243,CUST-1016,2026-04-14,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Cash on Delivery,Quezon City,LBC,Delivered,5
+ORD-10244,CUST-1031,2026-07-04,Thermal Sleeping Bag,Sleep Gear,2,1850.0,0,3700.0,PHP,Credit Card,Taguig,J&T Express,Completed,4
+ORD-10244,CUST-1031,2026-07-04,2-Person Ultralight Tent,Shelter,1,5800.0,100,5700.0,PHP,Credit Card,Taguig,J&T Express,Completed,5
+ORD-10245,CUST-1098,2026-09-27,UV Protection Windbreaker,Apparel,2,1750.0,0,3500.0,PHP,Bank Transfer,Davao City,LBC,Delivered,5
+ORD-10245,CUST-1098,2026-09-27,Solar Power Bank 20000mAh,Electronics,1,1490.0,50,1440.0,PHP,Bank Transfer,Davao City,LBC,Delivered,5
+ORD-10245,CUST-1098,2026-09-27,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,100,380.0,PHP,Bank Transfer,Davao City,LBC,Delivered,5
+ORD-10246,CUST-1161,2026-10-09,Insulated Hydration Flask 1L,Hydration,1,799.0,50,749.0,PHP,Credit Card,Dasmariñas,Ninja Van,Shipped,5
+ORD-10246,CUST-1161,2026-10-09,Trekking Poles (Pair),Accessories,2,1100.0,100,2100.0,PHP,Credit Card,Dasmariñas,Ninja Van,Shipped,5
+ORD-10246,CUST-1161,2026-10-09,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,Credit Card,Dasmariñas,Ninja Van,Shipped,5
+ORD-10247,CUST-1008,2026-09-23,Hiking Backpack 50L,Bags & Packs,2,3499.0,0,6998.0,PHP,Credit Card,Cebu City,J&T Express,Delivered,4
+ORD-10247,CUST-1008,2026-09-23,Portable Camping Stove,Cooking,1,1250.0,50,1200.0,PHP,Credit Card,Cebu City,J&T Express,Delivered,5
+ORD-10248,CUST-1070,2026-05-16,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Bank Transfer,Dasmariñas,LBC,Delivered,5
+ORD-10248,CUST-1070,2026-05-16,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,Bank Transfer,Dasmariñas,LBC,Delivered,3
+ORD-10248,CUST-1070,2026-05-16,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Bank Transfer,Dasmariñas,LBC,Delivered,3
+ORD-10248,CUST-1070,2026-05-16,Quick-Dry Hiking Pants,Apparel,1,1350.0,0,1350.0,PHP,Bank Transfer,Dasmariñas,LBC,Delivered,5
+ORD-10249,CUST-1178,2026-08-11,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,GCash,Taguig,LBC,Shipped,5
+ORD-10249,CUST-1178,2026-08-11,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,GCash,Taguig,LBC,Shipped,5
+ORD-10249,CUST-1178,2026-08-11,Titanium Cookware Set,Cooking,1,1600.0,100,1500.0,PHP,GCash,Taguig,LBC,Shipped,5
+ORD-10249,CUST-1178,2026-08-11,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,GCash,Taguig,LBC,Shipped,5
+ORD-10250,CUST-1221,2026-05-29,Compact Microfiber Towel,Accessories,1,320.0,100,220.0,PHP,Maya,Taguig,LBC,Delivered,5
+ORD-10250,CUST-1221,2026-05-29,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,Maya,Taguig,LBC,Delivered,3
+ORD-10250,CUST-1221,2026-05-29,Portable Camping Stove,Cooking,1,1250.0,100,1150.0,PHP,Maya,Taguig,LBC,Delivered,3
+ORD-10251,CUST-1100,2026-10-15,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,Maya,Davao City,J&T Express,Delivered,5
+ORD-10251,CUST-1100,2026-10-15,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Maya,Davao City,J&T Express,Delivered,5
+ORD-10251,CUST-1100,2026-10-15,First Aid Survival Kit,Safety,1,550.0,50,500.0,PHP,Maya,Davao City,J&T Express,Delivered,3
+ORD-10252,CUST-1226,2026-03-16,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,GCash,Makati,LBC,Delivered,3
+ORD-10252,CUST-1226,2026-03-16,Thermal Sleeping Bag,Sleep Gear,2,1850.0,50,3650.0,PHP,GCash,Makati,LBC,Delivered,4
+ORD-10253,CUST-1175,2026-02-26,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Cash on Delivery,Baguio,Ninja Van,Delivered,4
+ORD-10253,CUST-1175,2026-02-26,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Cash on Delivery,Baguio,Ninja Van,Delivered,5
+ORD-10254,CUST-1087,2026-01-31,UV Protection Windbreaker,Apparel,2,1750.0,0,3500.0,PHP,Maya,Baguio,Flash Express,Delivered,5
+ORD-10254,CUST-1087,2026-01-31,Waterproof Dry Bag 20L,Bags & Packs,2,480.0,100,860.0,PHP,Maya,Baguio,Flash Express,Delivered,5
+ORD-10254,CUST-1087,2026-01-31,Hiking Backpack 50L,Bags & Packs,2,3499.0,0,6998.0,PHP,Maya,Baguio,Flash Express,Delivered,5
+ORD-10255,CUST-1248,2026-09-30,Hiking Backpack 50L,Bags & Packs,2,3499.0,50,6948.0,PHP,Maya,Quezon City,LBC,Delivered,5
+ORD-10255,CUST-1248,2026-09-30,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Maya,Quezon City,LBC,Delivered,4
+ORD-10255,CUST-1248,2026-09-30,Insulated Hydration Flask 1L,Hydration,1,799.0,50,749.0,PHP,Maya,Quezon City,LBC,Delivered,5
+ORD-10256,CUST-1154,2026-05-01,Hiking Backpack 50L,Bags & Packs,1,3499.0,100,3399.0,PHP,GCash,Baguio,Flash Express,Completed,5
+ORD-10256,CUST-1154,2026-05-01,Portable Camping Stove,Cooking,1,1250.0,100,1150.0,PHP,GCash,Baguio,Flash Express,Completed,3
+ORD-10256,CUST-1154,2026-05-01,Insulated Hydration Flask 1L,Hydration,2,799.0,0,1598.0,PHP,GCash,Baguio,Flash Express,Completed,5
+ORD-10256,CUST-1154,2026-05-01,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,GCash,Baguio,Flash Express,Completed,5
+ORD-10257,CUST-1159,2026-06-18,Trekking Poles (Pair),Accessories,2,1100.0,50,2150.0,PHP,Bank Transfer,Makati,LBC,Delivered,3
+ORD-10258,CUST-1069,2026-08-09,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Bank Transfer,Cebu City,LBC,Delivered,4
+ORD-10258,CUST-1069,2026-08-09,LED Rechargeable Headlamp,Lighting,1,650.0,100,550.0,PHP,Bank Transfer,Cebu City,LBC,Delivered,5
+ORD-10258,CUST-1069,2026-08-09,Quick-Dry Hiking Pants,Apparel,1,1350.0,50,1300.0,PHP,Bank Transfer,Cebu City,LBC,Delivered,5
+ORD-10259,CUST-1096,2026-02-24,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Maya,Cebu City,J&T Express,Shipped,5
+ORD-10259,CUST-1096,2026-02-24,LED Rechargeable Headlamp,Lighting,1,650.0,100,550.0,PHP,Maya,Cebu City,J&T Express,Shipped,5
+ORD-10259,CUST-1096,2026-02-24,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,Maya,Cebu City,J&T Express,Shipped,5
+ORD-10260,CUST-1094,2026-07-18,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Cash on Delivery,Makati,LBC,Delivered,5
+ORD-10260,CUST-1094,2026-07-18,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,100,1350.0,PHP,Cash on Delivery,Makati,LBC,Delivered,3
+ORD-10261,CUST-1250,2026-06-16,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,Maya,Makati,Ninja Van,Delivered,3
+ORD-10262,CUST-1292,2026-10-02,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Bank Transfer,Manila,J&T Express,Delivered,5
+ORD-10262,CUST-1292,2026-10-02,Merino Wool Hiking Socks,Footwear,1,390.0,100,290.0,PHP,Bank Transfer,Manila,J&T Express,Delivered,5
+ORD-10262,CUST-1292,2026-10-02,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,Bank Transfer,Manila,J&T Express,Delivered,5
+ORD-10262,CUST-1292,2026-10-02,Compact Microfiber Towel,Accessories,1,320.0,50,270.0,PHP,Bank Transfer,Manila,J&T Express,Delivered,3
+ORD-10263,CUST-1027,2026-09-22,Multi-Tool Pocket Knife,Accessories,1,890.0,100,790.0,PHP,Cash on Delivery,Cebu City,Ninja Van,Delivered,4
+ORD-10263,CUST-1027,2026-09-22,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Cash on Delivery,Cebu City,Ninja Van,Delivered,5
+ORD-10263,CUST-1027,2026-09-22,First Aid Survival Kit,Safety,1,550.0,50,500.0,PHP,Cash on Delivery,Cebu City,Ninja Van,Delivered,5
+ORD-10264,CUST-1063,2026-02-16,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Cash on Delivery,Quezon City,Flash Express,Delivered,5
+ORD-10264,CUST-1063,2026-02-16,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Cash on Delivery,Quezon City,Flash Express,Delivered,5
+ORD-10264,CUST-1063,2026-02-16,First Aid Survival Kit,Safety,2,550.0,0,1100.0,PHP,Cash on Delivery,Quezon City,Flash Express,Delivered,4
+ORD-10264,CUST-1063,2026-02-16,Portable Camping Stove,Cooking,1,1250.0,50,1200.0,PHP,Cash on Delivery,Quezon City,Flash Express,Delivered,5
+ORD-10265,CUST-1147,2026-04-03,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,100,380.0,PHP,Maya,Quezon City,LBC,Delivered,5
+ORD-10265,CUST-1147,2026-04-03,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,Maya,Quezon City,LBC,Delivered,3
+ORD-10265,CUST-1147,2026-04-03,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Maya,Quezon City,LBC,Delivered,3
+ORD-10265,CUST-1147,2026-04-03,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Maya,Quezon City,LBC,Delivered,4
+ORD-10266,CUST-1094,2026-03-17,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Credit Card,Manila,J&T Express,Delivered,4
+ORD-10267,CUST-1055,2026-08-02,LED Rechargeable Headlamp,Lighting,2,650.0,0,1300.0,PHP,Maya,Cebu City,Flash Express,Delivered,5
+ORD-10267,CUST-1055,2026-08-02,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,Maya,Cebu City,Flash Express,Delivered,4
+ORD-10267,CUST-1055,2026-08-02,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Maya,Cebu City,Flash Express,Delivered,5
+ORD-10268,CUST-1241,2026-03-10,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,5
+ORD-10268,CUST-1241,2026-03-10,Multi-Tool Pocket Knife,Accessories,1,890.0,50,840.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,5
+ORD-10268,CUST-1241,2026-03-10,First Aid Survival Kit,Safety,1,550.0,50,500.0,PHP,Credit Card,Quezon City,Flash Express,Delivered,5
+ORD-10269,CUST-1288,2026-09-12,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Cash on Delivery,Makati,LBC,Completed,5
+ORD-10269,CUST-1288,2026-09-12,Trekking Poles (Pair),Accessories,1,1100.0,100,1000.0,PHP,Cash on Delivery,Makati,LBC,Completed,5
+ORD-10270,CUST-1023,2026-06-20,Thermal Sleeping Bag,Sleep Gear,1,1850.0,50,1800.0,PHP,Bank Transfer,Dasmariñas,LBC,Delivered,4
+ORD-10270,CUST-1023,2026-06-20,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,50,1400.0,PHP,Bank Transfer,Dasmariñas,LBC,Delivered,5
+ORD-10271,CUST-1202,2026-10-19,Hiking Backpack 50L,Bags & Packs,1,3499.0,100,3399.0,PHP,Maya,Manila,LBC,Delivered,3
+ORD-10271,CUST-1202,2026-10-19,UV Protection Windbreaker,Apparel,2,1750.0,100,3400.0,PHP,Maya,Manila,LBC,Delivered,5
+ORD-10272,CUST-1028,2026-09-24,Quick-Dry Hiking Pants,Apparel,1,1350.0,50,1300.0,PHP,Bank Transfer,Baguio,Flash Express,Delivered,4
+ORD-10273,CUST-1076,2026-05-24,Hiking Backpack 50L,Bags & Packs,1,3499.0,50,3449.0,PHP,Credit Card,Manila,Ninja Van,Delivered,5
+ORD-10273,CUST-1076,2026-05-24,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Credit Card,Manila,Ninja Van,Delivered,5
+ORD-10273,CUST-1076,2026-05-24,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,50,430.0,PHP,Credit Card,Manila,Ninja Van,Delivered,5
+ORD-10273,CUST-1076,2026-05-24,Quick-Dry Hiking Pants,Apparel,1,1350.0,0,1350.0,PHP,Credit Card,Manila,Ninja Van,Delivered,4
+ORD-10274,CUST-1191,2026-01-20,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,50,1400.0,PHP,GCash,Davao City,Ninja Van,Delivered,5
+ORD-10274,CUST-1191,2026-01-20,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,GCash,Davao City,Ninja Van,Delivered,3
+ORD-10274,CUST-1191,2026-01-20,Quick-Dry Hiking Pants,Apparel,1,1350.0,0,1350.0,PHP,GCash,Davao City,Ninja Van,Delivered,5
+ORD-10274,CUST-1191,2026-01-20,Solar Power Bank 20000mAh,Electronics,1,1490.0,100,1390.0,PHP,GCash,Davao City,Ninja Van,Delivered,5
+ORD-10275,CUST-1267,2026-03-01,Hiking Backpack 50L,Bags & Packs,1,3499.0,50,3449.0,PHP,Credit Card,Manila,J&T Express,Delivered,5
+ORD-10275,CUST-1267,2026-03-01,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Credit Card,Manila,J&T Express,Delivered,5
+ORD-10275,CUST-1267,2026-03-01,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,50,430.0,PHP,Credit Card,Manila,J&T Express,Delivered,5
+ORD-10276,CUST-1060,2026-05-20,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Maya,Cebu City,Flash Express,Delivered,4
+ORD-10276,CUST-1060,2026-05-20,Thermal Sleeping Bag,Sleep Gear,1,1850.0,50,1800.0,PHP,Maya,Cebu City,Flash Express,Delivered,3
+ORD-10276,CUST-1060,2026-05-20,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Maya,Cebu City,Flash Express,Delivered,4
+ORD-10276,CUST-1060,2026-05-20,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Maya,Cebu City,Flash Express,Delivered,4
+ORD-10276,CUST-1060,2026-05-20,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Maya,Cebu City,Flash Express,Delivered,5
+ORD-10277,CUST-1200,2026-04-02,Compact Microfiber Towel,Accessories,1,320.0,100,220.0,PHP,Bank Transfer,Makati,Flash Express,Delivered,4
+ORD-10277,CUST-1200,2026-04-02,2-Person Ultralight Tent,Shelter,1,5800.0,100,5700.0,PHP,Bank Transfer,Makati,Flash Express,Delivered,5
+ORD-10277,CUST-1200,2026-04-02,Solar Power Bank 20000mAh,Electronics,1,1490.0,0,1490.0,PHP,Bank Transfer,Makati,Flash Express,Delivered,5
+ORD-10277,CUST-1200,2026-04-02,Titanium Cookware Set,Cooking,2,1600.0,50,3150.0,PHP,Bank Transfer,Makati,Flash Express,Delivered,5
+ORD-10278,CUST-1200,2026-04-04,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Credit Card,Dasmariñas,Ninja Van,Delivered,5
+ORD-10279,CUST-1178,2026-10-22,Multi-Tool Pocket Knife,Accessories,1,890.0,100,790.0,PHP,Bank Transfer,Cebu City,J&T Express,Delivered,5
+ORD-10279,CUST-1178,2026-10-22,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Bank Transfer,Cebu City,J&T Express,Delivered,5
+ORD-10279,CUST-1178,2026-10-22,First Aid Survival Kit,Safety,1,550.0,50,500.0,PHP,Bank Transfer,Cebu City,J&T Express,Delivered,5
+ORD-10279,CUST-1178,2026-10-22,Compact Microfiber Towel,Accessories,1,320.0,100,220.0,PHP,Bank Transfer,Cebu City,J&T Express,Delivered,5
+ORD-10280,CUST-1290,2026-06-25,Thermal Sleeping Bag,Sleep Gear,1,1850.0,100,1750.0,PHP,Maya,Davao City,J&T Express,Shipped,5
+ORD-10280,CUST-1290,2026-06-25,Solar Power Bank 20000mAh,Electronics,1,1490.0,100,1390.0,PHP,Maya,Davao City,J&T Express,Shipped,4
+ORD-10280,CUST-1290,2026-06-25,Quick-Dry Hiking Pants,Apparel,1,1350.0,100,1250.0,PHP,Maya,Davao City,J&T Express,Shipped,5
+ORD-10280,CUST-1290,2026-06-25,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Maya,Davao City,J&T Express,Shipped,4
+ORD-10281,CUST-1111,2026-03-13,Hiking Backpack 50L,Bags & Packs,1,3499.0,50,3449.0,PHP,Maya,Manila,LBC,Delivered,5
+ORD-10281,CUST-1111,2026-03-13,UV Protection Windbreaker,Apparel,1,1750.0,50,1700.0,PHP,Maya,Manila,LBC,Delivered,5
+ORD-10282,CUST-1176,2026-02-15,LED Rechargeable Headlamp,Lighting,2,650.0,0,1300.0,PHP,Bank Transfer,Manila,Ninja Van,Completed,5
+ORD-10282,CUST-1176,2026-02-15,Multi-Tool Pocket Knife,Accessories,1,890.0,100,790.0,PHP,Bank Transfer,Manila,Ninja Van,Completed,5
+ORD-10282,CUST-1176,2026-02-15,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,Bank Transfer,Manila,Ninja Van,Completed,5
+ORD-10282,CUST-1176,2026-02-15,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Bank Transfer,Manila,Ninja Van,Completed,5
+ORD-10283,CUST-1243,2026-03-13,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Bank Transfer,Davao City,Ninja Van,Completed,4
+ORD-10283,CUST-1243,2026-03-13,Portable Camping Stove,Cooking,1,1250.0,100,1150.0,PHP,Bank Transfer,Davao City,Ninja Van,Completed,5
+ORD-10284,CUST-1069,2026-02-13,LED Rechargeable Headlamp,Lighting,1,650.0,100,550.0,PHP,Cash on Delivery,Cebu City,Ninja Van,Completed,5
+ORD-10284,CUST-1069,2026-02-13,Solar Power Bank 20000mAh,Electronics,1,1490.0,0,1490.0,PHP,Cash on Delivery,Cebu City,Ninja Van,Completed,5
+ORD-10284,CUST-1069,2026-02-13,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,100,380.0,PHP,Cash on Delivery,Cebu City,Ninja Van,Completed,5
+ORD-10285,CUST-1256,2026-05-18,UV Protection Windbreaker,Apparel,1,1750.0,100,1650.0,PHP,Bank Transfer,Taguig,Flash Express,Delivered,4
+ORD-10286,CUST-1072,2026-09-27,Inflatable Sleeping Pad,Sleep Gear,2,1450.0,0,2900.0,PHP,Cash on Delivery,Baguio,J&T Express,Delivered,5
+ORD-10286,CUST-1072,2026-09-27,Thermal Sleeping Bag,Sleep Gear,1,1850.0,100,1750.0,PHP,Cash on Delivery,Baguio,J&T Express,Delivered,3
+ORD-10286,CUST-1072,2026-09-27,2-Person Ultralight Tent,Shelter,1,5800.0,100,5700.0,PHP,Cash on Delivery,Baguio,J&T Express,Delivered,5
+ORD-10287,CUST-1150,2026-05-29,UV Protection Windbreaker,Apparel,1,1750.0,50,1700.0,PHP,GCash,Cebu City,Flash Express,Shipped,3
+ORD-10287,CUST-1150,2026-05-29,Hiking Backpack 50L,Bags & Packs,1,3499.0,100,3399.0,PHP,GCash,Cebu City,Flash Express,Shipped,4
+ORD-10287,CUST-1150,2026-05-29,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,GCash,Cebu City,Flash Express,Shipped,5
+ORD-10288,CUST-1129,2026-03-09,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,50,1400.0,PHP,Credit Card,Baguio,Flash Express,Delivered,5
+ORD-10289,CUST-1133,2026-05-01,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,100,1350.0,PHP,Maya,Makati,J&T Express,Delivered,5
+ORD-10290,CUST-1121,2026-08-14,Waterproof Trekking Shoes,Footwear,1,4250.0,100,4150.0,PHP,Maya,Cebu City,Flash Express,Delivered,5
+ORD-10290,CUST-1121,2026-08-14,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Maya,Cebu City,Flash Express,Delivered,5
+ORD-10291,CUST-1199,2026-08-31,Insulated Hydration Flask 1L,Hydration,2,799.0,100,1498.0,PHP,Maya,Baguio,Ninja Van,Delivered,3
+ORD-10291,CUST-1199,2026-08-31,Portable Camping Stove,Cooking,2,1250.0,50,2450.0,PHP,Maya,Baguio,Ninja Van,Delivered,5
+ORD-10291,CUST-1199,2026-08-31,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Maya,Baguio,Ninja Van,Delivered,5
+ORD-10291,CUST-1199,2026-08-31,Compact Microfiber Towel,Accessories,1,320.0,100,220.0,PHP,Maya,Baguio,Ninja Van,Delivered,5
+ORD-10291,CUST-1199,2026-08-31,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Maya,Baguio,Ninja Van,Delivered,3
+ORD-10292,CUST-1099,2026-09-24,Hiking Backpack 50L,Bags & Packs,1,3499.0,100,3399.0,PHP,Maya,Dasmariñas,Flash Express,Delivered,5
+ORD-10292,CUST-1099,2026-09-24,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,50,430.0,PHP,Maya,Dasmariñas,Flash Express,Delivered,5
+ORD-10292,CUST-1099,2026-09-24,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Maya,Dasmariñas,Flash Express,Delivered,3
+ORD-10293,CUST-1047,2026-01-30,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Bank Transfer,Davao City,J&T Express,Shipped,4
+ORD-10294,CUST-1094,2026-05-10,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Cash on Delivery,Baguio,J&T Express,Delivered,5
+ORD-10294,CUST-1094,2026-05-10,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Cash on Delivery,Baguio,J&T Express,Delivered,5
+ORD-10294,CUST-1094,2026-05-10,Hiking Backpack 50L,Bags & Packs,2,3499.0,50,6948.0,PHP,Cash on Delivery,Baguio,J&T Express,Delivered,5
+ORD-10294,CUST-1094,2026-05-10,LED Rechargeable Headlamp,Lighting,1,650.0,100,550.0,PHP,Cash on Delivery,Baguio,J&T Express,Delivered,5
+ORD-10294,CUST-1094,2026-05-10,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Cash on Delivery,Baguio,J&T Express,Delivered,5
+ORD-10295,CUST-1055,2026-03-15,2-Person Ultralight Tent,Shelter,2,5800.0,0,11600.0,PHP,Maya,Taguig,J&T Express,Completed,4
+ORD-10295,CUST-1055,2026-03-15,Thermal Sleeping Bag,Sleep Gear,2,1850.0,100,3600.0,PHP,Maya,Taguig,J&T Express,Completed,5
+ORD-10295,CUST-1055,2026-03-15,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,50,1400.0,PHP,Maya,Taguig,J&T Express,Completed,5
+ORD-10295,CUST-1055,2026-03-15,Hiking Backpack 50L,Bags & Packs,1,3499.0,100,3399.0,PHP,Maya,Taguig,J&T Express,Completed,5
+ORD-10296,CUST-1223,2026-07-26,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Bank Transfer,Quezon City,LBC,Delivered,4
+ORD-10296,CUST-1223,2026-07-26,Thermal Sleeping Bag,Sleep Gear,1,1850.0,50,1800.0,PHP,Bank Transfer,Quezon City,LBC,Delivered,4
+ORD-10296,CUST-1223,2026-07-26,UV Protection Windbreaker,Apparel,1,1750.0,50,1700.0,PHP,Bank Transfer,Quezon City,LBC,Delivered,5
+ORD-10296,CUST-1223,2026-07-26,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Bank Transfer,Quezon City,LBC,Delivered,5
+ORD-10296,CUST-1223,2026-07-26,Quick-Dry Hiking Pants,Apparel,1,1350.0,50,1300.0,PHP,Bank Transfer,Quezon City,LBC,Delivered,5
+ORD-10297,CUST-1054,2026-07-03,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,GCash,Makati,Ninja Van,Shipped,3
+ORD-10298,CUST-1157,2026-09-13,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,GCash,Makati,J&T Express,Delivered,3
+ORD-10298,CUST-1157,2026-09-13,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,GCash,Makati,J&T Express,Delivered,4
+ORD-10299,CUST-1018,2026-03-14,Waterproof Trekking Shoes,Footwear,2,4250.0,0,8500.0,PHP,GCash,Makati,Ninja Van,Completed,5
+ORD-10299,CUST-1018,2026-03-14,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,GCash,Makati,Ninja Van,Completed,4
+ORD-10299,CUST-1018,2026-03-14,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,GCash,Makati,Ninja Van,Completed,4
+ORD-10300,CUST-1103,2026-08-07,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Cash on Delivery,Dasmariñas,Flash Express,Delivered,5
+ORD-10300,CUST-1103,2026-08-07,Insulated Hydration Flask 1L,Hydration,1,799.0,100,699.0,PHP,Cash on Delivery,Dasmariñas,Flash Express,Delivered,5
+ORD-10300,CUST-1103,2026-08-07,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Cash on Delivery,Dasmariñas,Flash Express,Delivered,5
+ORD-10301,CUST-1124,2026-10-25,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Maya,Manila,J&T Express,Shipped,4
+ORD-10301,CUST-1124,2026-10-25,Merino Wool Hiking Socks,Footwear,1,390.0,50,340.0,PHP,Maya,Manila,J&T Express,Shipped,5
+ORD-10301,CUST-1124,2026-10-25,Trekking Poles (Pair),Accessories,1,1100.0,100,1000.0,PHP,Maya,Manila,J&T Express,Shipped,5
+ORD-10302,CUST-1105,2026-03-15,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Bank Transfer,Baguio,Ninja Van,Delivered,5
+ORD-10302,CUST-1105,2026-03-15,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Bank Transfer,Baguio,Ninja Van,Delivered,3
+ORD-10302,CUST-1105,2026-03-15,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Bank Transfer,Baguio,Ninja Van,Delivered,5
+ORD-10302,CUST-1105,2026-03-15,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Bank Transfer,Baguio,Ninja Van,Delivered,5
+ORD-10302,CUST-1105,2026-03-15,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Bank Transfer,Baguio,Ninja Van,Delivered,5
+ORD-10303,CUST-1242,2026-09-12,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Maya,Cebu City,J&T Express,Delivered,3
+ORD-10303,CUST-1242,2026-09-12,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Maya,Cebu City,J&T Express,Delivered,5
+ORD-10304,CUST-1263,2026-03-01,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Maya,Quezon City,Ninja Van,Delivered,5
+ORD-10304,CUST-1263,2026-03-01,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Maya,Quezon City,Ninja Van,Delivered,5
+ORD-10305,CUST-1112,2026-02-07,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,Bank Transfer,Makati,Ninja Van,Delivered,5
+ORD-10305,CUST-1112,2026-02-07,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,Bank Transfer,Makati,Ninja Van,Delivered,5
+ORD-10305,CUST-1112,2026-02-07,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Bank Transfer,Makati,Ninja Van,Delivered,3
+ORD-10306,CUST-1030,2026-05-24,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,GCash,Cebu City,Ninja Van,Delivered,3
+ORD-10306,CUST-1030,2026-05-24,Portable Camping Stove,Cooking,2,1250.0,0,2500.0,PHP,GCash,Cebu City,Ninja Van,Delivered,4
+ORD-10307,CUST-1210,2026-09-25,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Maya,Makati,Ninja Van,Completed,3
+ORD-10307,CUST-1210,2026-09-25,Compact Microfiber Towel,Accessories,2,320.0,0,640.0,PHP,Maya,Makati,Ninja Van,Completed,5
+ORD-10308,CUST-1022,2026-01-21,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Bank Transfer,Makati,J&T Express,Delivered,3
+ORD-10308,CUST-1022,2026-01-21,Solar Power Bank 20000mAh,Electronics,1,1490.0,100,1390.0,PHP,Bank Transfer,Makati,J&T Express,Delivered,5
+ORD-10309,CUST-1067,2026-07-03,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Maya,Baguio,J&T Express,Delivered,5
+ORD-10309,CUST-1067,2026-07-03,Hiking Backpack 50L,Bags & Packs,1,3499.0,50,3449.0,PHP,Maya,Baguio,J&T Express,Delivered,5
+ORD-10309,CUST-1067,2026-07-03,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Maya,Baguio,J&T Express,Delivered,4
+ORD-10310,CUST-1197,2026-06-20,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Credit Card,Manila,Ninja Van,Shipped,3
+ORD-10310,CUST-1197,2026-06-20,Multi-Tool Pocket Knife,Accessories,2,890.0,50,1730.0,PHP,Credit Card,Manila,Ninja Van,Shipped,4
+ORD-10310,CUST-1197,2026-06-20,First Aid Survival Kit,Safety,1,550.0,50,500.0,PHP,Credit Card,Manila,Ninja Van,Shipped,5
+ORD-10311,CUST-1020,2026-07-07,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Maya,Dasmariñas,J&T Express,Delivered,5
+ORD-10311,CUST-1020,2026-07-07,Insulated Hydration Flask 1L,Hydration,1,799.0,50,749.0,PHP,Maya,Dasmariñas,J&T Express,Delivered,3
+ORD-10311,CUST-1020,2026-07-07,Titanium Cookware Set,Cooking,1,1600.0,50,1550.0,PHP,Maya,Dasmariñas,J&T Express,Delivered,4
+ORD-10311,CUST-1020,2026-07-07,Trekking Poles (Pair),Accessories,1,1100.0,50,1050.0,PHP,Maya,Dasmariñas,J&T Express,Delivered,5
+ORD-10312,CUST-1248,2026-09-14,2-Person Ultralight Tent,Shelter,1,5800.0,100,5700.0,PHP,Cash on Delivery,Quezon City,Flash Express,Delivered,5
+ORD-10312,CUST-1248,2026-09-14,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Cash on Delivery,Quezon City,Flash Express,Delivered,4
+ORD-10313,CUST-1084,2026-05-22,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,Maya,Quezon City,Ninja Van,Delivered,5
+ORD-10313,CUST-1084,2026-05-22,Titanium Cookware Set,Cooking,1,1600.0,100,1500.0,PHP,Maya,Quezon City,Ninja Van,Delivered,4
+ORD-10314,CUST-1149,2026-04-07,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,GCash,Quezon City,LBC,Completed,5
+ORD-10314,CUST-1149,2026-04-07,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,GCash,Quezon City,LBC,Completed,5
+ORD-10314,CUST-1149,2026-04-07,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,GCash,Quezon City,LBC,Completed,5
+ORD-10315,CUST-1247,2026-07-10,Trekking Poles (Pair),Accessories,2,1100.0,0,2200.0,PHP,GCash,Baguio,LBC,Delivered,5
+ORD-10315,CUST-1247,2026-07-10,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,GCash,Baguio,LBC,Delivered,5
+ORD-10315,CUST-1247,2026-07-10,Waterproof Trekking Shoes,Footwear,1,4250.0,100,4150.0,PHP,GCash,Baguio,LBC,Delivered,5
+ORD-10316,CUST-1189,2026-04-05,UV Protection Windbreaker,Apparel,2,1750.0,0,3500.0,PHP,Bank Transfer,Davao City,J&T Express,Delivered,5
+ORD-10316,CUST-1189,2026-04-05,Hiking Backpack 50L,Bags & Packs,2,3499.0,0,6998.0,PHP,Bank Transfer,Davao City,J&T Express,Delivered,4
+ORD-10316,CUST-1189,2026-04-05,Waterproof Dry Bag 20L,Bags & Packs,2,480.0,50,910.0,PHP,Bank Transfer,Davao City,J&T Express,Delivered,5
+ORD-10316,CUST-1189,2026-04-05,Thermal Sleeping Bag,Sleep Gear,1,1850.0,50,1800.0,PHP,Bank Transfer,Davao City,J&T Express,Delivered,3
+ORD-10316,CUST-1189,2026-04-05,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,Bank Transfer,Davao City,J&T Express,Delivered,5
+ORD-10317,CUST-1057,2026-09-03,Solar Power Bank 20000mAh,Electronics,1,1490.0,0,1490.0,PHP,Maya,Manila,J&T Express,Delivered,3
+ORD-10317,CUST-1057,2026-09-03,UV Protection Windbreaker,Apparel,1,1750.0,50,1700.0,PHP,Maya,Manila,J&T Express,Delivered,5
+ORD-10317,CUST-1057,2026-09-03,2-Person Ultralight Tent,Shelter,1,5800.0,100,5700.0,PHP,Maya,Manila,J&T Express,Delivered,4
+ORD-10318,CUST-1262,2026-07-21,Titanium Cookware Set,Cooking,1,1600.0,50,1550.0,PHP,Cash on Delivery,Davao City,Flash Express,Delivered,4
+ORD-10318,CUST-1262,2026-07-21,Portable Camping Stove,Cooking,1,1250.0,50,1200.0,PHP,Cash on Delivery,Davao City,Flash Express,Delivered,5
+ORD-10318,CUST-1262,2026-07-21,Insulated Hydration Flask 1L,Hydration,2,799.0,0,1598.0,PHP,Cash on Delivery,Davao City,Flash Express,Delivered,5
+ORD-10319,CUST-1227,2026-08-01,Hiking Backpack 50L,Bags & Packs,1,3499.0,50,3449.0,PHP,Credit Card,Makati,LBC,Completed,4
+ORD-10319,CUST-1227,2026-08-01,UV Protection Windbreaker,Apparel,2,1750.0,100,3400.0,PHP,Credit Card,Makati,LBC,Completed,4
+ORD-10319,CUST-1227,2026-08-01,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,50,430.0,PHP,Credit Card,Makati,LBC,Completed,5
+ORD-10319,CUST-1227,2026-08-01,Trekking Poles (Pair),Accessories,1,1100.0,100,1000.0,PHP,Credit Card,Makati,LBC,Completed,3
+ORD-10319,CUST-1227,2026-08-01,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Credit Card,Makati,LBC,Completed,5
+ORD-10320,CUST-1095,2026-07-15,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Bank Transfer,Baguio,Ninja Van,Delivered,5
+ORD-10320,CUST-1095,2026-07-15,Merino Wool Hiking Socks,Footwear,1,390.0,100,290.0,PHP,Bank Transfer,Baguio,Ninja Van,Delivered,4
+ORD-10320,CUST-1095,2026-07-15,Solar Power Bank 20000mAh,Electronics,1,1490.0,50,1440.0,PHP,Bank Transfer,Baguio,Ninja Van,Delivered,5
+ORD-10320,CUST-1095,2026-07-15,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Bank Transfer,Baguio,Ninja Van,Delivered,4
+ORD-10321,CUST-1061,2026-05-22,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,GCash,Makati,Flash Express,Delivered,5
+ORD-10321,CUST-1061,2026-05-22,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,GCash,Makati,Flash Express,Delivered,5
+ORD-10321,CUST-1061,2026-05-22,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,GCash,Makati,Flash Express,Delivered,5
+ORD-10322,CUST-1083,2026-01-28,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Credit Card,Baguio,Ninja Van,Delivered,3
+ORD-10322,CUST-1083,2026-01-28,Portable Camping Stove,Cooking,1,1250.0,50,1200.0,PHP,Credit Card,Baguio,Ninja Van,Delivered,5
+ORD-10322,CUST-1083,2026-01-28,Titanium Cookware Set,Cooking,1,1600.0,50,1550.0,PHP,Credit Card,Baguio,Ninja Van,Delivered,4
+ORD-10322,CUST-1083,2026-01-28,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,Credit Card,Baguio,Ninja Van,Delivered,5
+ORD-10322,CUST-1083,2026-01-28,Thermal Sleeping Bag,Sleep Gear,1,1850.0,50,1800.0,PHP,Credit Card,Baguio,Ninja Van,Delivered,5
+ORD-10323,CUST-1248,2026-07-30,Compact Microfiber Towel,Accessories,1,320.0,0,320.0,PHP,Maya,Dasmariñas,J&T Express,Delivered,4
+ORD-10323,CUST-1248,2026-07-30,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Maya,Dasmariñas,J&T Express,Delivered,5
+ORD-10323,CUST-1248,2026-07-30,Thermal Sleeping Bag,Sleep Gear,1,1850.0,50,1800.0,PHP,Maya,Dasmariñas,J&T Express,Delivered,5
+ORD-10324,CUST-1226,2026-09-25,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Maya,Dasmariñas,Flash Express,Delivered,5
+ORD-10324,CUST-1226,2026-09-25,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Maya,Dasmariñas,Flash Express,Delivered,4
+ORD-10324,CUST-1226,2026-09-25,Merino Wool Hiking Socks,Footwear,1,390.0,100,290.0,PHP,Maya,Dasmariñas,Flash Express,Delivered,5
+ORD-10324,CUST-1226,2026-09-25,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Maya,Dasmariñas,Flash Express,Delivered,4
+ORD-10325,CUST-1262,2026-01-31,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,GCash,Makati,Flash Express,Delivered,5
+ORD-10325,CUST-1262,2026-01-31,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,GCash,Makati,Flash Express,Delivered,4
+ORD-10326,CUST-1074,2026-05-23,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Credit Card,Dasmariñas,LBC,Completed,5
+ORD-10326,CUST-1074,2026-05-23,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Credit Card,Dasmariñas,LBC,Completed,4
+ORD-10326,CUST-1074,2026-05-23,First Aid Survival Kit,Safety,2,550.0,100,1000.0,PHP,Credit Card,Dasmariñas,LBC,Completed,5
+ORD-10326,CUST-1074,2026-05-23,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,Credit Card,Dasmariñas,LBC,Completed,5
+ORD-10327,CUST-1054,2026-04-03,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Cash on Delivery,Dasmariñas,Ninja Van,Delivered,5
+ORD-10327,CUST-1054,2026-04-03,Titanium Cookware Set,Cooking,1,1600.0,50,1550.0,PHP,Cash on Delivery,Dasmariñas,Ninja Van,Delivered,3
+ORD-10328,CUST-1020,2026-02-12,Solar Power Bank 20000mAh,Electronics,1,1490.0,100,1390.0,PHP,Cash on Delivery,Dasmariñas,J&T Express,Delivered,5
+ORD-10328,CUST-1020,2026-02-12,Insulated Hydration Flask 1L,Hydration,2,799.0,100,1498.0,PHP,Cash on Delivery,Dasmariñas,J&T Express,Delivered,5
+ORD-10328,CUST-1020,2026-02-12,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,100,380.0,PHP,Cash on Delivery,Dasmariñas,J&T Express,Delivered,4
+ORD-10329,CUST-1202,2026-08-13,LED Rechargeable Headlamp,Lighting,2,650.0,50,1250.0,PHP,GCash,Quezon City,LBC,Delivered,5
+ORD-10329,CUST-1202,2026-08-13,2-Person Ultralight Tent,Shelter,1,5800.0,100,5700.0,PHP,GCash,Quezon City,LBC,Delivered,4
+ORD-10329,CUST-1202,2026-08-13,UV Protection Windbreaker,Apparel,1,1750.0,100,1650.0,PHP,GCash,Quezon City,LBC,Delivered,5
+ORD-10330,CUST-1142,2026-10-25,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Cash on Delivery,Baguio,Flash Express,Delivered,4
+ORD-10330,CUST-1142,2026-10-25,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,100,380.0,PHP,Cash on Delivery,Baguio,Flash Express,Delivered,5
+ORD-10330,CUST-1142,2026-10-25,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,Cash on Delivery,Baguio,Flash Express,Delivered,4
+ORD-10331,CUST-1050,2026-01-28,Merino Wool Hiking Socks,Footwear,1,390.0,100,290.0,PHP,Cash on Delivery,Quezon City,J&T Express,Completed,5
+ORD-10331,CUST-1050,2026-01-28,Waterproof Trekking Shoes,Footwear,1,4250.0,100,4150.0,PHP,Cash on Delivery,Quezon City,J&T Express,Completed,5
+ORD-10332,CUST-1258,2026-05-14,Thermal Sleeping Bag,Sleep Gear,1,1850.0,50,1800.0,PHP,Bank Transfer,Dasmariñas,J&T Express,Completed,5
+ORD-10333,CUST-1226,2026-08-24,Merino Wool Hiking Socks,Footwear,1,390.0,100,290.0,PHP,GCash,Manila,LBC,Delivered,4
+ORD-10333,CUST-1226,2026-08-24,Trekking Poles (Pair),Accessories,1,1100.0,100,1000.0,PHP,GCash,Manila,LBC,Delivered,3
+ORD-10333,CUST-1226,2026-08-24,Waterproof Trekking Shoes,Footwear,1,4250.0,100,4150.0,PHP,GCash,Manila,LBC,Delivered,5
+ORD-10333,CUST-1226,2026-08-24,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,GCash,Manila,LBC,Delivered,3
+ORD-10334,CUST-1028,2026-07-20,Quick-Dry Hiking Pants,Apparel,1,1350.0,0,1350.0,PHP,Cash on Delivery,Baguio,Ninja Van,Delivered,5
+ORD-10334,CUST-1028,2026-07-20,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,Cash on Delivery,Baguio,Ninja Van,Delivered,3
+ORD-10335,CUST-1013,2026-06-24,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,GCash,Taguig,Ninja Van,Delivered,4
+ORD-10335,CUST-1013,2026-06-24,Trekking Poles (Pair),Accessories,2,1100.0,0,2200.0,PHP,GCash,Taguig,Ninja Van,Delivered,5
+ORD-10336,CUST-1086,2026-01-11,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,50,430.0,PHP,GCash,Dasmariñas,Ninja Van,Delivered,5
+ORD-10336,CUST-1086,2026-01-11,Hiking Backpack 50L,Bags & Packs,1,3499.0,50,3449.0,PHP,GCash,Dasmariñas,Ninja Van,Delivered,3
+ORD-10336,CUST-1086,2026-01-11,UV Protection Windbreaker,Apparel,1,1750.0,100,1650.0,PHP,GCash,Dasmariñas,Ninja Van,Delivered,4
+ORD-10337,CUST-1105,2026-06-22,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Bank Transfer,Makati,Flash Express,Delivered,3
+ORD-10337,CUST-1105,2026-06-22,Merino Wool Hiking Socks,Footwear,1,390.0,50,340.0,PHP,Bank Transfer,Makati,Flash Express,Delivered,4
+ORD-10338,CUST-1152,2026-10-21,Portable Camping Stove,Cooking,1,1250.0,0,1250.0,PHP,Maya,Taguig,J&T Express,Shipped,5
+ORD-10338,CUST-1152,2026-10-21,Titanium Cookware Set,Cooking,1,1600.0,50,1550.0,PHP,Maya,Taguig,J&T Express,Shipped,5
+ORD-10338,CUST-1152,2026-10-21,Insulated Hydration Flask 1L,Hydration,1,799.0,50,749.0,PHP,Maya,Taguig,J&T Express,Shipped,5
+ORD-10339,CUST-1212,2026-07-25,Multi-Tool Pocket Knife,Accessories,1,890.0,100,790.0,PHP,Bank Transfer,Baguio,Ninja Van,Delivered,5
+ORD-10339,CUST-1212,2026-07-25,LED Rechargeable Headlamp,Lighting,2,650.0,100,1200.0,PHP,Bank Transfer,Baguio,Ninja Van,Delivered,3
+ORD-10339,CUST-1212,2026-07-25,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Bank Transfer,Baguio,Ninja Van,Delivered,3
+ORD-10340,CUST-1102,2026-07-06,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,100,380.0,PHP,Maya,Makati,LBC,Delivered,5
+ORD-10340,CUST-1102,2026-07-06,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Maya,Makati,LBC,Delivered,5
+ORD-10340,CUST-1102,2026-07-06,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,Maya,Makati,LBC,Delivered,5
+ORD-10341,CUST-1122,2026-02-28,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,Maya,Cebu City,J&T Express,Delivered,4
+ORD-10341,CUST-1122,2026-02-28,Multi-Tool Pocket Knife,Accessories,1,890.0,50,840.0,PHP,Maya,Cebu City,J&T Express,Delivered,3
+ORD-10341,CUST-1122,2026-02-28,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Maya,Cebu City,J&T Express,Delivered,5
+ORD-10341,CUST-1122,2026-02-28,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Maya,Cebu City,J&T Express,Delivered,4
+ORD-10342,CUST-1160,2026-06-02,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,Cash on Delivery,Quezon City,Flash Express,Delivered,5
+ORD-10342,CUST-1160,2026-06-02,Trekking Poles (Pair),Accessories,2,1100.0,0,2200.0,PHP,Cash on Delivery,Quezon City,Flash Express,Delivered,3
+ORD-10342,CUST-1160,2026-06-02,Merino Wool Hiking Socks,Footwear,1,390.0,50,340.0,PHP,Cash on Delivery,Quezon City,Flash Express,Delivered,5
+ORD-10342,CUST-1160,2026-06-02,Multi-Tool Pocket Knife,Accessories,1,890.0,100,790.0,PHP,Cash on Delivery,Quezon City,Flash Express,Delivered,5
+ORD-10343,CUST-1216,2026-04-22,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,GCash,Cebu City,LBC,Delivered,5
+ORD-10343,CUST-1216,2026-04-22,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,GCash,Cebu City,LBC,Delivered,5
+ORD-10344,CUST-1142,2026-03-16,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Cash on Delivery,Dasmariñas,Flash Express,Completed,5
+ORD-10345,CUST-1129,2026-10-10,Merino Wool Hiking Socks,Footwear,2,390.0,100,680.0,PHP,Credit Card,Taguig,Flash Express,Completed,5
+ORD-10345,CUST-1129,2026-10-10,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Credit Card,Taguig,Flash Express,Completed,5
+ORD-10345,CUST-1129,2026-10-10,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Credit Card,Taguig,Flash Express,Completed,5
+ORD-10346,CUST-1162,2026-07-28,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,50,430.0,PHP,Credit Card,Manila,J&T Express,Completed,5
+ORD-10346,CUST-1162,2026-07-28,UV Protection Windbreaker,Apparel,1,1750.0,50,1700.0,PHP,Credit Card,Manila,J&T Express,Completed,5
+ORD-10346,CUST-1162,2026-07-28,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,Credit Card,Manila,J&T Express,Completed,5
+ORD-10346,CUST-1162,2026-07-28,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Credit Card,Manila,J&T Express,Completed,4
+ORD-10346,CUST-1162,2026-07-28,Portable Camping Stove,Cooking,1,1250.0,50,1200.0,PHP,Credit Card,Manila,J&T Express,Completed,5
+ORD-10347,CUST-1294,2026-02-12,Inflatable Sleeping Pad,Sleep Gear,2,1450.0,0,2900.0,PHP,Maya,Quezon City,LBC,Delivered,5
+ORD-10347,CUST-1294,2026-02-12,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,50,430.0,PHP,Maya,Quezon City,LBC,Delivered,5
+ORD-10347,CUST-1294,2026-02-12,Quick-Dry Hiking Pants,Apparel,1,1350.0,100,1250.0,PHP,Maya,Quezon City,LBC,Delivered,5
+ORD-10347,CUST-1294,2026-02-12,Insulated Hydration Flask 1L,Hydration,1,799.0,100,699.0,PHP,Maya,Quezon City,LBC,Delivered,3
+ORD-10347,CUST-1294,2026-02-12,Solar Power Bank 20000mAh,Electronics,1,1490.0,0,1490.0,PHP,Maya,Quezon City,LBC,Delivered,3
+ORD-10348,CUST-1117,2026-02-15,UV Protection Windbreaker,Apparel,1,1750.0,50,1700.0,PHP,Maya,Makati,Flash Express,Shipped,5
+ORD-10348,CUST-1117,2026-02-15,Waterproof Dry Bag 20L,Bags & Packs,2,480.0,0,960.0,PHP,Maya,Makati,Flash Express,Shipped,4
+ORD-10349,CUST-1269,2026-08-11,Portable Camping Stove,Cooking,1,1250.0,100,1150.0,PHP,Cash on Delivery,Makati,J&T Express,Delivered,5
+ORD-10349,CUST-1269,2026-08-11,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Cash on Delivery,Makati,J&T Express,Delivered,3
+ORD-10350,CUST-1110,2026-05-25,Portable Camping Stove,Cooking,1,1250.0,100,1150.0,PHP,Cash on Delivery,Davao City,LBC,Delivered,5
+ORD-10351,CUST-1189,2026-10-26,First Aid Survival Kit,Safety,1,550.0,50,500.0,PHP,GCash,Makati,J&T Express,Delivered,4
+ORD-10351,CUST-1189,2026-10-26,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,GCash,Makati,J&T Express,Delivered,4
+ORD-10351,CUST-1189,2026-10-26,Compact Microfiber Towel,Accessories,1,320.0,0,320.0,PHP,GCash,Makati,J&T Express,Delivered,5
+ORD-10351,CUST-1189,2026-10-26,UV Protection Windbreaker,Apparel,2,1750.0,0,3500.0,PHP,GCash,Makati,J&T Express,Delivered,4
+ORD-10352,CUST-1129,2026-09-16,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,Credit Card,Taguig,Ninja Van,Delivered,5
+ORD-10353,CUST-1257,2026-09-10,Portable Camping Stove,Cooking,1,1250.0,50,1200.0,PHP,Cash on Delivery,Dasmariñas,LBC,Delivered,5
+ORD-10353,CUST-1257,2026-09-10,Titanium Cookware Set,Cooking,2,1600.0,50,3150.0,PHP,Cash on Delivery,Dasmariñas,LBC,Delivered,5
+ORD-10353,CUST-1257,2026-09-10,Insulated Hydration Flask 1L,Hydration,1,799.0,50,749.0,PHP,Cash on Delivery,Dasmariñas,LBC,Delivered,3
+ORD-10353,CUST-1257,2026-09-10,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Cash on Delivery,Dasmariñas,LBC,Delivered,5
+ORD-10354,CUST-1251,2026-03-19,Portable Camping Stove,Cooking,1,1250.0,100,1150.0,PHP,GCash,Makati,LBC,Delivered,4
+ORD-10354,CUST-1251,2026-03-19,Titanium Cookware Set,Cooking,1,1600.0,100,1500.0,PHP,GCash,Makati,LBC,Delivered,5
+ORD-10355,CUST-1252,2026-02-27,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,GCash,Cebu City,Flash Express,Delivered,5
+ORD-10355,CUST-1252,2026-02-27,Merino Wool Hiking Socks,Footwear,2,390.0,0,780.0,PHP,GCash,Cebu City,Flash Express,Delivered,5
+ORD-10355,CUST-1252,2026-02-27,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,GCash,Cebu City,Flash Express,Delivered,4
+ORD-10355,CUST-1252,2026-02-27,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,GCash,Cebu City,Flash Express,Delivered,5
+ORD-10356,CUST-1191,2026-02-24,UV Protection Windbreaker,Apparel,2,1750.0,100,3400.0,PHP,Maya,Dasmariñas,J&T Express,Delivered,5
+ORD-10356,CUST-1191,2026-02-24,Waterproof Dry Bag 20L,Bags & Packs,2,480.0,0,960.0,PHP,Maya,Dasmariñas,J&T Express,Delivered,5
+ORD-10356,CUST-1191,2026-02-24,Hiking Backpack 50L,Bags & Packs,2,3499.0,50,6948.0,PHP,Maya,Dasmariñas,J&T Express,Delivered,5
+ORD-10356,CUST-1191,2026-02-24,Quick-Dry Hiking Pants,Apparel,1,1350.0,0,1350.0,PHP,Maya,Dasmariñas,J&T Express,Delivered,3
+ORD-10357,CUST-1195,2026-02-17,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Credit Card,Taguig,LBC,Delivered,4
+ORD-10357,CUST-1195,2026-02-17,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,100,1350.0,PHP,Credit Card,Taguig,LBC,Delivered,5
+ORD-10357,CUST-1195,2026-02-17,Thermal Sleeping Bag,Sleep Gear,2,1850.0,0,3700.0,PHP,Credit Card,Taguig,LBC,Delivered,5
+ORD-10357,CUST-1195,2026-02-17,First Aid Survival Kit,Safety,1,550.0,50,500.0,PHP,Credit Card,Taguig,LBC,Delivered,3
+ORD-10358,CUST-1102,2026-09-08,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Cash on Delivery,Makati,Ninja Van,Delivered,4
+ORD-10358,CUST-1102,2026-09-08,Hiking Backpack 50L,Bags & Packs,1,3499.0,100,3399.0,PHP,Cash on Delivery,Makati,Ninja Van,Delivered,5
+ORD-10358,CUST-1102,2026-09-08,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Cash on Delivery,Makati,Ninja Van,Delivered,5
+ORD-10359,CUST-1269,2026-09-26,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Credit Card,Quezon City,Ninja Van,Delivered,3
+ORD-10359,CUST-1269,2026-09-26,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Credit Card,Quezon City,Ninja Van,Delivered,3
+ORD-10359,CUST-1269,2026-09-26,Trekking Poles (Pair),Accessories,1,1100.0,100,1000.0,PHP,Credit Card,Quezon City,Ninja Van,Delivered,5
+ORD-10359,CUST-1269,2026-09-26,Multi-Tool Pocket Knife,Accessories,1,890.0,50,840.0,PHP,Credit Card,Quezon City,Ninja Van,Delivered,5
+ORD-10359,CUST-1269,2026-09-26,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Credit Card,Quezon City,Ninja Van,Delivered,3
+ORD-10360,CUST-1008,2026-02-28,Titanium Cookware Set,Cooking,1,1600.0,100,1500.0,PHP,Maya,Makati,LBC,Completed,5
+ORD-10361,CUST-1135,2026-06-24,Thermal Sleeping Bag,Sleep Gear,1,1850.0,100,1750.0,PHP,Maya,Cebu City,LBC,Delivered,5
+ORD-10361,CUST-1135,2026-06-24,2-Person Ultralight Tent,Shelter,1,5800.0,100,5700.0,PHP,Maya,Cebu City,LBC,Delivered,5
+ORD-10361,CUST-1135,2026-06-24,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,50,1400.0,PHP,Maya,Cebu City,LBC,Delivered,5
+ORD-10361,CUST-1135,2026-06-24,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,Maya,Cebu City,LBC,Delivered,5
+ORD-10361,CUST-1135,2026-06-24,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,Maya,Cebu City,LBC,Delivered,4
+ORD-10362,CUST-1008,2026-04-07,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Maya,Manila,Ninja Van,Delivered,5
+ORD-10362,CUST-1008,2026-04-07,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Maya,Manila,Ninja Van,Delivered,5
+ORD-10362,CUST-1008,2026-04-07,First Aid Survival Kit,Safety,2,550.0,100,1000.0,PHP,Maya,Manila,Ninja Van,Delivered,5
+ORD-10363,CUST-1241,2026-01-11,Waterproof Trekking Shoes,Footwear,1,4250.0,100,4150.0,PHP,Bank Transfer,Makati,LBC,Delivered,5
+ORD-10363,CUST-1241,2026-01-11,Quick-Dry Hiking Pants,Apparel,1,1350.0,50,1300.0,PHP,Bank Transfer,Makati,LBC,Delivered,4
+ORD-10363,CUST-1241,2026-01-11,Hiking Backpack 50L,Bags & Packs,1,3499.0,100,3399.0,PHP,Bank Transfer,Makati,LBC,Delivered,3
+ORD-10364,CUST-1249,2026-04-29,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,50,430.0,PHP,Bank Transfer,Manila,J&T Express,Delivered,5
+ORD-10364,CUST-1249,2026-04-29,Hiking Backpack 50L,Bags & Packs,1,3499.0,0,3499.0,PHP,Bank Transfer,Manila,J&T Express,Delivered,5
+ORD-10365,CUST-1147,2026-04-09,Quick-Dry Hiking Pants,Apparel,1,1350.0,50,1300.0,PHP,Credit Card,Makati,Ninja Van,Delivered,5
+ORD-10365,CUST-1147,2026-04-09,Solar Power Bank 20000mAh,Electronics,2,1490.0,50,2930.0,PHP,Credit Card,Makati,Ninja Van,Delivered,5
+ORD-10366,CUST-1082,2026-04-17,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,GCash,Baguio,Ninja Van,Delivered,3
+ORD-10366,CUST-1082,2026-04-17,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,GCash,Baguio,Ninja Van,Delivered,5
+ORD-10367,CUST-1133,2026-07-02,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,Maya,Cebu City,J&T Express,Completed,5
+ORD-10367,CUST-1133,2026-07-02,Trekking Poles (Pair),Accessories,1,1100.0,50,1050.0,PHP,Maya,Cebu City,J&T Express,Completed,5
+ORD-10368,CUST-1263,2026-02-23,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Cash on Delivery,Manila,Ninja Van,Completed,5
+ORD-10368,CUST-1263,2026-02-23,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,Cash on Delivery,Manila,Ninja Van,Completed,5
+ORD-10368,CUST-1263,2026-02-23,Compact Microfiber Towel,Accessories,1,320.0,100,220.0,PHP,Cash on Delivery,Manila,Ninja Van,Completed,4
+ORD-10368,CUST-1263,2026-02-23,2-Person Ultralight Tent,Shelter,1,5800.0,50,5750.0,PHP,Cash on Delivery,Manila,Ninja Van,Completed,5
+ORD-10369,CUST-1070,2026-03-04,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Cash on Delivery,Davao City,Ninja Van,Shipped,4
+ORD-10370,CUST-1136,2026-07-10,Waterproof Trekking Shoes,Footwear,2,4250.0,50,8450.0,PHP,Credit Card,Taguig,LBC,Delivered,4
+ORD-10370,CUST-1136,2026-07-10,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Credit Card,Taguig,LBC,Delivered,3
+ORD-10370,CUST-1136,2026-07-10,Trekking Poles (Pair),Accessories,2,1100.0,0,2200.0,PHP,Credit Card,Taguig,LBC,Delivered,5
+ORD-10370,CUST-1136,2026-07-10,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Credit Card,Taguig,LBC,Delivered,5
+ORD-10371,CUST-1031,2026-07-21,Multi-Tool Pocket Knife,Accessories,1,890.0,50,840.0,PHP,Maya,Manila,J&T Express,Completed,5
+ORD-10371,CUST-1031,2026-07-21,Titanium Cookware Set,Cooking,2,1600.0,0,3200.0,PHP,Maya,Manila,J&T Express,Completed,5
+ORD-10371,CUST-1031,2026-07-21,Waterproof Dry Bag 20L,Bags & Packs,2,480.0,0,960.0,PHP,Maya,Manila,J&T Express,Completed,5
+ORD-10371,CUST-1031,2026-07-21,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Maya,Manila,J&T Express,Completed,3
+ORD-10371,CUST-1031,2026-07-21,Quick-Dry Hiking Pants,Apparel,1,1350.0,100,1250.0,PHP,Maya,Manila,J&T Express,Completed,5
+ORD-10372,CUST-1207,2026-04-12,Inflatable Sleeping Pad,Sleep Gear,2,1450.0,50,2850.0,PHP,GCash,Baguio,J&T Express,Delivered,5
+ORD-10372,CUST-1207,2026-04-12,Multi-Tool Pocket Knife,Accessories,1,890.0,50,840.0,PHP,GCash,Baguio,J&T Express,Delivered,3
+ORD-10373,CUST-1174,2026-03-23,Multi-Tool Pocket Knife,Accessories,1,890.0,50,840.0,PHP,GCash,Manila,Flash Express,Delivered,4
+ORD-10373,CUST-1174,2026-03-23,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,GCash,Manila,Flash Express,Delivered,5
+ORD-10373,CUST-1174,2026-03-23,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,GCash,Manila,Flash Express,Delivered,5
+ORD-10373,CUST-1174,2026-03-23,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,GCash,Manila,Flash Express,Delivered,3
+ORD-10374,CUST-1289,2026-10-01,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Credit Card,Davao City,Flash Express,Delivered,5
+ORD-10374,CUST-1289,2026-10-01,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,Credit Card,Davao City,Flash Express,Delivered,5
+ORD-10374,CUST-1289,2026-10-01,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Credit Card,Davao City,Flash Express,Delivered,4
+ORD-10374,CUST-1289,2026-10-01,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Credit Card,Davao City,Flash Express,Delivered,5
+ORD-10375,CUST-1109,2026-08-17,Insulated Hydration Flask 1L,Hydration,2,799.0,100,1498.0,PHP,Credit Card,Quezon City,Ninja Van,Delivered,5
+ORD-10375,CUST-1109,2026-08-17,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Credit Card,Quezon City,Ninja Van,Delivered,3
+ORD-10375,CUST-1109,2026-08-17,Portable Camping Stove,Cooking,1,1250.0,100,1150.0,PHP,Credit Card,Quezon City,Ninja Van,Delivered,5
+ORD-10376,CUST-1262,2026-09-28,UV Protection Windbreaker,Apparel,1,1750.0,50,1700.0,PHP,Maya,Quezon City,Ninja Van,Delivered,4
+ORD-10376,CUST-1262,2026-09-28,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Maya,Quezon City,Ninja Van,Delivered,5
+ORD-10376,CUST-1262,2026-09-28,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,50,430.0,PHP,Maya,Quezon City,Ninja Van,Delivered,5
+ORD-10376,CUST-1262,2026-09-28,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Maya,Quezon City,Ninja Van,Delivered,5
+ORD-10377,CUST-1072,2026-08-04,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,50,1400.0,PHP,Credit Card,Manila,Flash Express,Delivered,3
+ORD-10377,CUST-1072,2026-08-04,Thermal Sleeping Bag,Sleep Gear,1,1850.0,50,1800.0,PHP,Credit Card,Manila,Flash Express,Delivered,5
+ORD-10377,CUST-1072,2026-08-04,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Credit Card,Manila,Flash Express,Delivered,5
+ORD-10377,CUST-1072,2026-08-04,Waterproof Trekking Shoes,Footwear,1,4250.0,100,4150.0,PHP,Credit Card,Manila,Flash Express,Delivered,5
+ORD-10378,CUST-1229,2026-03-18,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,50,1400.0,PHP,GCash,Dasmariñas,Ninja Van,Delivered,3
+ORD-10378,CUST-1229,2026-03-18,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,GCash,Dasmariñas,Ninja Van,Delivered,5
+ORD-10378,CUST-1229,2026-03-18,2-Person Ultralight Tent,Shelter,2,5800.0,0,11600.0,PHP,GCash,Dasmariñas,Ninja Van,Delivered,3
+ORD-10378,CUST-1229,2026-03-18,LED Rechargeable Headlamp,Lighting,1,650.0,100,550.0,PHP,GCash,Dasmariñas,Ninja Van,Delivered,3
+ORD-10378,CUST-1229,2026-03-18,Hiking Backpack 50L,Bags & Packs,2,3499.0,0,6998.0,PHP,GCash,Dasmariñas,Ninja Van,Delivered,3
+ORD-10379,CUST-1092,2026-01-10,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Maya,Baguio,LBC,Completed,5
+ORD-10379,CUST-1092,2026-01-10,Thermal Sleeping Bag,Sleep Gear,1,1850.0,100,1750.0,PHP,Maya,Baguio,LBC,Completed,4
+ORD-10379,CUST-1092,2026-01-10,2-Person Ultralight Tent,Shelter,2,5800.0,50,11550.0,PHP,Maya,Baguio,LBC,Completed,5
+ORD-10379,CUST-1092,2026-01-10,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Maya,Baguio,LBC,Completed,4
+ORD-10380,CUST-1277,2026-03-28,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Maya,Baguio,LBC,Delivered,3
+ORD-10381,CUST-1166,2026-04-03,Titanium Cookware Set,Cooking,2,1600.0,0,3200.0,PHP,GCash,Manila,Flash Express,Delivered,4
+ORD-10381,CUST-1166,2026-04-03,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,GCash,Manila,Flash Express,Delivered,5
+ORD-10382,CUST-1260,2026-09-16,Hiking Backpack 50L,Bags & Packs,2,3499.0,0,6998.0,PHP,GCash,Taguig,Flash Express,Delivered,5
+ORD-10382,CUST-1260,2026-09-16,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,GCash,Taguig,Flash Express,Delivered,5
+ORD-10382,CUST-1260,2026-09-16,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,GCash,Taguig,Flash Express,Delivered,5
+ORD-10383,CUST-1290,2026-07-28,LED Rechargeable Headlamp,Lighting,1,650.0,100,550.0,PHP,GCash,Makati,LBC,Shipped,3
+ORD-10384,CUST-1231,2026-01-22,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,100,380.0,PHP,Cash on Delivery,Manila,Flash Express,Delivered,5
+ORD-10384,CUST-1231,2026-01-22,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Cash on Delivery,Manila,Flash Express,Delivered,3
+ORD-10385,CUST-1261,2026-05-25,Trekking Poles (Pair),Accessories,2,1100.0,0,2200.0,PHP,Maya,Manila,J&T Express,Delivered,3
+ORD-10385,CUST-1261,2026-05-25,Merino Wool Hiking Socks,Footwear,1,390.0,50,340.0,PHP,Maya,Manila,J&T Express,Delivered,5
+ORD-10386,CUST-1133,2026-08-20,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Maya,Baguio,Flash Express,Delivered,4
+ORD-10386,CUST-1133,2026-08-20,2-Person Ultralight Tent,Shelter,1,5800.0,100,5700.0,PHP,Maya,Baguio,Flash Express,Delivered,3
+ORD-10386,CUST-1133,2026-08-20,Thermal Sleeping Bag,Sleep Gear,2,1850.0,100,3600.0,PHP,Maya,Baguio,Flash Express,Delivered,5
+ORD-10387,CUST-1275,2026-02-11,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Bank Transfer,Quezon City,J&T Express,Completed,4
+ORD-10387,CUST-1275,2026-02-11,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Bank Transfer,Quezon City,J&T Express,Completed,5
+ORD-10387,CUST-1275,2026-02-11,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Bank Transfer,Quezon City,J&T Express,Completed,5
+ORD-10387,CUST-1275,2026-02-11,First Aid Survival Kit,Safety,1,550.0,50,500.0,PHP,Bank Transfer,Quezon City,J&T Express,Completed,5
+ORD-10388,CUST-1046,2026-06-05,Trekking Poles (Pair),Accessories,1,1100.0,100,1000.0,PHP,Maya,Davao City,Ninja Van,Completed,4
+ORD-10389,CUST-1142,2026-10-19,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Maya,Makati,LBC,Delivered,5
+ORD-10389,CUST-1142,2026-10-19,Multi-Tool Pocket Knife,Accessories,2,890.0,0,1780.0,PHP,Maya,Makati,LBC,Delivered,3
+ORD-10389,CUST-1142,2026-10-19,First Aid Survival Kit,Safety,1,550.0,50,500.0,PHP,Maya,Makati,LBC,Delivered,5
+ORD-10390,CUST-1011,2026-09-30,Thermal Sleeping Bag,Sleep Gear,1,1850.0,100,1750.0,PHP,Bank Transfer,Baguio,Ninja Van,Delivered,5
+ORD-10390,CUST-1011,2026-09-30,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Bank Transfer,Baguio,Ninja Van,Delivered,5
+ORD-10390,CUST-1011,2026-09-30,2-Person Ultralight Tent,Shelter,1,5800.0,100,5700.0,PHP,Bank Transfer,Baguio,Ninja Van,Delivered,3
+ORD-10391,CUST-1229,2026-06-11,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,Cash on Delivery,Manila,LBC,Delivered,5
+ORD-10391,CUST-1229,2026-06-11,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Cash on Delivery,Manila,LBC,Delivered,4
+ORD-10391,CUST-1229,2026-06-11,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Cash on Delivery,Manila,LBC,Delivered,3
+ORD-10391,CUST-1229,2026-06-11,Solar Power Bank 20000mAh,Electronics,1,1490.0,50,1440.0,PHP,Cash on Delivery,Manila,LBC,Delivered,5
+ORD-10392,CUST-1126,2026-02-25,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Maya,Makati,Flash Express,Completed,4
+ORD-10392,CUST-1126,2026-02-25,Merino Wool Hiking Socks,Footwear,2,390.0,100,680.0,PHP,Maya,Makati,Flash Express,Completed,5
+ORD-10392,CUST-1126,2026-02-25,Trekking Poles (Pair),Accessories,2,1100.0,0,2200.0,PHP,Maya,Makati,Flash Express,Completed,5
+ORD-10392,CUST-1126,2026-02-25,Solar Power Bank 20000mAh,Electronics,1,1490.0,100,1390.0,PHP,Maya,Makati,Flash Express,Completed,4
+ORD-10393,CUST-1154,2026-08-10,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,GCash,Quezon City,J&T Express,Delivered,5
+ORD-10393,CUST-1154,2026-08-10,Thermal Sleeping Bag,Sleep Gear,1,1850.0,100,1750.0,PHP,GCash,Quezon City,J&T Express,Delivered,3
+ORD-10394,CUST-1051,2026-06-23,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Cash on Delivery,Manila,Flash Express,Delivered,3
+ORD-10395,CUST-1064,2026-09-18,Waterproof Trekking Shoes,Footwear,1,4250.0,100,4150.0,PHP,Credit Card,Baguio,Ninja Van,Delivered,3
+ORD-10395,CUST-1064,2026-09-18,Trekking Poles (Pair),Accessories,2,1100.0,50,2150.0,PHP,Credit Card,Baguio,Ninja Van,Delivered,5
+ORD-10395,CUST-1064,2026-09-18,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Credit Card,Baguio,Ninja Van,Delivered,5
+ORD-10396,CUST-1240,2026-06-08,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Credit Card,Dasmariñas,Flash Express,Completed,5
+ORD-10396,CUST-1240,2026-06-08,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Credit Card,Dasmariñas,Flash Express,Completed,4
+ORD-10396,CUST-1240,2026-06-08,Merino Wool Hiking Socks,Footwear,1,390.0,100,290.0,PHP,Credit Card,Dasmariñas,Flash Express,Completed,5
+ORD-10397,CUST-1169,2026-10-24,Thermal Sleeping Bag,Sleep Gear,2,1850.0,0,3700.0,PHP,Bank Transfer,Dasmariñas,Flash Express,Delivered,5
+ORD-10397,CUST-1169,2026-10-24,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Bank Transfer,Dasmariñas,Flash Express,Delivered,5
+ORD-10398,CUST-1246,2026-06-19,Thermal Sleeping Bag,Sleep Gear,1,1850.0,50,1800.0,PHP,Maya,Taguig,Ninja Van,Delivered,4
+ORD-10398,CUST-1246,2026-06-19,2-Person Ultralight Tent,Shelter,2,5800.0,0,11600.0,PHP,Maya,Taguig,Ninja Van,Delivered,5
+ORD-10398,CUST-1246,2026-06-19,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Maya,Taguig,Ninja Van,Delivered,5
+ORD-10398,CUST-1246,2026-06-19,Titanium Cookware Set,Cooking,1,1600.0,50,1550.0,PHP,Maya,Taguig,Ninja Van,Delivered,3
+ORD-10398,CUST-1246,2026-06-19,Solar Power Bank 20000mAh,Electronics,1,1490.0,0,1490.0,PHP,Maya,Taguig,Ninja Van,Delivered,4
+ORD-10399,CUST-1090,2026-05-15,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,GCash,Quezon City,LBC,Delivered,3
+ORD-10399,CUST-1090,2026-05-15,Trekking Poles (Pair),Accessories,2,1100.0,100,2100.0,PHP,GCash,Quezon City,LBC,Delivered,4
+ORD-10399,CUST-1090,2026-05-15,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,GCash,Quezon City,LBC,Delivered,5
+ORD-10399,CUST-1090,2026-05-15,UV Protection Windbreaker,Apparel,1,1750.0,100,1650.0,PHP,GCash,Quezon City,LBC,Delivered,5
+ORD-10400,CUST-1162,2026-08-08,Waterproof Trekking Shoes,Footwear,2,4250.0,100,8400.0,PHP,GCash,Davao City,LBC,Completed,5
+ORD-10400,CUST-1162,2026-08-08,Merino Wool Hiking Socks,Footwear,1,390.0,100,290.0,PHP,GCash,Davao City,LBC,Completed,3
+ORD-10401,CUST-1033,2026-03-27,Insulated Hydration Flask 1L,Hydration,1,799.0,100,699.0,PHP,Bank Transfer,Taguig,Flash Express,Delivered,3
+ORD-10401,CUST-1033,2026-03-27,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Bank Transfer,Taguig,Flash Express,Delivered,5
+ORD-10401,CUST-1033,2026-03-27,Portable Camping Stove,Cooking,2,1250.0,100,2400.0,PHP,Bank Transfer,Taguig,Flash Express,Delivered,5
+ORD-10402,CUST-1202,2026-04-22,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Cash on Delivery,Baguio,Ninja Van,Delivered,3
+ORD-10402,CUST-1202,2026-04-22,Multi-Tool Pocket Knife,Accessories,1,890.0,50,840.0,PHP,Cash on Delivery,Baguio,Ninja Van,Delivered,5
+ORD-10402,CUST-1202,2026-04-22,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,Cash on Delivery,Baguio,Ninja Van,Delivered,5
+ORD-10402,CUST-1202,2026-04-22,Titanium Cookware Set,Cooking,1,1600.0,100,1500.0,PHP,Cash on Delivery,Baguio,Ninja Van,Delivered,5
+ORD-10402,CUST-1202,2026-04-22,Solar Power Bank 20000mAh,Electronics,1,1490.0,0,1490.0,PHP,Cash on Delivery,Baguio,Ninja Van,Delivered,5
+ORD-10403,CUST-1226,2026-04-30,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,GCash,Baguio,Flash Express,Completed,4
+ORD-10403,CUST-1226,2026-04-30,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,GCash,Baguio,Flash Express,Completed,4
+ORD-10404,CUST-1279,2026-04-13,Portable Camping Stove,Cooking,1,1250.0,50,1200.0,PHP,Maya,Dasmariñas,Flash Express,Delivered,4
+ORD-10404,CUST-1279,2026-04-13,Trekking Poles (Pair),Accessories,1,1100.0,50,1050.0,PHP,Maya,Dasmariñas,Flash Express,Delivered,5
+ORD-10404,CUST-1279,2026-04-13,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,100,1350.0,PHP,Maya,Dasmariñas,Flash Express,Delivered,5
+ORD-10404,CUST-1279,2026-04-13,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,0,480.0,PHP,Maya,Dasmariñas,Flash Express,Delivered,5
+ORD-10405,CUST-1262,2026-03-18,Multi-Tool Pocket Knife,Accessories,1,890.0,100,790.0,PHP,Maya,Taguig,LBC,Shipped,5
+ORD-10405,CUST-1262,2026-03-18,First Aid Survival Kit,Safety,1,550.0,50,500.0,PHP,Maya,Taguig,LBC,Shipped,5
+ORD-10406,CUST-1219,2026-08-02,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Cash on Delivery,Davao City,Ninja Van,Completed,5
+ORD-10407,CUST-1181,2026-06-23,Compact Microfiber Towel,Accessories,1,320.0,0,320.0,PHP,Cash on Delivery,Davao City,Ninja Van,Delivered,5
+ORD-10407,CUST-1181,2026-06-23,Titanium Cookware Set,Cooking,1,1600.0,50,1550.0,PHP,Cash on Delivery,Davao City,Ninja Van,Delivered,3
+ORD-10407,CUST-1181,2026-06-23,Quick-Dry Hiking Pants,Apparel,1,1350.0,100,1250.0,PHP,Cash on Delivery,Davao City,Ninja Van,Delivered,5
+ORD-10408,CUST-1104,2026-07-20,Solar Power Bank 20000mAh,Electronics,1,1490.0,50,1440.0,PHP,Bank Transfer,Quezon City,Ninja Van,Delivered,4
+ORD-10409,CUST-1087,2026-02-23,First Aid Survival Kit,Safety,1,550.0,50,500.0,PHP,GCash,Cebu City,Ninja Van,Delivered,3
+ORD-10409,CUST-1087,2026-02-23,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,GCash,Cebu City,Ninja Van,Delivered,5
+ORD-10410,CUST-1265,2026-01-06,Waterproof Dry Bag 20L,Bags & Packs,2,480.0,50,910.0,PHP,Credit Card,Cebu City,Ninja Van,Delivered,5
+ORD-10410,CUST-1265,2026-01-06,Hiking Backpack 50L,Bags & Packs,1,3499.0,100,3399.0,PHP,Credit Card,Cebu City,Ninja Van,Delivered,5
+ORD-10410,CUST-1265,2026-01-06,UV Protection Windbreaker,Apparel,1,1750.0,50,1700.0,PHP,Credit Card,Cebu City,Ninja Van,Delivered,3
+ORD-10410,CUST-1265,2026-01-06,Trekking Poles (Pair),Accessories,1,1100.0,100,1000.0,PHP,Credit Card,Cebu City,Ninja Van,Delivered,5
+ORD-10410,CUST-1265,2026-01-06,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Credit Card,Cebu City,Ninja Van,Delivered,5
+ORD-10411,CUST-1032,2026-07-24,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,Bank Transfer,Davao City,Flash Express,Completed,5
+ORD-10411,CUST-1032,2026-07-24,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Bank Transfer,Davao City,Flash Express,Completed,5
+ORD-10411,CUST-1032,2026-07-24,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,Bank Transfer,Davao City,Flash Express,Completed,5
+ORD-10411,CUST-1032,2026-07-24,Solar Power Bank 20000mAh,Electronics,1,1490.0,0,1490.0,PHP,Bank Transfer,Davao City,Flash Express,Completed,3
+ORD-10412,CUST-1048,2026-07-21,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Maya,Manila,LBC,Delivered,5
+ORD-10412,CUST-1048,2026-07-21,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Maya,Manila,LBC,Delivered,3
+ORD-10412,CUST-1048,2026-07-21,Thermal Sleeping Bag,Sleep Gear,1,1850.0,50,1800.0,PHP,Maya,Manila,LBC,Delivered,5
+ORD-10413,CUST-1230,2026-03-26,Solar Power Bank 20000mAh,Electronics,1,1490.0,100,1390.0,PHP,Maya,Baguio,J&T Express,Delivered,5
+ORD-10414,CUST-1203,2026-01-20,Solar Power Bank 20000mAh,Electronics,1,1490.0,0,1490.0,PHP,Credit Card,Manila,J&T Express,Shipped,4
+ORD-10415,CUST-1280,2026-05-05,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,100,1350.0,PHP,Maya,Makati,Ninja Van,Completed,5
+ORD-10415,CUST-1280,2026-05-05,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Maya,Makati,Ninja Van,Completed,5
+ORD-10415,CUST-1280,2026-05-05,Thermal Sleeping Bag,Sleep Gear,1,1850.0,50,1800.0,PHP,Maya,Makati,Ninja Van,Completed,5
+ORD-10415,CUST-1280,2026-05-05,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Maya,Makati,Ninja Van,Completed,3
+ORD-10416,CUST-1110,2026-08-15,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Bank Transfer,Manila,J&T Express,Delivered,5
+ORD-10416,CUST-1110,2026-08-15,Thermal Sleeping Bag,Sleep Gear,2,1850.0,0,3700.0,PHP,Bank Transfer,Manila,J&T Express,Delivered,4
+ORD-10417,CUST-1008,2026-08-04,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,GCash,Manila,Flash Express,Completed,5
+ORD-10417,CUST-1008,2026-08-04,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,GCash,Manila,Flash Express,Completed,3
+ORD-10417,CUST-1008,2026-08-04,Thermal Sleeping Bag,Sleep Gear,1,1850.0,100,1750.0,PHP,GCash,Manila,Flash Express,Completed,5
+ORD-10418,CUST-1061,2026-04-29,Hiking Backpack 50L,Bags & Packs,1,3499.0,100,3399.0,PHP,GCash,Davao City,Flash Express,Delivered,5
+ORD-10419,CUST-1033,2026-05-23,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,GCash,Dasmariñas,J&T Express,Completed,3
+ORD-10419,CUST-1033,2026-05-23,Thermal Sleeping Bag,Sleep Gear,1,1850.0,100,1750.0,PHP,GCash,Dasmariñas,J&T Express,Completed,5
+ORD-10419,CUST-1033,2026-05-23,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,GCash,Dasmariñas,J&T Express,Completed,5
+ORD-10420,CUST-1034,2026-06-21,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Bank Transfer,Manila,Ninja Van,Delivered,5
+ORD-10420,CUST-1034,2026-06-21,LED Rechargeable Headlamp,Lighting,1,650.0,100,550.0,PHP,Bank Transfer,Manila,Ninja Van,Delivered,5
+ORD-10420,CUST-1034,2026-06-21,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,Bank Transfer,Manila,Ninja Van,Delivered,5
+ORD-10421,CUST-1191,2026-09-13,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,Maya,Baguio,LBC,Delivered,3
+ORD-10421,CUST-1191,2026-09-13,Multi-Tool Pocket Knife,Accessories,1,890.0,100,790.0,PHP,Maya,Baguio,LBC,Delivered,5
+ORD-10421,CUST-1191,2026-09-13,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Maya,Baguio,LBC,Delivered,5
+ORD-10422,CUST-1175,2026-05-05,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Bank Transfer,Davao City,J&T Express,Completed,4
+ORD-10422,CUST-1175,2026-05-05,Merino Wool Hiking Socks,Footwear,2,390.0,0,780.0,PHP,Bank Transfer,Davao City,J&T Express,Completed,5
+ORD-10422,CUST-1175,2026-05-05,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,Bank Transfer,Davao City,J&T Express,Completed,5
+ORD-10423,CUST-1064,2026-02-16,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Bank Transfer,Cebu City,LBC,Delivered,5
+ORD-10424,CUST-1217,2026-04-01,Hiking Backpack 50L,Bags & Packs,1,3499.0,100,3399.0,PHP,Credit Card,Davao City,Flash Express,Delivered,3
+ORD-10424,CUST-1217,2026-04-01,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,100,380.0,PHP,Credit Card,Davao City,Flash Express,Delivered,5
+ORD-10424,CUST-1217,2026-04-01,UV Protection Windbreaker,Apparel,1,1750.0,100,1650.0,PHP,Credit Card,Davao City,Flash Express,Delivered,4
+ORD-10424,CUST-1217,2026-04-01,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,Credit Card,Davao City,Flash Express,Delivered,4
+ORD-10424,CUST-1217,2026-04-01,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,Credit Card,Davao City,Flash Express,Delivered,3
+ORD-10425,CUST-1275,2026-03-20,First Aid Survival Kit,Safety,1,550.0,100,450.0,PHP,Credit Card,Cebu City,Ninja Van,Delivered,5
+ORD-10425,CUST-1275,2026-03-20,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Credit Card,Cebu City,Ninja Van,Delivered,4
+ORD-10425,CUST-1275,2026-03-20,Multi-Tool Pocket Knife,Accessories,1,890.0,50,840.0,PHP,Credit Card,Cebu City,Ninja Van,Delivered,5
+ORD-10426,CUST-1207,2026-08-01,Hiking Backpack 50L,Bags & Packs,2,3499.0,0,6998.0,PHP,Credit Card,Taguig,Ninja Van,Delivered,5
+ORD-10426,CUST-1207,2026-08-01,UV Protection Windbreaker,Apparel,1,1750.0,50,1700.0,PHP,Credit Card,Taguig,Ninja Van,Delivered,5
+ORD-10426,CUST-1207,2026-08-01,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,100,380.0,PHP,Credit Card,Taguig,Ninja Van,Delivered,5
+ORD-10427,CUST-1029,2026-07-17,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Maya,Taguig,LBC,Delivered,4
+ORD-10427,CUST-1029,2026-07-17,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Maya,Taguig,LBC,Delivered,5
+ORD-10427,CUST-1029,2026-07-17,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Maya,Taguig,LBC,Delivered,3
+ORD-10427,CUST-1029,2026-07-17,Solar Power Bank 20000mAh,Electronics,2,1490.0,100,2880.0,PHP,Maya,Taguig,LBC,Delivered,5
+ORD-10427,CUST-1029,2026-07-17,Portable Camping Stove,Cooking,1,1250.0,50,1200.0,PHP,Maya,Taguig,LBC,Delivered,5
+ORD-10428,CUST-1256,2026-09-30,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Bank Transfer,Taguig,Flash Express,Shipped,5
+ORD-10428,CUST-1256,2026-09-30,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Bank Transfer,Taguig,Flash Express,Shipped,5
+ORD-10428,CUST-1256,2026-09-30,UV Protection Windbreaker,Apparel,1,1750.0,0,1750.0,PHP,Bank Transfer,Taguig,Flash Express,Shipped,4
+ORD-10428,CUST-1256,2026-09-30,Waterproof Dry Bag 20L,Bags & Packs,1,480.0,100,380.0,PHP,Bank Transfer,Taguig,Flash Express,Shipped,3
+ORD-10429,CUST-1213,2026-05-28,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Maya,Taguig,LBC,Delivered,5
+ORD-10429,CUST-1213,2026-05-28,Waterproof Trekking Shoes,Footwear,1,4250.0,100,4150.0,PHP,Maya,Taguig,LBC,Delivered,5
+ORD-10429,CUST-1213,2026-05-28,Merino Wool Hiking Socks,Footwear,1,390.0,0,390.0,PHP,Maya,Taguig,LBC,Delivered,5
+ORD-10429,CUST-1213,2026-05-28,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Maya,Taguig,LBC,Delivered,5
+ORD-10430,CUST-1063,2026-05-22,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Credit Card,Quezon City,J&T Express,Delivered,3
+ORD-10430,CUST-1063,2026-05-22,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,Credit Card,Quezon City,J&T Express,Delivered,4
+ORD-10430,CUST-1063,2026-05-22,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Credit Card,Quezon City,J&T Express,Delivered,5
+ORD-10431,CUST-1266,2026-05-17,Titanium Cookware Set,Cooking,2,1600.0,100,3100.0,PHP,Cash on Delivery,Makati,Flash Express,Delivered,5
+ORD-10431,CUST-1266,2026-05-17,Portable Camping Stove,Cooking,1,1250.0,50,1200.0,PHP,Cash on Delivery,Makati,Flash Express,Delivered,5
+ORD-10432,CUST-1051,2026-01-02,Insulated Hydration Flask 1L,Hydration,1,799.0,100,699.0,PHP,Cash on Delivery,Makati,LBC,Delivered,3
+ORD-10433,CUST-1211,2026-04-07,Quick-Dry Hiking Pants,Apparel,1,1350.0,0,1350.0,PHP,Credit Card,Manila,J&T Express,Delivered,5
+ORD-10433,CUST-1211,2026-04-07,Solar Power Bank 20000mAh,Electronics,1,1490.0,100,1390.0,PHP,Credit Card,Manila,J&T Express,Delivered,4
+ORD-10433,CUST-1211,2026-04-07,Insulated Hydration Flask 1L,Hydration,1,799.0,50,749.0,PHP,Credit Card,Manila,J&T Express,Delivered,3
+ORD-10433,CUST-1211,2026-04-07,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,Credit Card,Manila,J&T Express,Delivered,3
+ORD-10434,CUST-1292,2026-09-16,First Aid Survival Kit,Safety,2,550.0,0,1100.0,PHP,Maya,Manila,Ninja Van,Shipped,5
+ORD-10434,CUST-1292,2026-09-16,LED Rechargeable Headlamp,Lighting,1,650.0,0,650.0,PHP,Maya,Manila,Ninja Van,Shipped,5
+ORD-10435,CUST-1108,2026-03-29,Quick-Dry Hiking Pants,Apparel,2,1350.0,50,2650.0,PHP,GCash,Quezon City,Ninja Van,Completed,5
+ORD-10436,CUST-1131,2026-09-01,2-Person Ultralight Tent,Shelter,2,5800.0,100,11500.0,PHP,Maya,Quezon City,Ninja Van,Delivered,3
+ORD-10436,CUST-1131,2026-09-01,Quick-Dry Hiking Pants,Apparel,2,1350.0,100,2600.0,PHP,Maya,Quezon City,Ninja Van,Delivered,5
+ORD-10436,CUST-1131,2026-09-01,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,Maya,Quezon City,Ninja Van,Delivered,5
+ORD-10437,CUST-1044,2026-02-27,Quick-Dry Hiking Pants,Apparel,2,1350.0,0,2700.0,PHP,Credit Card,Quezon City,LBC,Shipped,5
+ORD-10438,CUST-1031,2026-10-02,Trekking Poles (Pair),Accessories,1,1100.0,0,1100.0,PHP,Cash on Delivery,Davao City,Ninja Van,Delivered,3
+ORD-10438,CUST-1031,2026-10-02,Waterproof Trekking Shoes,Footwear,2,4250.0,50,8450.0,PHP,Cash on Delivery,Davao City,Ninja Van,Delivered,5
+ORD-10439,CUST-1151,2026-04-23,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,Cash on Delivery,Makati,LBC,Delivered,3
+ORD-10440,CUST-1063,2026-05-21,Portable Camping Stove,Cooking,2,1250.0,100,2400.0,PHP,Maya,Makati,Ninja Van,Delivered,5
+ORD-10440,CUST-1063,2026-05-21,Insulated Hydration Flask 1L,Hydration,2,799.0,0,1598.0,PHP,Maya,Makati,Ninja Van,Delivered,4
+ORD-10440,CUST-1063,2026-05-21,Titanium Cookware Set,Cooking,1,1600.0,50,1550.0,PHP,Maya,Makati,Ninja Van,Delivered,5
+ORD-10440,CUST-1063,2026-05-21,Waterproof Trekking Shoes,Footwear,1,4250.0,50,4200.0,PHP,Maya,Makati,Ninja Van,Delivered,5
+ORD-10440,CUST-1063,2026-05-21,LED Rechargeable Headlamp,Lighting,1,650.0,50,600.0,PHP,Maya,Makati,Ninja Van,Delivered,5
+ORD-10441,CUST-1099,2026-10-08,Waterproof Trekking Shoes,Footwear,1,4250.0,0,4250.0,PHP,GCash,Taguig,LBC,Delivered,5
+ORD-10441,CUST-1099,2026-10-08,Titanium Cookware Set,Cooking,1,1600.0,50,1550.0,PHP,GCash,Taguig,LBC,Delivered,5
+ORD-10441,CUST-1099,2026-10-08,Solar Power Bank 20000mAh,Electronics,1,1490.0,0,1490.0,PHP,GCash,Taguig,LBC,Delivered,4
+ORD-10441,CUST-1099,2026-10-08,Quick-Dry Hiking Pants,Apparel,1,1350.0,0,1350.0,PHP,GCash,Taguig,LBC,Delivered,5
+ORD-10442,CUST-1192,2026-08-07,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,GCash,Cebu City,J&T Express,Delivered,5
+ORD-10442,CUST-1192,2026-08-07,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,GCash,Cebu City,J&T Express,Delivered,5
+ORD-10442,CUST-1192,2026-08-07,Quick-Dry Hiking Pants,Apparel,1,1350.0,50,1300.0,PHP,GCash,Cebu City,J&T Express,Delivered,3
+ORD-10443,CUST-1088,2026-07-12,2-Person Ultralight Tent,Shelter,1,5800.0,0,5800.0,PHP,Cash on Delivery,Quezon City,Ninja Van,Delivered,4
+ORD-10443,CUST-1088,2026-07-12,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,100,1350.0,PHP,Cash on Delivery,Quezon City,Ninja Van,Delivered,5
+ORD-10443,CUST-1088,2026-07-12,Thermal Sleeping Bag,Sleep Gear,1,1850.0,0,1850.0,PHP,Cash on Delivery,Quezon City,Ninja Van,Delivered,3
+ORD-10444,CUST-1092,2026-07-16,Compact Microfiber Towel,Accessories,1,320.0,0,320.0,PHP,Cash on Delivery,Makati,Flash Express,Delivered,5
+ORD-10445,CUST-1284,2026-10-02,2-Person Ultralight Tent,Shelter,1,5800.0,100,5700.0,PHP,GCash,Makati,J&T Express,Shipped,5
+ORD-10445,CUST-1284,2026-10-02,Inflatable Sleeping Pad,Sleep Gear,1,1450.0,0,1450.0,PHP,GCash,Makati,J&T Express,Shipped,3
+ORD-10446,CUST-1105,2026-03-24,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Bank Transfer,Quezon City,Flash Express,Completed,5
+ORD-10447,CUST-1000,2026-05-08,Insulated Hydration Flask 1L,Hydration,1,799.0,0,799.0,PHP,GCash,Baguio,Flash Express,Delivered,5
+ORD-10447,CUST-1000,2026-05-08,Titanium Cookware Set,Cooking,1,1600.0,0,1600.0,PHP,GCash,Baguio,Flash Express,Delivered,5
+ORD-10447,CUST-1000,2026-05-08,Portable Camping Stove,Cooking,2,1250.0,0,2500.0,PHP,GCash,Baguio,Flash Express,Delivered,5
+ORD-10448,CUST-1282,2026-04-21,Titanium Cookware Set,Cooking,1,1600.0,50,1550.0,PHP,Credit Card,Dasmariñas,LBC,Shipped,5
+ORD-10448,CUST-1282,2026-04-21,Portable Camping Stove,Cooking,2,1250.0,0,2500.0,PHP,Credit Card,Dasmariñas,LBC,Shipped,3
+ORD-10448,CUST-1282,2026-04-21,Insulated Hydration Flask 1L,Hydration,1,799.0,50,749.0,PHP,Credit Card,Dasmariñas,LBC,Shipped,5
+ORD-10449,CUST-1190,2026-10-16,LED Rechargeable Headlamp,Lighting,1,650.0,100,550.0,PHP,Cash on Delivery,Cebu City,LBC,Delivered,4
+ORD-10449,CUST-1190,2026-10-16,Multi-Tool Pocket Knife,Accessories,1,890.0,0,890.0,PHP,Cash on Delivery,Cebu City,LBC,Delivered,5
+ORD-10449,CUST-1190,2026-10-16,First Aid Survival Kit,Safety,2,550.0,50,1050.0,PHP,Cash on Delivery,Cebu City,LBC,Delivered,5
+ORD-10449,CUST-1190,2026-10-16,Thermal Sleeping Bag,Sleep Gear,2,1850.0,0,3700.0,PHP,Cash on Delivery,Cebu City,LBC,Delivered,5
+ORD-10450,CUST-1005,2026-02-20,Multi-Tool Pocket Knife,Accessories,1,890.0,50,840.0,PHP,Maya,Taguig,Ninja Van,Completed,3
+ORD-10450,CUST-1005,2026-02-20,First Aid Survival Kit,Safety,1,550.0,0,550.0,PHP,Maya,Taguig,Ninja Van,Completed,4
+ORD-10450,CUST-1005,2026-02-20,LED Rechargeable Headlamp,Lighting,1,650.0,100,550.0,PHP,Maya,Taguig,Ninja Van,Completed,5
+ORD-10450,CUST-1005,2026-02-20,Thermal Sleeping Bag,Sleep Gear,1,1850.0,100,1750.0,PHP,Maya,Taguig,Ninja Van,Completed,5
+ORD-99999,,2026-05-01,,Unknown,1,-500.0,0,-500.0,PHP,GCash,Manila,J&T Express,Cancelled,1
